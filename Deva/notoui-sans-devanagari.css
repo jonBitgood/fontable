@@ -4,12 +4,8 @@
     font-weight: 900;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-devanagari/NotoSansDevanagariUI-Black.woff2") format("woff2"),
-         url("/notoui-sans-devanagari/NotoSansDevanagariUI-Black.woff") format("woff");
-}
-
-.font-deva {
-    font-family: notoui-sans-devanagari;
+    src: url("notoui-sans-devanagari/NotoSansDevanagariUI-Black.woff2") format("woff2"),
+         url("notoui-sans-devanagari/NotoSansDevanagariUI-Black.woff") format("woff");
 }
 
 @font-face {
@@ -17,12 +13,8 @@
     font-weight: 700;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-devanagari/NotoSansDevanagariUI-Bold.woff2") format("woff2"),
-         url("/notoui-sans-devanagari/NotoSansDevanagariUI-Bold.woff") format("woff");
-}
-
-.font-deva {
-    font-family: notoui-sans-devanagari;
+    src: url("notoui-sans-devanagari/NotoSansDevanagariUI-Bold.woff2") format("woff2"),
+         url("notoui-sans-devanagari/NotoSansDevanagariUI-Bold.woff") format("woff");
 }
 
 @font-face {
@@ -30,12 +22,8 @@
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-devanagari/NotoSansDevanagariUI-Condensed.woff2") format("woff2"),
-         url("/notoui-sans-devanagari/NotoSansDevanagariUI-Condensed.woff") format("woff");
-}
-
-.font-deva {
-    font-family: notoui-sans-devanagari;
+    src: url("notoui-sans-devanagari/NotoSansDevanagariUI-Condensed.woff2") format("woff2"),
+         url("notoui-sans-devanagari/NotoSansDevanagariUI-Condensed.woff") format("woff");
 }
 
 @font-face {
@@ -43,12 +31,8 @@
     font-weight: 900;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-devanagari/NotoSansDevanagariUI-CondensedBlack.woff2") format("woff2"),
-         url("/notoui-sans-devanagari/NotoSansDevanagariUI-CondensedBlack.woff") format("woff");
-}
-
-.font-deva {
-    font-family: notoui-sans-devanagari;
+    src: url("notoui-sans-devanagari/NotoSansDevanagariUI-CondensedBlack.woff2") format("woff2"),
+         url("notoui-sans-devanagari/NotoSansDevanagariUI-CondensedBlack.woff") format("woff");
 }
 
 @font-face {
@@ -56,12 +40,8 @@
     font-weight: 700;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-devanagari/NotoSansDevanagariUI-CondensedBold.woff2") format("woff2"),
-         url("/notoui-sans-devanagari/NotoSansDevanagariUI-CondensedBold.woff") format("woff");
-}
-
-.font-deva {
-    font-family: notoui-sans-devanagari;
+    src: url("notoui-sans-devanagari/NotoSansDevanagariUI-CondensedBold.woff2") format("woff2"),
+         url("notoui-sans-devanagari/NotoSansDevanagariUI-CondensedBold.woff") format("woff");
 }
 
 @font-face {
@@ -69,12 +49,8 @@
     font-weight: 700;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-devanagari/NotoSansDevanagariUI-CondensedExtraBold.woff2") format("woff2"),
-         url("/notoui-sans-devanagari/NotoSansDevanagariUI-CondensedExtraBold.woff") format("woff");
-}
-
-.font-deva {
-    font-family: notoui-sans-devanagari;
+    src: url("notoui-sans-devanagari/NotoSansDevanagariUI-CondensedExtraBold.woff2") format("woff2"),
+         url("notoui-sans-devanagari/NotoSansDevanagariUI-CondensedExtraBold.woff") format("woff");
 }
 
 @font-face {
@@ -82,12 +58,8 @@
     font-weight: 300;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-devanagari/NotoSansDevanagariUI-CondensedExtraLight.woff2") format("woff2"),
-         url("/notoui-sans-devanagari/NotoSansDevanagariUI-CondensedExtraLight.woff") format("woff");
-}
-
-.font-deva {
-    font-family: notoui-sans-devanagari;
+    src: url("notoui-sans-devanagari/NotoSansDevanagariUI-CondensedExtraLight.woff2") format("woff2"),
+         url("notoui-sans-devanagari/NotoSansDevanagariUI-CondensedExtraLight.woff") format("woff");
 }
 
 @font-face {
@@ -95,12 +67,8 @@
     font-weight: 300;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-devanagari/NotoSansDevanagariUI-CondensedLight.woff2") format("woff2"),
-         url("/notoui-sans-devanagari/NotoSansDevanagariUI-CondensedLight.woff") format("woff");
-}
-
-.font-deva {
-    font-family: notoui-sans-devanagari;
+    src: url("notoui-sans-devanagari/NotoSansDevanagariUI-CondensedLight.woff2") format("woff2"),
+         url("notoui-sans-devanagari/NotoSansDevanagariUI-CondensedLight.woff") format("woff");
 }
 
 @font-face {
@@ -108,12 +76,8 @@
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-devanagari/NotoSansDevanagariUI-CondensedMedium.woff2") format("woff2"),
-         url("/notoui-sans-devanagari/NotoSansDevanagariUI-CondensedMedium.woff") format("woff");
-}
-
-.font-deva {
-    font-family: notoui-sans-devanagari;
+    src: url("notoui-sans-devanagari/NotoSansDevanagariUI-CondensedMedium.woff2") format("woff2"),
+         url("notoui-sans-devanagari/NotoSansDevanagariUI-CondensedMedium.woff") format("woff");
 }
 
 @font-face {
@@ -121,12 +85,8 @@
     font-weight: 600;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-devanagari/NotoSansDevanagariUI-CondensedSemiBold.woff2") format("woff2"),
-         url("/notoui-sans-devanagari/NotoSansDevanagariUI-CondensedSemiBold.woff") format("woff");
-}
-
-.font-deva {
-    font-family: notoui-sans-devanagari;
+    src: url("notoui-sans-devanagari/NotoSansDevanagariUI-CondensedSemiBold.woff2") format("woff2"),
+         url("notoui-sans-devanagari/NotoSansDevanagariUI-CondensedSemiBold.woff") format("woff");
 }
 
 @font-face {
@@ -134,12 +94,8 @@
     font-weight: 100;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-devanagari/NotoSansDevanagariUI-CondensedThin.woff2") format("woff2"),
-         url("/notoui-sans-devanagari/NotoSansDevanagariUI-CondensedThin.woff") format("woff");
-}
-
-.font-deva {
-    font-family: notoui-sans-devanagari;
+    src: url("notoui-sans-devanagari/NotoSansDevanagariUI-CondensedThin.woff2") format("woff2"),
+         url("notoui-sans-devanagari/NotoSansDevanagariUI-CondensedThin.woff") format("woff");
 }
 
 @font-face {
@@ -147,12 +103,8 @@
     font-weight: 700;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-devanagari/NotoSansDevanagariUI-ExtraBold.woff2") format("woff2"),
-         url("/notoui-sans-devanagari/NotoSansDevanagariUI-ExtraBold.woff") format("woff");
-}
-
-.font-deva {
-    font-family: notoui-sans-devanagari;
+    src: url("notoui-sans-devanagari/NotoSansDevanagariUI-ExtraBold.woff2") format("woff2"),
+         url("notoui-sans-devanagari/NotoSansDevanagariUI-ExtraBold.woff") format("woff");
 }
 
 @font-face {
@@ -160,12 +112,8 @@
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-devanagari/NotoSansDevanagariUI-ExtraCondensed.woff2") format("woff2"),
-         url("/notoui-sans-devanagari/NotoSansDevanagariUI-ExtraCondensed.woff") format("woff");
-}
-
-.font-deva {
-    font-family: notoui-sans-devanagari;
+    src: url("notoui-sans-devanagari/NotoSansDevanagariUI-ExtraCondensed.woff2") format("woff2"),
+         url("notoui-sans-devanagari/NotoSansDevanagariUI-ExtraCondensed.woff") format("woff");
 }
 
 @font-face {
@@ -173,12 +121,8 @@
     font-weight: 900;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-devanagari/NotoSansDevanagariUI-ExtraCondensedBlack.woff2") format("woff2"),
-         url("/notoui-sans-devanagari/NotoSansDevanagariUI-ExtraCondensedBlack.woff") format("woff");
-}
-
-.font-deva {
-    font-family: notoui-sans-devanagari;
+    src: url("notoui-sans-devanagari/NotoSansDevanagariUI-ExtraCondensedBlack.woff2") format("woff2"),
+         url("notoui-sans-devanagari/NotoSansDevanagariUI-ExtraCondensedBlack.woff") format("woff");
 }
 
 @font-face {
@@ -186,12 +130,8 @@
     font-weight: 700;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-devanagari/NotoSansDevanagariUI-ExtraCondensedBold.woff2") format("woff2"),
-         url("/notoui-sans-devanagari/NotoSansDevanagariUI-ExtraCondensedBold.woff") format("woff");
-}
-
-.font-deva {
-    font-family: notoui-sans-devanagari;
+    src: url("notoui-sans-devanagari/NotoSansDevanagariUI-ExtraCondensedBold.woff2") format("woff2"),
+         url("notoui-sans-devanagari/NotoSansDevanagariUI-ExtraCondensedBold.woff") format("woff");
 }
 
 @font-face {
@@ -199,12 +139,8 @@
     font-weight: 700;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-devanagari/NotoSansDevanagariUI-ExtraCondensedExtraBold.woff2") format("woff2"),
-         url("/notoui-sans-devanagari/NotoSansDevanagariUI-ExtraCondensedExtraBold.woff") format("woff");
-}
-
-.font-deva {
-    font-family: notoui-sans-devanagari;
+    src: url("notoui-sans-devanagari/NotoSansDevanagariUI-ExtraCondensedExtraBold.woff2") format("woff2"),
+         url("notoui-sans-devanagari/NotoSansDevanagariUI-ExtraCondensedExtraBold.woff") format("woff");
 }
 
 @font-face {
@@ -212,12 +148,8 @@
     font-weight: 300;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-devanagari/NotoSansDevanagariUI-ExtraCondensedExtraLight.woff2") format("woff2"),
-         url("/notoui-sans-devanagari/NotoSansDevanagariUI-ExtraCondensedExtraLight.woff") format("woff");
-}
-
-.font-deva {
-    font-family: notoui-sans-devanagari;
+    src: url("notoui-sans-devanagari/NotoSansDevanagariUI-ExtraCondensedExtraLight.woff2") format("woff2"),
+         url("notoui-sans-devanagari/NotoSansDevanagariUI-ExtraCondensedExtraLight.woff") format("woff");
 }
 
 @font-face {
@@ -225,12 +157,8 @@
     font-weight: 300;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-devanagari/NotoSansDevanagariUI-ExtraCondensedLight.woff2") format("woff2"),
-         url("/notoui-sans-devanagari/NotoSansDevanagariUI-ExtraCondensedLight.woff") format("woff");
-}
-
-.font-deva {
-    font-family: notoui-sans-devanagari;
+    src: url("notoui-sans-devanagari/NotoSansDevanagariUI-ExtraCondensedLight.woff2") format("woff2"),
+         url("notoui-sans-devanagari/NotoSansDevanagariUI-ExtraCondensedLight.woff") format("woff");
 }
 
 @font-face {
@@ -238,12 +166,8 @@
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-devanagari/NotoSansDevanagariUI-ExtraCondensedMedium.woff2") format("woff2"),
-         url("/notoui-sans-devanagari/NotoSansDevanagariUI-ExtraCondensedMedium.woff") format("woff");
-}
-
-.font-deva {
-    font-family: notoui-sans-devanagari;
+    src: url("notoui-sans-devanagari/NotoSansDevanagariUI-ExtraCondensedMedium.woff2") format("woff2"),
+         url("notoui-sans-devanagari/NotoSansDevanagariUI-ExtraCondensedMedium.woff") format("woff");
 }
 
 @font-face {
@@ -251,12 +175,8 @@
     font-weight: 600;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-devanagari/NotoSansDevanagariUI-ExtraCondensedSemiBold.woff2") format("woff2"),
-         url("/notoui-sans-devanagari/NotoSansDevanagariUI-ExtraCondensedSemiBold.woff") format("woff");
-}
-
-.font-deva {
-    font-family: notoui-sans-devanagari;
+    src: url("notoui-sans-devanagari/NotoSansDevanagariUI-ExtraCondensedSemiBold.woff2") format("woff2"),
+         url("notoui-sans-devanagari/NotoSansDevanagariUI-ExtraCondensedSemiBold.woff") format("woff");
 }
 
 @font-face {
@@ -264,12 +184,8 @@
     font-weight: 100;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-devanagari/NotoSansDevanagariUI-ExtraCondensedThin.woff2") format("woff2"),
-         url("/notoui-sans-devanagari/NotoSansDevanagariUI-ExtraCondensedThin.woff") format("woff");
-}
-
-.font-deva {
-    font-family: notoui-sans-devanagari;
+    src: url("notoui-sans-devanagari/NotoSansDevanagariUI-ExtraCondensedThin.woff2") format("woff2"),
+         url("notoui-sans-devanagari/NotoSansDevanagariUI-ExtraCondensedThin.woff") format("woff");
 }
 
 @font-face {
@@ -277,12 +193,8 @@
     font-weight: 300;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-devanagari/NotoSansDevanagariUI-ExtraLight.woff2") format("woff2"),
-         url("/notoui-sans-devanagari/NotoSansDevanagariUI-ExtraLight.woff") format("woff");
-}
-
-.font-deva {
-    font-family: notoui-sans-devanagari;
+    src: url("notoui-sans-devanagari/NotoSansDevanagariUI-ExtraLight.woff2") format("woff2"),
+         url("notoui-sans-devanagari/NotoSansDevanagariUI-ExtraLight.woff") format("woff");
 }
 
 @font-face {
@@ -290,12 +202,8 @@
     font-weight: 300;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-devanagari/NotoSansDevanagariUI-Light.woff2") format("woff2"),
-         url("/notoui-sans-devanagari/NotoSansDevanagariUI-Light.woff") format("woff");
-}
-
-.font-deva {
-    font-family: notoui-sans-devanagari;
+    src: url("notoui-sans-devanagari/NotoSansDevanagariUI-Light.woff2") format("woff2"),
+         url("notoui-sans-devanagari/NotoSansDevanagariUI-Light.woff") format("woff");
 }
 
 @font-face {
@@ -303,12 +211,8 @@
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-devanagari/NotoSansDevanagariUI-Medium.woff2") format("woff2"),
-         url("/notoui-sans-devanagari/NotoSansDevanagariUI-Medium.woff") format("woff");
-}
-
-.font-deva {
-    font-family: notoui-sans-devanagari;
+    src: url("notoui-sans-devanagari/NotoSansDevanagariUI-Medium.woff2") format("woff2"),
+         url("notoui-sans-devanagari/NotoSansDevanagariUI-Medium.woff") format("woff");
 }
 
 @font-face {
@@ -316,12 +220,8 @@
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-devanagari/NotoSansDevanagariUI-Regular.woff2") format("woff2"),
-         url("/notoui-sans-devanagari/NotoSansDevanagariUI-Regular.woff") format("woff");
-}
-
-.font-deva {
-    font-family: notoui-sans-devanagari;
+    src: url("notoui-sans-devanagari/NotoSansDevanagariUI-Regular.woff2") format("woff2"),
+         url("notoui-sans-devanagari/NotoSansDevanagariUI-Regular.woff") format("woff");
 }
 
 @font-face {
@@ -329,12 +229,8 @@
     font-weight: 600;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-devanagari/NotoSansDevanagariUI-SemiBold.woff2") format("woff2"),
-         url("/notoui-sans-devanagari/NotoSansDevanagariUI-SemiBold.woff") format("woff");
-}
-
-.font-deva {
-    font-family: notoui-sans-devanagari;
+    src: url("notoui-sans-devanagari/NotoSansDevanagariUI-SemiBold.woff2") format("woff2"),
+         url("notoui-sans-devanagari/NotoSansDevanagariUI-SemiBold.woff") format("woff");
 }
 
 @font-face {
@@ -342,12 +238,8 @@
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-devanagari/NotoSansDevanagariUI-SemiCondensed.woff2") format("woff2"),
-         url("/notoui-sans-devanagari/NotoSansDevanagariUI-SemiCondensed.woff") format("woff");
-}
-
-.font-deva {
-    font-family: notoui-sans-devanagari;
+    src: url("notoui-sans-devanagari/NotoSansDevanagariUI-SemiCondensed.woff2") format("woff2"),
+         url("notoui-sans-devanagari/NotoSansDevanagariUI-SemiCondensed.woff") format("woff");
 }
 
 @font-face {
@@ -355,12 +247,8 @@
     font-weight: 900;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-devanagari/NotoSansDevanagariUI-SemiCondensedBlack.woff2") format("woff2"),
-         url("/notoui-sans-devanagari/NotoSansDevanagariUI-SemiCondensedBlack.woff") format("woff");
-}
-
-.font-deva {
-    font-family: notoui-sans-devanagari;
+    src: url("notoui-sans-devanagari/NotoSansDevanagariUI-SemiCondensedBlack.woff2") format("woff2"),
+         url("notoui-sans-devanagari/NotoSansDevanagariUI-SemiCondensedBlack.woff") format("woff");
 }
 
 @font-face {
@@ -368,12 +256,8 @@
     font-weight: 700;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-devanagari/NotoSansDevanagariUI-SemiCondensedBold.woff2") format("woff2"),
-         url("/notoui-sans-devanagari/NotoSansDevanagariUI-SemiCondensedBold.woff") format("woff");
-}
-
-.font-deva {
-    font-family: notoui-sans-devanagari;
+    src: url("notoui-sans-devanagari/NotoSansDevanagariUI-SemiCondensedBold.woff2") format("woff2"),
+         url("notoui-sans-devanagari/NotoSansDevanagariUI-SemiCondensedBold.woff") format("woff");
 }
 
 @font-face {
@@ -381,12 +265,8 @@
     font-weight: 700;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-devanagari/NotoSansDevanagariUI-SemiCondensedExtraBold.woff2") format("woff2"),
-         url("/notoui-sans-devanagari/NotoSansDevanagariUI-SemiCondensedExtraBold.woff") format("woff");
-}
-
-.font-deva {
-    font-family: notoui-sans-devanagari;
+    src: url("notoui-sans-devanagari/NotoSansDevanagariUI-SemiCondensedExtraBold.woff2") format("woff2"),
+         url("notoui-sans-devanagari/NotoSansDevanagariUI-SemiCondensedExtraBold.woff") format("woff");
 }
 
 @font-face {
@@ -394,12 +274,8 @@
     font-weight: 300;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-devanagari/NotoSansDevanagariUI-SemiCondensedExtraLight.woff2") format("woff2"),
-         url("/notoui-sans-devanagari/NotoSansDevanagariUI-SemiCondensedExtraLight.woff") format("woff");
-}
-
-.font-deva {
-    font-family: notoui-sans-devanagari;
+    src: url("notoui-sans-devanagari/NotoSansDevanagariUI-SemiCondensedExtraLight.woff2") format("woff2"),
+         url("notoui-sans-devanagari/NotoSansDevanagariUI-SemiCondensedExtraLight.woff") format("woff");
 }
 
 @font-face {
@@ -407,12 +283,8 @@
     font-weight: 300;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-devanagari/NotoSansDevanagariUI-SemiCondensedLight.woff2") format("woff2"),
-         url("/notoui-sans-devanagari/NotoSansDevanagariUI-SemiCondensedLight.woff") format("woff");
-}
-
-.font-deva {
-    font-family: notoui-sans-devanagari;
+    src: url("notoui-sans-devanagari/NotoSansDevanagariUI-SemiCondensedLight.woff2") format("woff2"),
+         url("notoui-sans-devanagari/NotoSansDevanagariUI-SemiCondensedLight.woff") format("woff");
 }
 
 @font-face {
@@ -420,12 +292,8 @@
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-devanagari/NotoSansDevanagariUI-SemiCondensedMedium.woff2") format("woff2"),
-         url("/notoui-sans-devanagari/NotoSansDevanagariUI-SemiCondensedMedium.woff") format("woff");
-}
-
-.font-deva {
-    font-family: notoui-sans-devanagari;
+    src: url("notoui-sans-devanagari/NotoSansDevanagariUI-SemiCondensedMedium.woff2") format("woff2"),
+         url("notoui-sans-devanagari/NotoSansDevanagariUI-SemiCondensedMedium.woff") format("woff");
 }
 
 @font-face {
@@ -433,12 +301,8 @@
     font-weight: 600;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-devanagari/NotoSansDevanagariUI-SemiCondensedSemiBold.woff2") format("woff2"),
-         url("/notoui-sans-devanagari/NotoSansDevanagariUI-SemiCondensedSemiBold.woff") format("woff");
-}
-
-.font-deva {
-    font-family: notoui-sans-devanagari;
+    src: url("notoui-sans-devanagari/NotoSansDevanagariUI-SemiCondensedSemiBold.woff2") format("woff2"),
+         url("notoui-sans-devanagari/NotoSansDevanagariUI-SemiCondensedSemiBold.woff") format("woff");
 }
 
 @font-face {
@@ -446,12 +310,8 @@
     font-weight: 100;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-devanagari/NotoSansDevanagariUI-SemiCondensedThin.woff2") format("woff2"),
-         url("/notoui-sans-devanagari/NotoSansDevanagariUI-SemiCondensedThin.woff") format("woff");
-}
-
-.font-deva {
-    font-family: notoui-sans-devanagari;
+    src: url("notoui-sans-devanagari/NotoSansDevanagariUI-SemiCondensedThin.woff2") format("woff2"),
+         url("notoui-sans-devanagari/NotoSansDevanagariUI-SemiCondensedThin.woff") format("woff");
 }
 
 @font-face {
@@ -459,8 +319,8 @@
     font-weight: 100;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-devanagari/NotoSansDevanagariUI-Thin.woff2") format("woff2"),
-         url("/notoui-sans-devanagari/NotoSansDevanagariUI-Thin.woff") format("woff");
+    src: url("notoui-sans-devanagari/NotoSansDevanagariUI-Thin.woff2") format("woff2"),
+         url("notoui-sans-devanagari/NotoSansDevanagariUI-Thin.woff") format("woff");
 }
 
 .font-deva {

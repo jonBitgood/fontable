@@ -4,12 +4,8 @@
     font-weight: 900;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-sans-symbols/NotoSansSymbols-Black.woff2") format("woff2"),
-         url("/noto-sans-symbols/NotoSansSymbols-Black.woff") format("woff");
-}
-
-.font-zzzz {
-    font-family: noto-sans-symbols;
+    src: url("noto-sans-symbols/NotoSansSymbols-Black.woff2") format("woff2"),
+         url("noto-sans-symbols/NotoSansSymbols-Black.woff") format("woff");
 }
 
 @font-face {
@@ -17,12 +13,8 @@
     font-weight: 700;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-sans-symbols/NotoSansSymbols-Bold.woff2") format("woff2"),
-         url("/noto-sans-symbols/NotoSansSymbols-Bold.woff") format("woff");
-}
-
-.font-zzzz {
-    font-family: noto-sans-symbols;
+    src: url("noto-sans-symbols/NotoSansSymbols-Bold.woff2") format("woff2"),
+         url("noto-sans-symbols/NotoSansSymbols-Bold.woff") format("woff");
 }
 
 @font-face {
@@ -30,12 +22,8 @@
     font-weight: 700;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-sans-symbols/NotoSansSymbols-ExtraBold.woff2") format("woff2"),
-         url("/noto-sans-symbols/NotoSansSymbols-ExtraBold.woff") format("woff");
-}
-
-.font-zzzz {
-    font-family: noto-sans-symbols;
+    src: url("noto-sans-symbols/NotoSansSymbols-ExtraBold.woff2") format("woff2"),
+         url("noto-sans-symbols/NotoSansSymbols-ExtraBold.woff") format("woff");
 }
 
 @font-face {
@@ -43,12 +31,8 @@
     font-weight: 300;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-sans-symbols/NotoSansSymbols-ExtraLight.woff2") format("woff2"),
-         url("/noto-sans-symbols/NotoSansSymbols-ExtraLight.woff") format("woff");
-}
-
-.font-zzzz {
-    font-family: noto-sans-symbols;
+    src: url("noto-sans-symbols/NotoSansSymbols-ExtraLight.woff2") format("woff2"),
+         url("noto-sans-symbols/NotoSansSymbols-ExtraLight.woff") format("woff");
 }
 
 @font-face {
@@ -56,12 +40,8 @@
     font-weight: 300;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-sans-symbols/NotoSansSymbols-Light.woff2") format("woff2"),
-         url("/noto-sans-symbols/NotoSansSymbols-Light.woff") format("woff");
-}
-
-.font-zzzz {
-    font-family: noto-sans-symbols;
+    src: url("noto-sans-symbols/NotoSansSymbols-Light.woff2") format("woff2"),
+         url("noto-sans-symbols/NotoSansSymbols-Light.woff") format("woff");
 }
 
 @font-face {
@@ -69,12 +49,8 @@
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-sans-symbols/NotoSansSymbols-Medium.woff2") format("woff2"),
-         url("/noto-sans-symbols/NotoSansSymbols-Medium.woff") format("woff");
-}
-
-.font-zzzz {
-    font-family: noto-sans-symbols;
+    src: url("noto-sans-symbols/NotoSansSymbols-Medium.woff2") format("woff2"),
+         url("noto-sans-symbols/NotoSansSymbols-Medium.woff") format("woff");
 }
 
 @font-face {
@@ -82,12 +58,8 @@
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-sans-symbols/NotoSansSymbols-Regular.woff2") format("woff2"),
-         url("/noto-sans-symbols/NotoSansSymbols-Regular.woff") format("woff");
-}
-
-.font-zzzz {
-    font-family: noto-sans-symbols;
+    src: url("noto-sans-symbols/NotoSansSymbols-Regular.woff2") format("woff2"),
+         url("noto-sans-symbols/NotoSansSymbols-Regular.woff") format("woff");
 }
 
 @font-face {
@@ -95,12 +67,8 @@
     font-weight: 600;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-sans-symbols/NotoSansSymbols-SemiBold.woff2") format("woff2"),
-         url("/noto-sans-symbols/NotoSansSymbols-SemiBold.woff") format("woff");
-}
-
-.font-zzzz {
-    font-family: noto-sans-symbols;
+    src: url("noto-sans-symbols/NotoSansSymbols-SemiBold.woff2") format("woff2"),
+         url("noto-sans-symbols/NotoSansSymbols-SemiBold.woff") format("woff");
 }
 
 @font-face {
@@ -108,12 +76,8 @@
     font-weight: 100;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-sans-symbols/NotoSansSymbols-Thin.woff2") format("woff2"),
-         url("/noto-sans-symbols/NotoSansSymbols-Thin.woff") format("woff");
-}
-
-.font-zzzz {
-    font-family: noto-sans-symbols;
+    src: url("noto-sans-symbols/NotoSansSymbols-Thin.woff2") format("woff2"),
+         url("noto-sans-symbols/NotoSansSymbols-Thin.woff") format("woff");
 }
 
 @font-face {
@@ -121,8 +85,8 @@
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-sans-symbols/NotoSansSymbols2-Regular.woff2") format("woff2"),
-         url("/noto-sans-symbols/NotoSansSymbols2-Regular.woff") format("woff");
+    src: url("noto-sans-symbols/NotoSansSymbols2-Regular.woff2") format("woff2"),
+         url("noto-sans-symbols/NotoSansSymbols2-Regular.woff") format("woff");
 }
 
 .font-zzzz {

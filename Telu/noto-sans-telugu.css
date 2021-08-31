@@ -4,12 +4,8 @@
     font-weight: 700;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-sans-telugu/NotoSansTelugu-Bold.woff2") format("woff2"),
-         url("/noto-sans-telugu/NotoSansTelugu-Bold.woff") format("woff");
-}
-
-.font-telu {
-    font-family: noto-sans-telugu;
+    src: url("noto-sans-telugu/NotoSansTelugu-Bold.woff2") format("woff2"),
+         url("noto-sans-telugu/NotoSansTelugu-Bold.woff") format("woff");
 }
 
 @font-face {
@@ -17,8 +13,8 @@
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-sans-telugu/NotoSansTelugu-Regular.woff2") format("woff2"),
-         url("/noto-sans-telugu/NotoSansTelugu-Regular.woff") format("woff");
+    src: url("noto-sans-telugu/NotoSansTelugu-Regular.woff2") format("woff2"),
+         url("noto-sans-telugu/NotoSansTelugu-Regular.woff") format("woff");
 }
 
 .font-telu {

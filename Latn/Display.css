@@ -4,12 +4,8 @@
     font-weight: 900;
     font-style: normal;
     font-display: swap;
-    src: url("/Display/NotoSansDisplay-Black.woff2") format("woff2"),
-         url("/Display/NotoSansDisplay-Black.woff") format("woff");
-}
-
-.font-latn {
-    font-family: Display;
+    src: url("Display/NotoSansDisplay-Black.woff2") format("woff2"),
+         url("Display/NotoSansDisplay-Black.woff") format("woff");
 }
 
 @font-face {
@@ -17,12 +13,8 @@
     font-weight: 900;
     font-style: 100;
     font-display: swap;
-    src: url("/Display/NotoSansDisplay-BlackItalic.woff2") format("woff2"),
-         url("/Display/NotoSansDisplay-BlackItalic.woff") format("woff");
-}
-
-.font-latn {
-    font-family: Display;
+    src: url("Display/NotoSansDisplay-BlackItalic.woff2") format("woff2"),
+         url("Display/NotoSansDisplay-BlackItalic.woff") format("woff");
 }
 
 @font-face {
@@ -30,12 +22,8 @@
     font-weight: 700;
     font-style: normal;
     font-display: swap;
-    src: url("/Display/NotoSansDisplay-Bold.woff2") format("woff2"),
-         url("/Display/NotoSansDisplay-Bold.woff") format("woff");
-}
-
-.font-latn {
-    font-family: Display;
+    src: url("Display/NotoSansDisplay-Bold.woff2") format("woff2"),
+         url("Display/NotoSansDisplay-Bold.woff") format("woff");
 }
 
 @font-face {
@@ -43,12 +31,8 @@
     font-weight: 700;
     font-style: 100;
     font-display: swap;
-    src: url("/Display/NotoSansDisplay-BoldItalic.woff2") format("woff2"),
-         url("/Display/NotoSansDisplay-BoldItalic.woff") format("woff");
-}
-
-.font-latn {
-    font-family: Display;
+    src: url("Display/NotoSansDisplay-BoldItalic.woff2") format("woff2"),
+         url("Display/NotoSansDisplay-BoldItalic.woff") format("woff");
 }
 
 @font-face {
@@ -56,12 +40,8 @@
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url("/Display/NotoSansDisplay-Condensed.woff2") format("woff2"),
-         url("/Display/NotoSansDisplay-Condensed.woff") format("woff");
-}
-
-.font-latn {
-    font-family: Display;
+    src: url("Display/NotoSansDisplay-Condensed.woff2") format("woff2"),
+         url("Display/NotoSansDisplay-Condensed.woff") format("woff");
 }
 
 @font-face {
@@ -69,12 +49,8 @@
     font-weight: 900;
     font-style: normal;
     font-display: swap;
-    src: url("/Display/NotoSansDisplay-CondensedBlack.woff2") format("woff2"),
-         url("/Display/NotoSansDisplay-CondensedBlack.woff") format("woff");
-}
-
-.font-latn {
-    font-family: Display;
+    src: url("Display/NotoSansDisplay-CondensedBlack.woff2") format("woff2"),
+         url("Display/NotoSansDisplay-CondensedBlack.woff") format("woff");
 }
 
 @font-face {
@@ -82,12 +58,8 @@
     font-weight: 900;
     font-style: 100;
     font-display: swap;
-    src: url("/Display/NotoSansDisplay-CondensedBlackItalic.woff2") format("woff2"),
-         url("/Display/NotoSansDisplay-CondensedBlackItalic.woff") format("woff");
-}
-
-.font-latn {
-    font-family: Display;
+    src: url("Display/NotoSansDisplay-CondensedBlackItalic.woff2") format("woff2"),
+         url("Display/NotoSansDisplay-CondensedBlackItalic.woff") format("woff");
 }
 
 @font-face {
@@ -95,12 +67,8 @@
     font-weight: 700;
     font-style: normal;
     font-display: swap;
-    src: url("/Display/NotoSansDisplay-CondensedBold.woff2") format("woff2"),
-         url("/Display/NotoSansDisplay-CondensedBold.woff") format("woff");
-}
-
-.font-latn {
-    font-family: Display;
+    src: url("Display/NotoSansDisplay-CondensedBold.woff2") format("woff2"),
+         url("Display/NotoSansDisplay-CondensedBold.woff") format("woff");
 }
 
 @font-face {
@@ -108,12 +76,8 @@
     font-weight: 700;
     font-style: 100;
     font-display: swap;
-    src: url("/Display/NotoSansDisplay-CondensedBoldItalic.woff2") format("woff2"),
-         url("/Display/NotoSansDisplay-CondensedBoldItalic.woff") format("woff");
-}
-
-.font-latn {
-    font-family: Display;
+    src: url("Display/NotoSansDisplay-CondensedBoldItalic.woff2") format("woff2"),
+         url("Display/NotoSansDisplay-CondensedBoldItalic.woff") format("woff");
 }
 
 @font-face {
@@ -121,12 +85,8 @@
     font-weight: 700;
     font-style: normal;
     font-display: swap;
-    src: url("/Display/NotoSansDisplay-CondensedExtraBold.woff2") format("woff2"),
-         url("/Display/NotoSansDisplay-CondensedExtraBold.woff") format("woff");
-}
-
-.font-latn {
-    font-family: Display;
+    src: url("Display/NotoSansDisplay-CondensedExtraBold.woff2") format("woff2"),
+         url("Display/NotoSansDisplay-CondensedExtraBold.woff") format("woff");
 }
 
 @font-face {
@@ -134,12 +94,8 @@
     font-weight: 700;
     font-style: 100;
     font-display: swap;
-    src: url("/Display/NotoSansDisplay-CondensedExtraBoldItalic.woff2") format("woff2"),
-         url("/Display/NotoSansDisplay-CondensedExtraBoldItalic.woff") format("woff");
-}
-
-.font-latn {
-    font-family: Display;
+    src: url("Display/NotoSansDisplay-CondensedExtraBoldItalic.woff2") format("woff2"),
+         url("Display/NotoSansDisplay-CondensedExtraBoldItalic.woff") format("woff");
 }
 
 @font-face {
@@ -147,12 +103,8 @@
     font-weight: 300;
     font-style: normal;
     font-display: swap;
-    src: url("/Display/NotoSansDisplay-CondensedExtraLight.woff2") format("woff2"),
-         url("/Display/NotoSansDisplay-CondensedExtraLight.woff") format("woff");
-}
-
-.font-latn {
-    font-family: Display;
+    src: url("Display/NotoSansDisplay-CondensedExtraLight.woff2") format("woff2"),
+         url("Display/NotoSansDisplay-CondensedExtraLight.woff") format("woff");
 }
 
 @font-face {
@@ -160,12 +112,8 @@
     font-weight: 300;
     font-style: 100;
     font-display: swap;
-    src: url("/Display/NotoSansDisplay-CondensedExtraLightItalic.woff2") format("woff2"),
-         url("/Display/NotoSansDisplay-CondensedExtraLightItalic.woff") format("woff");
-}
-
-.font-latn {
-    font-family: Display;
+    src: url("Display/NotoSansDisplay-CondensedExtraLightItalic.woff2") format("woff2"),
+         url("Display/NotoSansDisplay-CondensedExtraLightItalic.woff") format("woff");
 }
 
 @font-face {
@@ -173,12 +121,8 @@
     font-weight: 400;
     font-style: 100;
     font-display: swap;
-    src: url("/Display/NotoSansDisplay-CondensedItalic.woff2") format("woff2"),
-         url("/Display/NotoSansDisplay-CondensedItalic.woff") format("woff");
-}
-
-.font-latn {
-    font-family: Display;
+    src: url("Display/NotoSansDisplay-CondensedItalic.woff2") format("woff2"),
+         url("Display/NotoSansDisplay-CondensedItalic.woff") format("woff");
 }
 
 @font-face {
@@ -186,12 +130,8 @@
     font-weight: 300;
     font-style: normal;
     font-display: swap;
-    src: url("/Display/NotoSansDisplay-CondensedLight.woff2") format("woff2"),
-         url("/Display/NotoSansDisplay-CondensedLight.woff") format("woff");
-}
-
-.font-latn {
-    font-family: Display;
+    src: url("Display/NotoSansDisplay-CondensedLight.woff2") format("woff2"),
+         url("Display/NotoSansDisplay-CondensedLight.woff") format("woff");
 }
 
 @font-face {
@@ -199,12 +139,8 @@
     font-weight: 300;
     font-style: 100;
     font-display: swap;
-    src: url("/Display/NotoSansDisplay-CondensedLightItalic.woff2") format("woff2"),
-         url("/Display/NotoSansDisplay-CondensedLightItalic.woff") format("woff");
-}
-
-.font-latn {
-    font-family: Display;
+    src: url("Display/NotoSansDisplay-CondensedLightItalic.woff2") format("woff2"),
+         url("Display/NotoSansDisplay-CondensedLightItalic.woff") format("woff");
 }
 
 @font-face {
@@ -212,12 +148,8 @@
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url("/Display/NotoSansDisplay-CondensedMedium.woff2") format("woff2"),
-         url("/Display/NotoSansDisplay-CondensedMedium.woff") format("woff");
-}
-
-.font-latn {
-    font-family: Display;
+    src: url("Display/NotoSansDisplay-CondensedMedium.woff2") format("woff2"),
+         url("Display/NotoSansDisplay-CondensedMedium.woff") format("woff");
 }
 
 @font-face {
@@ -225,12 +157,8 @@
     font-weight: 400;
     font-style: 100;
     font-display: swap;
-    src: url("/Display/NotoSansDisplay-CondensedMediumItalic.woff2") format("woff2"),
-         url("/Display/NotoSansDisplay-CondensedMediumItalic.woff") format("woff");
-}
-
-.font-latn {
-    font-family: Display;
+    src: url("Display/NotoSansDisplay-CondensedMediumItalic.woff2") format("woff2"),
+         url("Display/NotoSansDisplay-CondensedMediumItalic.woff") format("woff");
 }
 
 @font-face {
@@ -238,12 +166,8 @@
     font-weight: 600;
     font-style: normal;
     font-display: swap;
-    src: url("/Display/NotoSansDisplay-CondensedSemiBold.woff2") format("woff2"),
-         url("/Display/NotoSansDisplay-CondensedSemiBold.woff") format("woff");
-}
-
-.font-latn {
-    font-family: Display;
+    src: url("Display/NotoSansDisplay-CondensedSemiBold.woff2") format("woff2"),
+         url("Display/NotoSansDisplay-CondensedSemiBold.woff") format("woff");
 }
 
 @font-face {
@@ -251,12 +175,8 @@
     font-weight: 600;
     font-style: 100;
     font-display: swap;
-    src: url("/Display/NotoSansDisplay-CondensedSemiBoldItalic.woff2") format("woff2"),
-         url("/Display/NotoSansDisplay-CondensedSemiBoldItalic.woff") format("woff");
-}
-
-.font-latn {
-    font-family: Display;
+    src: url("Display/NotoSansDisplay-CondensedSemiBoldItalic.woff2") format("woff2"),
+         url("Display/NotoSansDisplay-CondensedSemiBoldItalic.woff") format("woff");
 }
 
 @font-face {
@@ -264,12 +184,8 @@
     font-weight: 100;
     font-style: normal;
     font-display: swap;
-    src: url("/Display/NotoSansDisplay-CondensedThin.woff2") format("woff2"),
-         url("/Display/NotoSansDisplay-CondensedThin.woff") format("woff");
-}
-
-.font-latn {
-    font-family: Display;
+    src: url("Display/NotoSansDisplay-CondensedThin.woff2") format("woff2"),
+         url("Display/NotoSansDisplay-CondensedThin.woff") format("woff");
 }
 
 @font-face {
@@ -277,12 +193,8 @@
     font-weight: 100;
     font-style: 100;
     font-display: swap;
-    src: url("/Display/NotoSansDisplay-CondensedThinItalic.woff2") format("woff2"),
-         url("/Display/NotoSansDisplay-CondensedThinItalic.woff") format("woff");
-}
-
-.font-latn {
-    font-family: Display;
+    src: url("Display/NotoSansDisplay-CondensedThinItalic.woff2") format("woff2"),
+         url("Display/NotoSansDisplay-CondensedThinItalic.woff") format("woff");
 }
 
 @font-face {
@@ -290,12 +202,8 @@
     font-weight: 700;
     font-style: normal;
     font-display: swap;
-    src: url("/Display/NotoSansDisplay-ExtraBold.woff2") format("woff2"),
-         url("/Display/NotoSansDisplay-ExtraBold.woff") format("woff");
-}
-
-.font-latn {
-    font-family: Display;
+    src: url("Display/NotoSansDisplay-ExtraBold.woff2") format("woff2"),
+         url("Display/NotoSansDisplay-ExtraBold.woff") format("woff");
 }
 
 @font-face {
@@ -303,12 +211,8 @@
     font-weight: 700;
     font-style: 100;
     font-display: swap;
-    src: url("/Display/NotoSansDisplay-ExtraBoldItalic.woff2") format("woff2"),
-         url("/Display/NotoSansDisplay-ExtraBoldItalic.woff") format("woff");
-}
-
-.font-latn {
-    font-family: Display;
+    src: url("Display/NotoSansDisplay-ExtraBoldItalic.woff2") format("woff2"),
+         url("Display/NotoSansDisplay-ExtraBoldItalic.woff") format("woff");
 }
 
 @font-face {
@@ -316,12 +220,8 @@
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url("/Display/NotoSansDisplay-ExtraCondensed.woff2") format("woff2"),
-         url("/Display/NotoSansDisplay-ExtraCondensed.woff") format("woff");
-}
-
-.font-latn {
-    font-family: Display;
+    src: url("Display/NotoSansDisplay-ExtraCondensed.woff2") format("woff2"),
+         url("Display/NotoSansDisplay-ExtraCondensed.woff") format("woff");
 }
 
 @font-face {
@@ -329,12 +229,8 @@
     font-weight: 900;
     font-style: normal;
     font-display: swap;
-    src: url("/Display/NotoSansDisplay-ExtraCondensedBlack.woff2") format("woff2"),
-         url("/Display/NotoSansDisplay-ExtraCondensedBlack.woff") format("woff");
-}
-
-.font-latn {
-    font-family: Display;
+    src: url("Display/NotoSansDisplay-ExtraCondensedBlack.woff2") format("woff2"),
+         url("Display/NotoSansDisplay-ExtraCondensedBlack.woff") format("woff");
 }
 
 @font-face {
@@ -342,12 +238,8 @@
     font-weight: 900;
     font-style: 100;
     font-display: swap;
-    src: url("/Display/NotoSansDisplay-ExtraCondensedBlackItalic.woff2") format("woff2"),
-         url("/Display/NotoSansDisplay-ExtraCondensedBlackItalic.woff") format("woff");
-}
-
-.font-latn {
-    font-family: Display;
+    src: url("Display/NotoSansDisplay-ExtraCondensedBlackItalic.woff2") format("woff2"),
+         url("Display/NotoSansDisplay-ExtraCondensedBlackItalic.woff") format("woff");
 }
 
 @font-face {
@@ -355,12 +247,8 @@
     font-weight: 700;
     font-style: normal;
     font-display: swap;
-    src: url("/Display/NotoSansDisplay-ExtraCondensedBold.woff2") format("woff2"),
-         url("/Display/NotoSansDisplay-ExtraCondensedBold.woff") format("woff");
-}
-
-.font-latn {
-    font-family: Display;
+    src: url("Display/NotoSansDisplay-ExtraCondensedBold.woff2") format("woff2"),
+         url("Display/NotoSansDisplay-ExtraCondensedBold.woff") format("woff");
 }
 
 @font-face {
@@ -368,12 +256,8 @@
     font-weight: 700;
     font-style: 100;
     font-display: swap;
-    src: url("/Display/NotoSansDisplay-ExtraCondensedBoldItalic.woff2") format("woff2"),
-         url("/Display/NotoSansDisplay-ExtraCondensedBoldItalic.woff") format("woff");
-}
-
-.font-latn {
-    font-family: Display;
+    src: url("Display/NotoSansDisplay-ExtraCondensedBoldItalic.woff2") format("woff2"),
+         url("Display/NotoSansDisplay-ExtraCondensedBoldItalic.woff") format("woff");
 }
 
 @font-face {
@@ -381,12 +265,8 @@
     font-weight: 700;
     font-style: normal;
     font-display: swap;
-    src: url("/Display/NotoSansDisplay-ExtraCondensedExtraBold.woff2") format("woff2"),
-         url("/Display/NotoSansDisplay-ExtraCondensedExtraBold.woff") format("woff");
-}
-
-.font-latn {
-    font-family: Display;
+    src: url("Display/NotoSansDisplay-ExtraCondensedExtraBold.woff2") format("woff2"),
+         url("Display/NotoSansDisplay-ExtraCondensedExtraBold.woff") format("woff");
 }
 
 @font-face {
@@ -394,12 +274,8 @@
     font-weight: 700;
     font-style: 100;
     font-display: swap;
-    src: url("/Display/NotoSansDisplay-ExtraCondensedExtraBoldItalic.woff2") format("woff2"),
-         url("/Display/NotoSansDisplay-ExtraCondensedExtraBoldItalic.woff") format("woff");
-}
-
-.font-latn {
-    font-family: Display;
+    src: url("Display/NotoSansDisplay-ExtraCondensedExtraBoldItalic.woff2") format("woff2"),
+         url("Display/NotoSansDisplay-ExtraCondensedExtraBoldItalic.woff") format("woff");
 }
 
 @font-face {
@@ -407,12 +283,8 @@
     font-weight: 300;
     font-style: normal;
     font-display: swap;
-    src: url("/Display/NotoSansDisplay-ExtraCondensedExtraLight.woff2") format("woff2"),
-         url("/Display/NotoSansDisplay-ExtraCondensedExtraLight.woff") format("woff");
-}
-
-.font-latn {
-    font-family: Display;
+    src: url("Display/NotoSansDisplay-ExtraCondensedExtraLight.woff2") format("woff2"),
+         url("Display/NotoSansDisplay-ExtraCondensedExtraLight.woff") format("woff");
 }
 
 @font-face {
@@ -420,12 +292,8 @@
     font-weight: 300;
     font-style: 100;
     font-display: swap;
-    src: url("/Display/NotoSansDisplay-ExtraCondensedExtraLightItalic.woff2") format("woff2"),
-         url("/Display/NotoSansDisplay-ExtraCondensedExtraLightItalic.woff") format("woff");
-}
-
-.font-latn {
-    font-family: Display;
+    src: url("Display/NotoSansDisplay-ExtraCondensedExtraLightItalic.woff2") format("woff2"),
+         url("Display/NotoSansDisplay-ExtraCondensedExtraLightItalic.woff") format("woff");
 }
 
 @font-face {
@@ -433,12 +301,8 @@
     font-weight: 400;
     font-style: 100;
     font-display: swap;
-    src: url("/Display/NotoSansDisplay-ExtraCondensedItalic.woff2") format("woff2"),
-         url("/Display/NotoSansDisplay-ExtraCondensedItalic.woff") format("woff");
-}
-
-.font-latn {
-    font-family: Display;
+    src: url("Display/NotoSansDisplay-ExtraCondensedItalic.woff2") format("woff2"),
+         url("Display/NotoSansDisplay-ExtraCondensedItalic.woff") format("woff");
 }
 
 @font-face {
@@ -446,12 +310,8 @@
     font-weight: 300;
     font-style: normal;
     font-display: swap;
-    src: url("/Display/NotoSansDisplay-ExtraCondensedLight.woff2") format("woff2"),
-         url("/Display/NotoSansDisplay-ExtraCondensedLight.woff") format("woff");
-}
-
-.font-latn {
-    font-family: Display;
+    src: url("Display/NotoSansDisplay-ExtraCondensedLight.woff2") format("woff2"),
+         url("Display/NotoSansDisplay-ExtraCondensedLight.woff") format("woff");
 }
 
 @font-face {
@@ -459,12 +319,8 @@
     font-weight: 300;
     font-style: 100;
     font-display: swap;
-    src: url("/Display/NotoSansDisplay-ExtraCondensedLightItalic.woff2") format("woff2"),
-         url("/Display/NotoSansDisplay-ExtraCondensedLightItalic.woff") format("woff");
-}
-
-.font-latn {
-    font-family: Display;
+    src: url("Display/NotoSansDisplay-ExtraCondensedLightItalic.woff2") format("woff2"),
+         url("Display/NotoSansDisplay-ExtraCondensedLightItalic.woff") format("woff");
 }
 
 @font-face {
@@ -472,12 +328,8 @@
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url("/Display/NotoSansDisplay-ExtraCondensedMedium.woff2") format("woff2"),
-         url("/Display/NotoSansDisplay-ExtraCondensedMedium.woff") format("woff");
-}
-
-.font-latn {
-    font-family: Display;
+    src: url("Display/NotoSansDisplay-ExtraCondensedMedium.woff2") format("woff2"),
+         url("Display/NotoSansDisplay-ExtraCondensedMedium.woff") format("woff");
 }
 
 @font-face {
@@ -485,12 +337,8 @@
     font-weight: 400;
     font-style: 100;
     font-display: swap;
-    src: url("/Display/NotoSansDisplay-ExtraCondensedMediumItalic.woff2") format("woff2"),
-         url("/Display/NotoSansDisplay-ExtraCondensedMediumItalic.woff") format("woff");
-}
-
-.font-latn {
-    font-family: Display;
+    src: url("Display/NotoSansDisplay-ExtraCondensedMediumItalic.woff2") format("woff2"),
+         url("Display/NotoSansDisplay-ExtraCondensedMediumItalic.woff") format("woff");
 }
 
 @font-face {
@@ -498,12 +346,8 @@
     font-weight: 600;
     font-style: normal;
     font-display: swap;
-    src: url("/Display/NotoSansDisplay-ExtraCondensedSemiBold.woff2") format("woff2"),
-         url("/Display/NotoSansDisplay-ExtraCondensedSemiBold.woff") format("woff");
-}
-
-.font-latn {
-    font-family: Display;
+    src: url("Display/NotoSansDisplay-ExtraCondensedSemiBold.woff2") format("woff2"),
+         url("Display/NotoSansDisplay-ExtraCondensedSemiBold.woff") format("woff");
 }
 
 @font-face {
@@ -511,12 +355,8 @@
     font-weight: 600;
     font-style: 100;
     font-display: swap;
-    src: url("/Display/NotoSansDisplay-ExtraCondensedSemiBoldItalic.woff2") format("woff2"),
-         url("/Display/NotoSansDisplay-ExtraCondensedSemiBoldItalic.woff") format("woff");
-}
-
-.font-latn {
-    font-family: Display;
+    src: url("Display/NotoSansDisplay-ExtraCondensedSemiBoldItalic.woff2") format("woff2"),
+         url("Display/NotoSansDisplay-ExtraCondensedSemiBoldItalic.woff") format("woff");
 }
 
 @font-face {
@@ -524,12 +364,8 @@
     font-weight: 100;
     font-style: normal;
     font-display: swap;
-    src: url("/Display/NotoSansDisplay-ExtraCondensedThin.woff2") format("woff2"),
-         url("/Display/NotoSansDisplay-ExtraCondensedThin.woff") format("woff");
-}
-
-.font-latn {
-    font-family: Display;
+    src: url("Display/NotoSansDisplay-ExtraCondensedThin.woff2") format("woff2"),
+         url("Display/NotoSansDisplay-ExtraCondensedThin.woff") format("woff");
 }
 
 @font-face {
@@ -537,12 +373,8 @@
     font-weight: 100;
     font-style: 100;
     font-display: swap;
-    src: url("/Display/NotoSansDisplay-ExtraCondensedThinItalic.woff2") format("woff2"),
-         url("/Display/NotoSansDisplay-ExtraCondensedThinItalic.woff") format("woff");
-}
-
-.font-latn {
-    font-family: Display;
+    src: url("Display/NotoSansDisplay-ExtraCondensedThinItalic.woff2") format("woff2"),
+         url("Display/NotoSansDisplay-ExtraCondensedThinItalic.woff") format("woff");
 }
 
 @font-face {
@@ -550,12 +382,8 @@
     font-weight: 300;
     font-style: normal;
     font-display: swap;
-    src: url("/Display/NotoSansDisplay-ExtraLight.woff2") format("woff2"),
-         url("/Display/NotoSansDisplay-ExtraLight.woff") format("woff");
-}
-
-.font-latn {
-    font-family: Display;
+    src: url("Display/NotoSansDisplay-ExtraLight.woff2") format("woff2"),
+         url("Display/NotoSansDisplay-ExtraLight.woff") format("woff");
 }
 
 @font-face {
@@ -563,12 +391,8 @@
     font-weight: 300;
     font-style: 100;
     font-display: swap;
-    src: url("/Display/NotoSansDisplay-ExtraLightItalic.woff2") format("woff2"),
-         url("/Display/NotoSansDisplay-ExtraLightItalic.woff") format("woff");
-}
-
-.font-latn {
-    font-family: Display;
+    src: url("Display/NotoSansDisplay-ExtraLightItalic.woff2") format("woff2"),
+         url("Display/NotoSansDisplay-ExtraLightItalic.woff") format("woff");
 }
 
 @font-face {
@@ -576,12 +400,8 @@
     font-weight: 400;
     font-style: 100;
     font-display: swap;
-    src: url("/Display/NotoSansDisplay-Italic.woff2") format("woff2"),
-         url("/Display/NotoSansDisplay-Italic.woff") format("woff");
-}
-
-.font-latn {
-    font-family: Display;
+    src: url("Display/NotoSansDisplay-Italic.woff2") format("woff2"),
+         url("Display/NotoSansDisplay-Italic.woff") format("woff");
 }
 
 @font-face {
@@ -589,12 +409,8 @@
     font-weight: 300;
     font-style: normal;
     font-display: swap;
-    src: url("/Display/NotoSansDisplay-Light.woff2") format("woff2"),
-         url("/Display/NotoSansDisplay-Light.woff") format("woff");
-}
-
-.font-latn {
-    font-family: Display;
+    src: url("Display/NotoSansDisplay-Light.woff2") format("woff2"),
+         url("Display/NotoSansDisplay-Light.woff") format("woff");
 }
 
 @font-face {
@@ -602,12 +418,8 @@
     font-weight: 300;
     font-style: 100;
     font-display: swap;
-    src: url("/Display/NotoSansDisplay-LightItalic.woff2") format("woff2"),
-         url("/Display/NotoSansDisplay-LightItalic.woff") format("woff");
-}
-
-.font-latn {
-    font-family: Display;
+    src: url("Display/NotoSansDisplay-LightItalic.woff2") format("woff2"),
+         url("Display/NotoSansDisplay-LightItalic.woff") format("woff");
 }
 
 @font-face {
@@ -615,12 +427,8 @@
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url("/Display/NotoSansDisplay-Medium.woff2") format("woff2"),
-         url("/Display/NotoSansDisplay-Medium.woff") format("woff");
-}
-
-.font-latn {
-    font-family: Display;
+    src: url("Display/NotoSansDisplay-Medium.woff2") format("woff2"),
+         url("Display/NotoSansDisplay-Medium.woff") format("woff");
 }
 
 @font-face {
@@ -628,12 +436,8 @@
     font-weight: 400;
     font-style: 100;
     font-display: swap;
-    src: url("/Display/NotoSansDisplay-MediumItalic.woff2") format("woff2"),
-         url("/Display/NotoSansDisplay-MediumItalic.woff") format("woff");
-}
-
-.font-latn {
-    font-family: Display;
+    src: url("Display/NotoSansDisplay-MediumItalic.woff2") format("woff2"),
+         url("Display/NotoSansDisplay-MediumItalic.woff") format("woff");
 }
 
 @font-face {
@@ -641,12 +445,8 @@
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url("/Display/NotoSansDisplay-Regular.woff2") format("woff2"),
-         url("/Display/NotoSansDisplay-Regular.woff") format("woff");
-}
-
-.font-latn {
-    font-family: Display;
+    src: url("Display/NotoSansDisplay-Regular.woff2") format("woff2"),
+         url("Display/NotoSansDisplay-Regular.woff") format("woff");
 }
 
 @font-face {
@@ -654,12 +454,8 @@
     font-weight: 600;
     font-style: normal;
     font-display: swap;
-    src: url("/Display/NotoSansDisplay-SemiBold.woff2") format("woff2"),
-         url("/Display/NotoSansDisplay-SemiBold.woff") format("woff");
-}
-
-.font-latn {
-    font-family: Display;
+    src: url("Display/NotoSansDisplay-SemiBold.woff2") format("woff2"),
+         url("Display/NotoSansDisplay-SemiBold.woff") format("woff");
 }
 
 @font-face {
@@ -667,12 +463,8 @@
     font-weight: 600;
     font-style: 100;
     font-display: swap;
-    src: url("/Display/NotoSansDisplay-SemiBoldItalic.woff2") format("woff2"),
-         url("/Display/NotoSansDisplay-SemiBoldItalic.woff") format("woff");
-}
-
-.font-latn {
-    font-family: Display;
+    src: url("Display/NotoSansDisplay-SemiBoldItalic.woff2") format("woff2"),
+         url("Display/NotoSansDisplay-SemiBoldItalic.woff") format("woff");
 }
 
 @font-face {
@@ -680,12 +472,8 @@
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url("/Display/NotoSansDisplay-SemiCondensed.woff2") format("woff2"),
-         url("/Display/NotoSansDisplay-SemiCondensed.woff") format("woff");
-}
-
-.font-latn {
-    font-family: Display;
+    src: url("Display/NotoSansDisplay-SemiCondensed.woff2") format("woff2"),
+         url("Display/NotoSansDisplay-SemiCondensed.woff") format("woff");
 }
 
 @font-face {
@@ -693,12 +481,8 @@
     font-weight: 900;
     font-style: normal;
     font-display: swap;
-    src: url("/Display/NotoSansDisplay-SemiCondensedBlack.woff2") format("woff2"),
-         url("/Display/NotoSansDisplay-SemiCondensedBlack.woff") format("woff");
-}
-
-.font-latn {
-    font-family: Display;
+    src: url("Display/NotoSansDisplay-SemiCondensedBlack.woff2") format("woff2"),
+         url("Display/NotoSansDisplay-SemiCondensedBlack.woff") format("woff");
 }
 
 @font-face {
@@ -706,12 +490,8 @@
     font-weight: 900;
     font-style: 100;
     font-display: swap;
-    src: url("/Display/NotoSansDisplay-SemiCondensedBlackItalic.woff2") format("woff2"),
-         url("/Display/NotoSansDisplay-SemiCondensedBlackItalic.woff") format("woff");
-}
-
-.font-latn {
-    font-family: Display;
+    src: url("Display/NotoSansDisplay-SemiCondensedBlackItalic.woff2") format("woff2"),
+         url("Display/NotoSansDisplay-SemiCondensedBlackItalic.woff") format("woff");
 }
 
 @font-face {
@@ -719,12 +499,8 @@
     font-weight: 700;
     font-style: normal;
     font-display: swap;
-    src: url("/Display/NotoSansDisplay-SemiCondensedBold.woff2") format("woff2"),
-         url("/Display/NotoSansDisplay-SemiCondensedBold.woff") format("woff");
-}
-
-.font-latn {
-    font-family: Display;
+    src: url("Display/NotoSansDisplay-SemiCondensedBold.woff2") format("woff2"),
+         url("Display/NotoSansDisplay-SemiCondensedBold.woff") format("woff");
 }
 
 @font-face {
@@ -732,12 +508,8 @@
     font-weight: 700;
     font-style: 100;
     font-display: swap;
-    src: url("/Display/NotoSansDisplay-SemiCondensedBoldItalic.woff2") format("woff2"),
-         url("/Display/NotoSansDisplay-SemiCondensedBoldItalic.woff") format("woff");
-}
-
-.font-latn {
-    font-family: Display;
+    src: url("Display/NotoSansDisplay-SemiCondensedBoldItalic.woff2") format("woff2"),
+         url("Display/NotoSansDisplay-SemiCondensedBoldItalic.woff") format("woff");
 }
 
 @font-face {
@@ -745,12 +517,8 @@
     font-weight: 700;
     font-style: normal;
     font-display: swap;
-    src: url("/Display/NotoSansDisplay-SemiCondensedExtraBold.woff2") format("woff2"),
-         url("/Display/NotoSansDisplay-SemiCondensedExtraBold.woff") format("woff");
-}
-
-.font-latn {
-    font-family: Display;
+    src: url("Display/NotoSansDisplay-SemiCondensedExtraBold.woff2") format("woff2"),
+         url("Display/NotoSansDisplay-SemiCondensedExtraBold.woff") format("woff");
 }
 
 @font-face {
@@ -758,12 +526,8 @@
     font-weight: 700;
     font-style: 100;
     font-display: swap;
-    src: url("/Display/NotoSansDisplay-SemiCondensedExtraBoldItalic.woff2") format("woff2"),
-         url("/Display/NotoSansDisplay-SemiCondensedExtraBoldItalic.woff") format("woff");
-}
-
-.font-latn {
-    font-family: Display;
+    src: url("Display/NotoSansDisplay-SemiCondensedExtraBoldItalic.woff2") format("woff2"),
+         url("Display/NotoSansDisplay-SemiCondensedExtraBoldItalic.woff") format("woff");
 }
 
 @font-face {
@@ -771,12 +535,8 @@
     font-weight: 300;
     font-style: normal;
     font-display: swap;
-    src: url("/Display/NotoSansDisplay-SemiCondensedExtraLight.woff2") format("woff2"),
-         url("/Display/NotoSansDisplay-SemiCondensedExtraLight.woff") format("woff");
-}
-
-.font-latn {
-    font-family: Display;
+    src: url("Display/NotoSansDisplay-SemiCondensedExtraLight.woff2") format("woff2"),
+         url("Display/NotoSansDisplay-SemiCondensedExtraLight.woff") format("woff");
 }
 
 @font-face {
@@ -784,12 +544,8 @@
     font-weight: 300;
     font-style: 100;
     font-display: swap;
-    src: url("/Display/NotoSansDisplay-SemiCondensedExtraLightItalic.woff2") format("woff2"),
-         url("/Display/NotoSansDisplay-SemiCondensedExtraLightItalic.woff") format("woff");
-}
-
-.font-latn {
-    font-family: Display;
+    src: url("Display/NotoSansDisplay-SemiCondensedExtraLightItalic.woff2") format("woff2"),
+         url("Display/NotoSansDisplay-SemiCondensedExtraLightItalic.woff") format("woff");
 }
 
 @font-face {
@@ -797,12 +553,8 @@
     font-weight: 400;
     font-style: 100;
     font-display: swap;
-    src: url("/Display/NotoSansDisplay-SemiCondensedItalic.woff2") format("woff2"),
-         url("/Display/NotoSansDisplay-SemiCondensedItalic.woff") format("woff");
-}
-
-.font-latn {
-    font-family: Display;
+    src: url("Display/NotoSansDisplay-SemiCondensedItalic.woff2") format("woff2"),
+         url("Display/NotoSansDisplay-SemiCondensedItalic.woff") format("woff");
 }
 
 @font-face {
@@ -810,12 +562,8 @@
     font-weight: 300;
     font-style: normal;
     font-display: swap;
-    src: url("/Display/NotoSansDisplay-SemiCondensedLight.woff2") format("woff2"),
-         url("/Display/NotoSansDisplay-SemiCondensedLight.woff") format("woff");
-}
-
-.font-latn {
-    font-family: Display;
+    src: url("Display/NotoSansDisplay-SemiCondensedLight.woff2") format("woff2"),
+         url("Display/NotoSansDisplay-SemiCondensedLight.woff") format("woff");
 }
 
 @font-face {
@@ -823,12 +571,8 @@
     font-weight: 300;
     font-style: 100;
     font-display: swap;
-    src: url("/Display/NotoSansDisplay-SemiCondensedLightItalic.woff2") format("woff2"),
-         url("/Display/NotoSansDisplay-SemiCondensedLightItalic.woff") format("woff");
-}
-
-.font-latn {
-    font-family: Display;
+    src: url("Display/NotoSansDisplay-SemiCondensedLightItalic.woff2") format("woff2"),
+         url("Display/NotoSansDisplay-SemiCondensedLightItalic.woff") format("woff");
 }
 
 @font-face {
@@ -836,12 +580,8 @@
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url("/Display/NotoSansDisplay-SemiCondensedMedium.woff2") format("woff2"),
-         url("/Display/NotoSansDisplay-SemiCondensedMedium.woff") format("woff");
-}
-
-.font-latn {
-    font-family: Display;
+    src: url("Display/NotoSansDisplay-SemiCondensedMedium.woff2") format("woff2"),
+         url("Display/NotoSansDisplay-SemiCondensedMedium.woff") format("woff");
 }
 
 @font-face {
@@ -849,12 +589,8 @@
     font-weight: 400;
     font-style: 100;
     font-display: swap;
-    src: url("/Display/NotoSansDisplay-SemiCondensedMediumItalic.woff2") format("woff2"),
-         url("/Display/NotoSansDisplay-SemiCondensedMediumItalic.woff") format("woff");
-}
-
-.font-latn {
-    font-family: Display;
+    src: url("Display/NotoSansDisplay-SemiCondensedMediumItalic.woff2") format("woff2"),
+         url("Display/NotoSansDisplay-SemiCondensedMediumItalic.woff") format("woff");
 }
 
 @font-face {
@@ -862,12 +598,8 @@
     font-weight: 600;
     font-style: normal;
     font-display: swap;
-    src: url("/Display/NotoSansDisplay-SemiCondensedSemiBold.woff2") format("woff2"),
-         url("/Display/NotoSansDisplay-SemiCondensedSemiBold.woff") format("woff");
-}
-
-.font-latn {
-    font-family: Display;
+    src: url("Display/NotoSansDisplay-SemiCondensedSemiBold.woff2") format("woff2"),
+         url("Display/NotoSansDisplay-SemiCondensedSemiBold.woff") format("woff");
 }
 
 @font-face {
@@ -875,12 +607,8 @@
     font-weight: 600;
     font-style: 100;
     font-display: swap;
-    src: url("/Display/NotoSansDisplay-SemiCondensedSemiBoldItalic.woff2") format("woff2"),
-         url("/Display/NotoSansDisplay-SemiCondensedSemiBoldItalic.woff") format("woff");
-}
-
-.font-latn {
-    font-family: Display;
+    src: url("Display/NotoSansDisplay-SemiCondensedSemiBoldItalic.woff2") format("woff2"),
+         url("Display/NotoSansDisplay-SemiCondensedSemiBoldItalic.woff") format("woff");
 }
 
 @font-face {
@@ -888,12 +616,8 @@
     font-weight: 100;
     font-style: normal;
     font-display: swap;
-    src: url("/Display/NotoSansDisplay-SemiCondensedThin.woff2") format("woff2"),
-         url("/Display/NotoSansDisplay-SemiCondensedThin.woff") format("woff");
-}
-
-.font-latn {
-    font-family: Display;
+    src: url("Display/NotoSansDisplay-SemiCondensedThin.woff2") format("woff2"),
+         url("Display/NotoSansDisplay-SemiCondensedThin.woff") format("woff");
 }
 
 @font-face {
@@ -901,12 +625,8 @@
     font-weight: 100;
     font-style: 100;
     font-display: swap;
-    src: url("/Display/NotoSansDisplay-SemiCondensedThinItalic.woff2") format("woff2"),
-         url("/Display/NotoSansDisplay-SemiCondensedThinItalic.woff") format("woff");
-}
-
-.font-latn {
-    font-family: Display;
+    src: url("Display/NotoSansDisplay-SemiCondensedThinItalic.woff2") format("woff2"),
+         url("Display/NotoSansDisplay-SemiCondensedThinItalic.woff") format("woff");
 }
 
 @font-face {
@@ -914,12 +634,8 @@
     font-weight: 100;
     font-style: normal;
     font-display: swap;
-    src: url("/Display/NotoSansDisplay-Thin.woff2") format("woff2"),
-         url("/Display/NotoSansDisplay-Thin.woff") format("woff");
-}
-
-.font-latn {
-    font-family: Display;
+    src: url("Display/NotoSansDisplay-Thin.woff2") format("woff2"),
+         url("Display/NotoSansDisplay-Thin.woff") format("woff");
 }
 
 @font-face {
@@ -927,8 +643,8 @@
     font-weight: 100;
     font-style: 100;
     font-display: swap;
-    src: url("/Display/NotoSansDisplay-ThinItalic.woff2") format("woff2"),
-         url("/Display/NotoSansDisplay-ThinItalic.woff") format("woff");
+    src: url("Display/NotoSansDisplay-ThinItalic.woff2") format("woff2"),
+         url("Display/NotoSansDisplay-ThinItalic.woff") format("woff");
 }
 
 .font-latn {

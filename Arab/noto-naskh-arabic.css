@@ -4,12 +4,8 @@
     font-weight: 700;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-naskh-arabic/NotoNaskhArabic-Bold.woff2") format("woff2"),
-         url("/noto-naskh-arabic/NotoNaskhArabic-Bold.woff") format("woff");
-}
-
-.font-arab {
-    font-family: noto-naskh-arabic;
+    src: url("noto-naskh-arabic/NotoNaskhArabic-Bold.woff2") format("woff2"),
+         url("noto-naskh-arabic/NotoNaskhArabic-Bold.woff") format("woff");
 }
 
 @font-face {
@@ -17,12 +13,8 @@
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-naskh-arabic/NotoNaskhArabic-Regular.woff2") format("woff2"),
-         url("/noto-naskh-arabic/NotoNaskhArabic-Regular.woff") format("woff");
-}
-
-.font-arab {
-    font-family: noto-naskh-arabic;
+    src: url("noto-naskh-arabic/NotoNaskhArabic-Regular.woff2") format("woff2"),
+         url("noto-naskh-arabic/NotoNaskhArabic-Regular.woff") format("woff");
 }
 
 @font-face {
@@ -30,12 +22,8 @@
     font-weight: 700;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-naskh-arabic/NotoNaskhArabicUI-Bold.woff2") format("woff2"),
-         url("/noto-naskh-arabic/NotoNaskhArabicUI-Bold.woff") format("woff");
-}
-
-.font-arab {
-    font-family: noto-naskh-arabic;
+    src: url("noto-naskh-arabic/NotoNaskhArabicUI-Bold.woff2") format("woff2"),
+         url("noto-naskh-arabic/NotoNaskhArabicUI-Bold.woff") format("woff");
 }
 
 @font-face {
@@ -43,8 +31,8 @@
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-naskh-arabic/NotoNaskhArabicUI-Regular.woff2") format("woff2"),
-         url("/noto-naskh-arabic/NotoNaskhArabicUI-Regular.woff") format("woff");
+    src: url("noto-naskh-arabic/NotoNaskhArabicUI-Regular.woff2") format("woff2"),
+         url("noto-naskh-arabic/NotoNaskhArabicUI-Regular.woff") format("woff");
 }
 
 .font-arab {

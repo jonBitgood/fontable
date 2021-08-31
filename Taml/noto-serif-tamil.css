@@ -4,12 +4,8 @@
     font-weight: 900;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-serif-tamil/NotoSerifTamil-Black.woff2") format("woff2"),
-         url("/noto-serif-tamil/NotoSerifTamil-Black.woff") format("woff");
-}
-
-.font-taml {
-    font-family: noto-serif-tamil;
+    src: url("noto-serif-tamil/NotoSerifTamil-Black.woff2") format("woff2"),
+         url("noto-serif-tamil/NotoSerifTamil-Black.woff") format("woff");
 }
 
 @font-face {
@@ -17,12 +13,8 @@
     font-weight: 700;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-serif-tamil/NotoSerifTamil-Bold.woff2") format("woff2"),
-         url("/noto-serif-tamil/NotoSerifTamil-Bold.woff") format("woff");
-}
-
-.font-taml {
-    font-family: noto-serif-tamil;
+    src: url("noto-serif-tamil/NotoSerifTamil-Bold.woff2") format("woff2"),
+         url("noto-serif-tamil/NotoSerifTamil-Bold.woff") format("woff");
 }
 
 @font-face {
@@ -30,12 +22,8 @@
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-serif-tamil/NotoSerifTamil-Condensed.woff2") format("woff2"),
-         url("/noto-serif-tamil/NotoSerifTamil-Condensed.woff") format("woff");
-}
-
-.font-taml {
-    font-family: noto-serif-tamil;
+    src: url("noto-serif-tamil/NotoSerifTamil-Condensed.woff2") format("woff2"),
+         url("noto-serif-tamil/NotoSerifTamil-Condensed.woff") format("woff");
 }
 
 @font-face {
@@ -43,12 +31,8 @@
     font-weight: 900;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-serif-tamil/NotoSerifTamil-CondensedBlack.woff2") format("woff2"),
-         url("/noto-serif-tamil/NotoSerifTamil-CondensedBlack.woff") format("woff");
-}
-
-.font-taml {
-    font-family: noto-serif-tamil;
+    src: url("noto-serif-tamil/NotoSerifTamil-CondensedBlack.woff2") format("woff2"),
+         url("noto-serif-tamil/NotoSerifTamil-CondensedBlack.woff") format("woff");
 }
 
 @font-face {
@@ -56,12 +40,8 @@
     font-weight: 700;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-serif-tamil/NotoSerifTamil-CondensedBold.woff2") format("woff2"),
-         url("/noto-serif-tamil/NotoSerifTamil-CondensedBold.woff") format("woff");
-}
-
-.font-taml {
-    font-family: noto-serif-tamil;
+    src: url("noto-serif-tamil/NotoSerifTamil-CondensedBold.woff2") format("woff2"),
+         url("noto-serif-tamil/NotoSerifTamil-CondensedBold.woff") format("woff");
 }
 
 @font-face {
@@ -69,12 +49,8 @@
     font-weight: 700;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-serif-tamil/NotoSerifTamil-CondensedExtraBold.woff2") format("woff2"),
-         url("/noto-serif-tamil/NotoSerifTamil-CondensedExtraBold.woff") format("woff");
-}
-
-.font-taml {
-    font-family: noto-serif-tamil;
+    src: url("noto-serif-tamil/NotoSerifTamil-CondensedExtraBold.woff2") format("woff2"),
+         url("noto-serif-tamil/NotoSerifTamil-CondensedExtraBold.woff") format("woff");
 }
 
 @font-face {
@@ -82,12 +58,8 @@
     font-weight: 300;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-serif-tamil/NotoSerifTamil-CondensedExtraLight.woff2") format("woff2"),
-         url("/noto-serif-tamil/NotoSerifTamil-CondensedExtraLight.woff") format("woff");
-}
-
-.font-taml {
-    font-family: noto-serif-tamil;
+    src: url("noto-serif-tamil/NotoSerifTamil-CondensedExtraLight.woff2") format("woff2"),
+         url("noto-serif-tamil/NotoSerifTamil-CondensedExtraLight.woff") format("woff");
 }
 
 @font-face {
@@ -95,12 +67,8 @@
     font-weight: 300;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-serif-tamil/NotoSerifTamil-CondensedLight.woff2") format("woff2"),
-         url("/noto-serif-tamil/NotoSerifTamil-CondensedLight.woff") format("woff");
-}
-
-.font-taml {
-    font-family: noto-serif-tamil;
+    src: url("noto-serif-tamil/NotoSerifTamil-CondensedLight.woff2") format("woff2"),
+         url("noto-serif-tamil/NotoSerifTamil-CondensedLight.woff") format("woff");
 }
 
 @font-face {
@@ -108,12 +76,8 @@
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-serif-tamil/NotoSerifTamil-CondensedMedium.woff2") format("woff2"),
-         url("/noto-serif-tamil/NotoSerifTamil-CondensedMedium.woff") format("woff");
-}
-
-.font-taml {
-    font-family: noto-serif-tamil;
+    src: url("noto-serif-tamil/NotoSerifTamil-CondensedMedium.woff2") format("woff2"),
+         url("noto-serif-tamil/NotoSerifTamil-CondensedMedium.woff") format("woff");
 }
 
 @font-face {
@@ -121,12 +85,8 @@
     font-weight: 600;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-serif-tamil/NotoSerifTamil-CondensedSemiBold.woff2") format("woff2"),
-         url("/noto-serif-tamil/NotoSerifTamil-CondensedSemiBold.woff") format("woff");
-}
-
-.font-taml {
-    font-family: noto-serif-tamil;
+    src: url("noto-serif-tamil/NotoSerifTamil-CondensedSemiBold.woff2") format("woff2"),
+         url("noto-serif-tamil/NotoSerifTamil-CondensedSemiBold.woff") format("woff");
 }
 
 @font-face {
@@ -134,12 +94,8 @@
     font-weight: 100;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-serif-tamil/NotoSerifTamil-CondensedThin.woff2") format("woff2"),
-         url("/noto-serif-tamil/NotoSerifTamil-CondensedThin.woff") format("woff");
-}
-
-.font-taml {
-    font-family: noto-serif-tamil;
+    src: url("noto-serif-tamil/NotoSerifTamil-CondensedThin.woff2") format("woff2"),
+         url("noto-serif-tamil/NotoSerifTamil-CondensedThin.woff") format("woff");
 }
 
 @font-face {
@@ -147,12 +103,8 @@
     font-weight: 700;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-serif-tamil/NotoSerifTamil-ExtraBold.woff2") format("woff2"),
-         url("/noto-serif-tamil/NotoSerifTamil-ExtraBold.woff") format("woff");
-}
-
-.font-taml {
-    font-family: noto-serif-tamil;
+    src: url("noto-serif-tamil/NotoSerifTamil-ExtraBold.woff2") format("woff2"),
+         url("noto-serif-tamil/NotoSerifTamil-ExtraBold.woff") format("woff");
 }
 
 @font-face {
@@ -160,12 +112,8 @@
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-serif-tamil/NotoSerifTamil-ExtraCondensed.woff2") format("woff2"),
-         url("/noto-serif-tamil/NotoSerifTamil-ExtraCondensed.woff") format("woff");
-}
-
-.font-taml {
-    font-family: noto-serif-tamil;
+    src: url("noto-serif-tamil/NotoSerifTamil-ExtraCondensed.woff2") format("woff2"),
+         url("noto-serif-tamil/NotoSerifTamil-ExtraCondensed.woff") format("woff");
 }
 
 @font-face {
@@ -173,12 +121,8 @@
     font-weight: 900;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-serif-tamil/NotoSerifTamil-ExtraCondensedBlack.woff2") format("woff2"),
-         url("/noto-serif-tamil/NotoSerifTamil-ExtraCondensedBlack.woff") format("woff");
-}
-
-.font-taml {
-    font-family: noto-serif-tamil;
+    src: url("noto-serif-tamil/NotoSerifTamil-ExtraCondensedBlack.woff2") format("woff2"),
+         url("noto-serif-tamil/NotoSerifTamil-ExtraCondensedBlack.woff") format("woff");
 }
 
 @font-face {
@@ -186,12 +130,8 @@
     font-weight: 700;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-serif-tamil/NotoSerifTamil-ExtraCondensedBold.woff2") format("woff2"),
-         url("/noto-serif-tamil/NotoSerifTamil-ExtraCondensedBold.woff") format("woff");
-}
-
-.font-taml {
-    font-family: noto-serif-tamil;
+    src: url("noto-serif-tamil/NotoSerifTamil-ExtraCondensedBold.woff2") format("woff2"),
+         url("noto-serif-tamil/NotoSerifTamil-ExtraCondensedBold.woff") format("woff");
 }
 
 @font-face {
@@ -199,12 +139,8 @@
     font-weight: 700;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-serif-tamil/NotoSerifTamil-ExtraCondensedExtraBold.woff2") format("woff2"),
-         url("/noto-serif-tamil/NotoSerifTamil-ExtraCondensedExtraBold.woff") format("woff");
-}
-
-.font-taml {
-    font-family: noto-serif-tamil;
+    src: url("noto-serif-tamil/NotoSerifTamil-ExtraCondensedExtraBold.woff2") format("woff2"),
+         url("noto-serif-tamil/NotoSerifTamil-ExtraCondensedExtraBold.woff") format("woff");
 }
 
 @font-face {
@@ -212,12 +148,8 @@
     font-weight: 300;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-serif-tamil/NotoSerifTamil-ExtraCondensedExtraLight.woff2") format("woff2"),
-         url("/noto-serif-tamil/NotoSerifTamil-ExtraCondensedExtraLight.woff") format("woff");
-}
-
-.font-taml {
-    font-family: noto-serif-tamil;
+    src: url("noto-serif-tamil/NotoSerifTamil-ExtraCondensedExtraLight.woff2") format("woff2"),
+         url("noto-serif-tamil/NotoSerifTamil-ExtraCondensedExtraLight.woff") format("woff");
 }
 
 @font-face {
@@ -225,12 +157,8 @@
     font-weight: 300;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-serif-tamil/NotoSerifTamil-ExtraCondensedLight.woff2") format("woff2"),
-         url("/noto-serif-tamil/NotoSerifTamil-ExtraCondensedLight.woff") format("woff");
-}
-
-.font-taml {
-    font-family: noto-serif-tamil;
+    src: url("noto-serif-tamil/NotoSerifTamil-ExtraCondensedLight.woff2") format("woff2"),
+         url("noto-serif-tamil/NotoSerifTamil-ExtraCondensedLight.woff") format("woff");
 }
 
 @font-face {
@@ -238,12 +166,8 @@
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-serif-tamil/NotoSerifTamil-ExtraCondensedMedium.woff2") format("woff2"),
-         url("/noto-serif-tamil/NotoSerifTamil-ExtraCondensedMedium.woff") format("woff");
-}
-
-.font-taml {
-    font-family: noto-serif-tamil;
+    src: url("noto-serif-tamil/NotoSerifTamil-ExtraCondensedMedium.woff2") format("woff2"),
+         url("noto-serif-tamil/NotoSerifTamil-ExtraCondensedMedium.woff") format("woff");
 }
 
 @font-face {
@@ -251,12 +175,8 @@
     font-weight: 600;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-serif-tamil/NotoSerifTamil-ExtraCondensedSemiBold.woff2") format("woff2"),
-         url("/noto-serif-tamil/NotoSerifTamil-ExtraCondensedSemiBold.woff") format("woff");
-}
-
-.font-taml {
-    font-family: noto-serif-tamil;
+    src: url("noto-serif-tamil/NotoSerifTamil-ExtraCondensedSemiBold.woff2") format("woff2"),
+         url("noto-serif-tamil/NotoSerifTamil-ExtraCondensedSemiBold.woff") format("woff");
 }
 
 @font-face {
@@ -264,12 +184,8 @@
     font-weight: 100;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-serif-tamil/NotoSerifTamil-ExtraCondensedThin.woff2") format("woff2"),
-         url("/noto-serif-tamil/NotoSerifTamil-ExtraCondensedThin.woff") format("woff");
-}
-
-.font-taml {
-    font-family: noto-serif-tamil;
+    src: url("noto-serif-tamil/NotoSerifTamil-ExtraCondensedThin.woff2") format("woff2"),
+         url("noto-serif-tamil/NotoSerifTamil-ExtraCondensedThin.woff") format("woff");
 }
 
 @font-face {
@@ -277,12 +193,8 @@
     font-weight: 300;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-serif-tamil/NotoSerifTamil-ExtraLight.woff2") format("woff2"),
-         url("/noto-serif-tamil/NotoSerifTamil-ExtraLight.woff") format("woff");
-}
-
-.font-taml {
-    font-family: noto-serif-tamil;
+    src: url("noto-serif-tamil/NotoSerifTamil-ExtraLight.woff2") format("woff2"),
+         url("noto-serif-tamil/NotoSerifTamil-ExtraLight.woff") format("woff");
 }
 
 @font-face {
@@ -290,12 +202,8 @@
     font-weight: 300;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-serif-tamil/NotoSerifTamil-Light.woff2") format("woff2"),
-         url("/noto-serif-tamil/NotoSerifTamil-Light.woff") format("woff");
-}
-
-.font-taml {
-    font-family: noto-serif-tamil;
+    src: url("noto-serif-tamil/NotoSerifTamil-Light.woff2") format("woff2"),
+         url("noto-serif-tamil/NotoSerifTamil-Light.woff") format("woff");
 }
 
 @font-face {
@@ -303,12 +211,8 @@
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-serif-tamil/NotoSerifTamil-Medium.woff2") format("woff2"),
-         url("/noto-serif-tamil/NotoSerifTamil-Medium.woff") format("woff");
-}
-
-.font-taml {
-    font-family: noto-serif-tamil;
+    src: url("noto-serif-tamil/NotoSerifTamil-Medium.woff2") format("woff2"),
+         url("noto-serif-tamil/NotoSerifTamil-Medium.woff") format("woff");
 }
 
 @font-face {
@@ -316,12 +220,8 @@
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-serif-tamil/NotoSerifTamil-Regular.woff2") format("woff2"),
-         url("/noto-serif-tamil/NotoSerifTamil-Regular.woff") format("woff");
-}
-
-.font-taml {
-    font-family: noto-serif-tamil;
+    src: url("noto-serif-tamil/NotoSerifTamil-Regular.woff2") format("woff2"),
+         url("noto-serif-tamil/NotoSerifTamil-Regular.woff") format("woff");
 }
 
 @font-face {
@@ -329,12 +229,8 @@
     font-weight: 600;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-serif-tamil/NotoSerifTamil-SemiBold.woff2") format("woff2"),
-         url("/noto-serif-tamil/NotoSerifTamil-SemiBold.woff") format("woff");
-}
-
-.font-taml {
-    font-family: noto-serif-tamil;
+    src: url("noto-serif-tamil/NotoSerifTamil-SemiBold.woff2") format("woff2"),
+         url("noto-serif-tamil/NotoSerifTamil-SemiBold.woff") format("woff");
 }
 
 @font-face {
@@ -342,12 +238,8 @@
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-serif-tamil/NotoSerifTamil-SemiCondensed.woff2") format("woff2"),
-         url("/noto-serif-tamil/NotoSerifTamil-SemiCondensed.woff") format("woff");
-}
-
-.font-taml {
-    font-family: noto-serif-tamil;
+    src: url("noto-serif-tamil/NotoSerifTamil-SemiCondensed.woff2") format("woff2"),
+         url("noto-serif-tamil/NotoSerifTamil-SemiCondensed.woff") format("woff");
 }
 
 @font-face {
@@ -355,12 +247,8 @@
     font-weight: 900;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-serif-tamil/NotoSerifTamil-SemiCondensedBlack.woff2") format("woff2"),
-         url("/noto-serif-tamil/NotoSerifTamil-SemiCondensedBlack.woff") format("woff");
-}
-
-.font-taml {
-    font-family: noto-serif-tamil;
+    src: url("noto-serif-tamil/NotoSerifTamil-SemiCondensedBlack.woff2") format("woff2"),
+         url("noto-serif-tamil/NotoSerifTamil-SemiCondensedBlack.woff") format("woff");
 }
 
 @font-face {
@@ -368,12 +256,8 @@
     font-weight: 700;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-serif-tamil/NotoSerifTamil-SemiCondensedBold.woff2") format("woff2"),
-         url("/noto-serif-tamil/NotoSerifTamil-SemiCondensedBold.woff") format("woff");
-}
-
-.font-taml {
-    font-family: noto-serif-tamil;
+    src: url("noto-serif-tamil/NotoSerifTamil-SemiCondensedBold.woff2") format("woff2"),
+         url("noto-serif-tamil/NotoSerifTamil-SemiCondensedBold.woff") format("woff");
 }
 
 @font-face {
@@ -381,12 +265,8 @@
     font-weight: 700;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-serif-tamil/NotoSerifTamil-SemiCondensedExtraBold.woff2") format("woff2"),
-         url("/noto-serif-tamil/NotoSerifTamil-SemiCondensedExtraBold.woff") format("woff");
-}
-
-.font-taml {
-    font-family: noto-serif-tamil;
+    src: url("noto-serif-tamil/NotoSerifTamil-SemiCondensedExtraBold.woff2") format("woff2"),
+         url("noto-serif-tamil/NotoSerifTamil-SemiCondensedExtraBold.woff") format("woff");
 }
 
 @font-face {
@@ -394,12 +274,8 @@
     font-weight: 300;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-serif-tamil/NotoSerifTamil-SemiCondensedExtraLight.woff2") format("woff2"),
-         url("/noto-serif-tamil/NotoSerifTamil-SemiCondensedExtraLight.woff") format("woff");
-}
-
-.font-taml {
-    font-family: noto-serif-tamil;
+    src: url("noto-serif-tamil/NotoSerifTamil-SemiCondensedExtraLight.woff2") format("woff2"),
+         url("noto-serif-tamil/NotoSerifTamil-SemiCondensedExtraLight.woff") format("woff");
 }
 
 @font-face {
@@ -407,12 +283,8 @@
     font-weight: 300;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-serif-tamil/NotoSerifTamil-SemiCondensedLight.woff2") format("woff2"),
-         url("/noto-serif-tamil/NotoSerifTamil-SemiCondensedLight.woff") format("woff");
-}
-
-.font-taml {
-    font-family: noto-serif-tamil;
+    src: url("noto-serif-tamil/NotoSerifTamil-SemiCondensedLight.woff2") format("woff2"),
+         url("noto-serif-tamil/NotoSerifTamil-SemiCondensedLight.woff") format("woff");
 }
 
 @font-face {
@@ -420,12 +292,8 @@
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-serif-tamil/NotoSerifTamil-SemiCondensedMedium.woff2") format("woff2"),
-         url("/noto-serif-tamil/NotoSerifTamil-SemiCondensedMedium.woff") format("woff");
-}
-
-.font-taml {
-    font-family: noto-serif-tamil;
+    src: url("noto-serif-tamil/NotoSerifTamil-SemiCondensedMedium.woff2") format("woff2"),
+         url("noto-serif-tamil/NotoSerifTamil-SemiCondensedMedium.woff") format("woff");
 }
 
 @font-face {
@@ -433,12 +301,8 @@
     font-weight: 600;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-serif-tamil/NotoSerifTamil-SemiCondensedSemiBold.woff2") format("woff2"),
-         url("/noto-serif-tamil/NotoSerifTamil-SemiCondensedSemiBold.woff") format("woff");
-}
-
-.font-taml {
-    font-family: noto-serif-tamil;
+    src: url("noto-serif-tamil/NotoSerifTamil-SemiCondensedSemiBold.woff2") format("woff2"),
+         url("noto-serif-tamil/NotoSerifTamil-SemiCondensedSemiBold.woff") format("woff");
 }
 
 @font-face {
@@ -446,12 +310,8 @@
     font-weight: 100;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-serif-tamil/NotoSerifTamil-SemiCondensedThin.woff2") format("woff2"),
-         url("/noto-serif-tamil/NotoSerifTamil-SemiCondensedThin.woff") format("woff");
-}
-
-.font-taml {
-    font-family: noto-serif-tamil;
+    src: url("noto-serif-tamil/NotoSerifTamil-SemiCondensedThin.woff2") format("woff2"),
+         url("noto-serif-tamil/NotoSerifTamil-SemiCondensedThin.woff") format("woff");
 }
 
 @font-face {
@@ -459,8 +319,8 @@
     font-weight: 100;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-serif-tamil/NotoSerifTamil-Thin.woff2") format("woff2"),
-         url("/noto-serif-tamil/NotoSerifTamil-Thin.woff") format("woff");
+    src: url("noto-serif-tamil/NotoSerifTamil-Thin.woff2") format("woff2"),
+         url("noto-serif-tamil/NotoSerifTamil-Thin.woff") format("woff");
 }
 
 .font-taml {

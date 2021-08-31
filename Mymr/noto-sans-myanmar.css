@@ -4,12 +4,8 @@
     font-weight: 900;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-sans-myanmar/NotoSansMyanmar-Black.woff2") format("woff2"),
-         url("/noto-sans-myanmar/NotoSansMyanmar-Black.woff") format("woff");
-}
-
-.font-mymr {
-    font-family: noto-sans-myanmar;
+    src: url("noto-sans-myanmar/NotoSansMyanmar-Black.woff2") format("woff2"),
+         url("noto-sans-myanmar/NotoSansMyanmar-Black.woff") format("woff");
 }
 
 @font-face {
@@ -17,12 +13,8 @@
     font-weight: 700;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-sans-myanmar/NotoSansMyanmar-Bold.woff2") format("woff2"),
-         url("/noto-sans-myanmar/NotoSansMyanmar-Bold.woff") format("woff");
-}
-
-.font-mymr {
-    font-family: noto-sans-myanmar;
+    src: url("noto-sans-myanmar/NotoSansMyanmar-Bold.woff2") format("woff2"),
+         url("noto-sans-myanmar/NotoSansMyanmar-Bold.woff") format("woff");
 }
 
 @font-face {
@@ -30,12 +22,8 @@
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-sans-myanmar/NotoSansMyanmar-Condensed.woff2") format("woff2"),
-         url("/noto-sans-myanmar/NotoSansMyanmar-Condensed.woff") format("woff");
-}
-
-.font-mymr {
-    font-family: noto-sans-myanmar;
+    src: url("noto-sans-myanmar/NotoSansMyanmar-Condensed.woff2") format("woff2"),
+         url("noto-sans-myanmar/NotoSansMyanmar-Condensed.woff") format("woff");
 }
 
 @font-face {
@@ -43,12 +31,8 @@
     font-weight: 900;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-sans-myanmar/NotoSansMyanmar-CondensedBlack.woff2") format("woff2"),
-         url("/noto-sans-myanmar/NotoSansMyanmar-CondensedBlack.woff") format("woff");
-}
-
-.font-mymr {
-    font-family: noto-sans-myanmar;
+    src: url("noto-sans-myanmar/NotoSansMyanmar-CondensedBlack.woff2") format("woff2"),
+         url("noto-sans-myanmar/NotoSansMyanmar-CondensedBlack.woff") format("woff");
 }
 
 @font-face {
@@ -56,12 +40,8 @@
     font-weight: 700;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-sans-myanmar/NotoSansMyanmar-CondensedBold.woff2") format("woff2"),
-         url("/noto-sans-myanmar/NotoSansMyanmar-CondensedBold.woff") format("woff");
-}
-
-.font-mymr {
-    font-family: noto-sans-myanmar;
+    src: url("noto-sans-myanmar/NotoSansMyanmar-CondensedBold.woff2") format("woff2"),
+         url("noto-sans-myanmar/NotoSansMyanmar-CondensedBold.woff") format("woff");
 }
 
 @font-face {
@@ -69,12 +49,8 @@
     font-weight: 700;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-sans-myanmar/NotoSansMyanmar-CondensedExtraBold.woff2") format("woff2"),
-         url("/noto-sans-myanmar/NotoSansMyanmar-CondensedExtraBold.woff") format("woff");
-}
-
-.font-mymr {
-    font-family: noto-sans-myanmar;
+    src: url("noto-sans-myanmar/NotoSansMyanmar-CondensedExtraBold.woff2") format("woff2"),
+         url("noto-sans-myanmar/NotoSansMyanmar-CondensedExtraBold.woff") format("woff");
 }
 
 @font-face {
@@ -82,12 +58,8 @@
     font-weight: 300;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-sans-myanmar/NotoSansMyanmar-CondensedExtraLight.woff2") format("woff2"),
-         url("/noto-sans-myanmar/NotoSansMyanmar-CondensedExtraLight.woff") format("woff");
-}
-
-.font-mymr {
-    font-family: noto-sans-myanmar;
+    src: url("noto-sans-myanmar/NotoSansMyanmar-CondensedExtraLight.woff2") format("woff2"),
+         url("noto-sans-myanmar/NotoSansMyanmar-CondensedExtraLight.woff") format("woff");
 }
 
 @font-face {
@@ -95,12 +67,8 @@
     font-weight: 300;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-sans-myanmar/NotoSansMyanmar-CondensedLight.woff2") format("woff2"),
-         url("/noto-sans-myanmar/NotoSansMyanmar-CondensedLight.woff") format("woff");
-}
-
-.font-mymr {
-    font-family: noto-sans-myanmar;
+    src: url("noto-sans-myanmar/NotoSansMyanmar-CondensedLight.woff2") format("woff2"),
+         url("noto-sans-myanmar/NotoSansMyanmar-CondensedLight.woff") format("woff");
 }
 
 @font-face {
@@ -108,12 +76,8 @@
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-sans-myanmar/NotoSansMyanmar-CondensedMedium.woff2") format("woff2"),
-         url("/noto-sans-myanmar/NotoSansMyanmar-CondensedMedium.woff") format("woff");
-}
-
-.font-mymr {
-    font-family: noto-sans-myanmar;
+    src: url("noto-sans-myanmar/NotoSansMyanmar-CondensedMedium.woff2") format("woff2"),
+         url("noto-sans-myanmar/NotoSansMyanmar-CondensedMedium.woff") format("woff");
 }
 
 @font-face {
@@ -121,12 +85,8 @@
     font-weight: 600;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-sans-myanmar/NotoSansMyanmar-CondensedSemiBold.woff2") format("woff2"),
-         url("/noto-sans-myanmar/NotoSansMyanmar-CondensedSemiBold.woff") format("woff");
-}
-
-.font-mymr {
-    font-family: noto-sans-myanmar;
+    src: url("noto-sans-myanmar/NotoSansMyanmar-CondensedSemiBold.woff2") format("woff2"),
+         url("noto-sans-myanmar/NotoSansMyanmar-CondensedSemiBold.woff") format("woff");
 }
 
 @font-face {
@@ -134,12 +94,8 @@
     font-weight: 100;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-sans-myanmar/NotoSansMyanmar-CondensedThin.woff2") format("woff2"),
-         url("/noto-sans-myanmar/NotoSansMyanmar-CondensedThin.woff") format("woff");
-}
-
-.font-mymr {
-    font-family: noto-sans-myanmar;
+    src: url("noto-sans-myanmar/NotoSansMyanmar-CondensedThin.woff2") format("woff2"),
+         url("noto-sans-myanmar/NotoSansMyanmar-CondensedThin.woff") format("woff");
 }
 
 @font-face {
@@ -147,12 +103,8 @@
     font-weight: 700;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-sans-myanmar/NotoSansMyanmar-ExtraBold.woff2") format("woff2"),
-         url("/noto-sans-myanmar/NotoSansMyanmar-ExtraBold.woff") format("woff");
-}
-
-.font-mymr {
-    font-family: noto-sans-myanmar;
+    src: url("noto-sans-myanmar/NotoSansMyanmar-ExtraBold.woff2") format("woff2"),
+         url("noto-sans-myanmar/NotoSansMyanmar-ExtraBold.woff") format("woff");
 }
 
 @font-face {
@@ -160,12 +112,8 @@
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-sans-myanmar/NotoSansMyanmar-ExtraCondensed.woff2") format("woff2"),
-         url("/noto-sans-myanmar/NotoSansMyanmar-ExtraCondensed.woff") format("woff");
-}
-
-.font-mymr {
-    font-family: noto-sans-myanmar;
+    src: url("noto-sans-myanmar/NotoSansMyanmar-ExtraCondensed.woff2") format("woff2"),
+         url("noto-sans-myanmar/NotoSansMyanmar-ExtraCondensed.woff") format("woff");
 }
 
 @font-face {
@@ -173,12 +121,8 @@
     font-weight: 900;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-sans-myanmar/NotoSansMyanmar-ExtraCondensedBlack.woff2") format("woff2"),
-         url("/noto-sans-myanmar/NotoSansMyanmar-ExtraCondensedBlack.woff") format("woff");
-}
-
-.font-mymr {
-    font-family: noto-sans-myanmar;
+    src: url("noto-sans-myanmar/NotoSansMyanmar-ExtraCondensedBlack.woff2") format("woff2"),
+         url("noto-sans-myanmar/NotoSansMyanmar-ExtraCondensedBlack.woff") format("woff");
 }
 
 @font-face {
@@ -186,12 +130,8 @@
     font-weight: 700;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-sans-myanmar/NotoSansMyanmar-ExtraCondensedBold.woff2") format("woff2"),
-         url("/noto-sans-myanmar/NotoSansMyanmar-ExtraCondensedBold.woff") format("woff");
-}
-
-.font-mymr {
-    font-family: noto-sans-myanmar;
+    src: url("noto-sans-myanmar/NotoSansMyanmar-ExtraCondensedBold.woff2") format("woff2"),
+         url("noto-sans-myanmar/NotoSansMyanmar-ExtraCondensedBold.woff") format("woff");
 }
 
 @font-face {
@@ -199,12 +139,8 @@
     font-weight: 700;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-sans-myanmar/NotoSansMyanmar-ExtraCondensedExtraBold.woff2") format("woff2"),
-         url("/noto-sans-myanmar/NotoSansMyanmar-ExtraCondensedExtraBold.woff") format("woff");
-}
-
-.font-mymr {
-    font-family: noto-sans-myanmar;
+    src: url("noto-sans-myanmar/NotoSansMyanmar-ExtraCondensedExtraBold.woff2") format("woff2"),
+         url("noto-sans-myanmar/NotoSansMyanmar-ExtraCondensedExtraBold.woff") format("woff");
 }
 
 @font-face {
@@ -212,12 +148,8 @@
     font-weight: 300;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-sans-myanmar/NotoSansMyanmar-ExtraCondensedExtraLight.woff2") format("woff2"),
-         url("/noto-sans-myanmar/NotoSansMyanmar-ExtraCondensedExtraLight.woff") format("woff");
-}
-
-.font-mymr {
-    font-family: noto-sans-myanmar;
+    src: url("noto-sans-myanmar/NotoSansMyanmar-ExtraCondensedExtraLight.woff2") format("woff2"),
+         url("noto-sans-myanmar/NotoSansMyanmar-ExtraCondensedExtraLight.woff") format("woff");
 }
 
 @font-face {
@@ -225,12 +157,8 @@
     font-weight: 300;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-sans-myanmar/NotoSansMyanmar-ExtraCondensedLight.woff2") format("woff2"),
-         url("/noto-sans-myanmar/NotoSansMyanmar-ExtraCondensedLight.woff") format("woff");
-}
-
-.font-mymr {
-    font-family: noto-sans-myanmar;
+    src: url("noto-sans-myanmar/NotoSansMyanmar-ExtraCondensedLight.woff2") format("woff2"),
+         url("noto-sans-myanmar/NotoSansMyanmar-ExtraCondensedLight.woff") format("woff");
 }
 
 @font-face {
@@ -238,12 +166,8 @@
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-sans-myanmar/NotoSansMyanmar-ExtraCondensedMedium.woff2") format("woff2"),
-         url("/noto-sans-myanmar/NotoSansMyanmar-ExtraCondensedMedium.woff") format("woff");
-}
-
-.font-mymr {
-    font-family: noto-sans-myanmar;
+    src: url("noto-sans-myanmar/NotoSansMyanmar-ExtraCondensedMedium.woff2") format("woff2"),
+         url("noto-sans-myanmar/NotoSansMyanmar-ExtraCondensedMedium.woff") format("woff");
 }
 
 @font-face {
@@ -251,12 +175,8 @@
     font-weight: 600;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-sans-myanmar/NotoSansMyanmar-ExtraCondensedSemiBold.woff2") format("woff2"),
-         url("/noto-sans-myanmar/NotoSansMyanmar-ExtraCondensedSemiBold.woff") format("woff");
-}
-
-.font-mymr {
-    font-family: noto-sans-myanmar;
+    src: url("noto-sans-myanmar/NotoSansMyanmar-ExtraCondensedSemiBold.woff2") format("woff2"),
+         url("noto-sans-myanmar/NotoSansMyanmar-ExtraCondensedSemiBold.woff") format("woff");
 }
 
 @font-face {
@@ -264,12 +184,8 @@
     font-weight: 100;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-sans-myanmar/NotoSansMyanmar-ExtraCondensedThin.woff2") format("woff2"),
-         url("/noto-sans-myanmar/NotoSansMyanmar-ExtraCondensedThin.woff") format("woff");
-}
-
-.font-mymr {
-    font-family: noto-sans-myanmar;
+    src: url("noto-sans-myanmar/NotoSansMyanmar-ExtraCondensedThin.woff2") format("woff2"),
+         url("noto-sans-myanmar/NotoSansMyanmar-ExtraCondensedThin.woff") format("woff");
 }
 
 @font-face {
@@ -277,12 +193,8 @@
     font-weight: 300;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-sans-myanmar/NotoSansMyanmar-ExtraLight.woff2") format("woff2"),
-         url("/noto-sans-myanmar/NotoSansMyanmar-ExtraLight.woff") format("woff");
-}
-
-.font-mymr {
-    font-family: noto-sans-myanmar;
+    src: url("noto-sans-myanmar/NotoSansMyanmar-ExtraLight.woff2") format("woff2"),
+         url("noto-sans-myanmar/NotoSansMyanmar-ExtraLight.woff") format("woff");
 }
 
 @font-face {
@@ -290,12 +202,8 @@
     font-weight: 300;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-sans-myanmar/NotoSansMyanmar-Light.woff2") format("woff2"),
-         url("/noto-sans-myanmar/NotoSansMyanmar-Light.woff") format("woff");
-}
-
-.font-mymr {
-    font-family: noto-sans-myanmar;
+    src: url("noto-sans-myanmar/NotoSansMyanmar-Light.woff2") format("woff2"),
+         url("noto-sans-myanmar/NotoSansMyanmar-Light.woff") format("woff");
 }
 
 @font-face {
@@ -303,12 +211,8 @@
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-sans-myanmar/NotoSansMyanmar-Medium.woff2") format("woff2"),
-         url("/noto-sans-myanmar/NotoSansMyanmar-Medium.woff") format("woff");
-}
-
-.font-mymr {
-    font-family: noto-sans-myanmar;
+    src: url("noto-sans-myanmar/NotoSansMyanmar-Medium.woff2") format("woff2"),
+         url("noto-sans-myanmar/NotoSansMyanmar-Medium.woff") format("woff");
 }
 
 @font-face {
@@ -316,12 +220,8 @@
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-sans-myanmar/NotoSansMyanmar-Regular.woff2") format("woff2"),
-         url("/noto-sans-myanmar/NotoSansMyanmar-Regular.woff") format("woff");
-}
-
-.font-mymr {
-    font-family: noto-sans-myanmar;
+    src: url("noto-sans-myanmar/NotoSansMyanmar-Regular.woff2") format("woff2"),
+         url("noto-sans-myanmar/NotoSansMyanmar-Regular.woff") format("woff");
 }
 
 @font-face {
@@ -329,12 +229,8 @@
     font-weight: 600;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-sans-myanmar/NotoSansMyanmar-SemiBold.woff2") format("woff2"),
-         url("/noto-sans-myanmar/NotoSansMyanmar-SemiBold.woff") format("woff");
-}
-
-.font-mymr {
-    font-family: noto-sans-myanmar;
+    src: url("noto-sans-myanmar/NotoSansMyanmar-SemiBold.woff2") format("woff2"),
+         url("noto-sans-myanmar/NotoSansMyanmar-SemiBold.woff") format("woff");
 }
 
 @font-face {
@@ -342,12 +238,8 @@
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-sans-myanmar/NotoSansMyanmar-SemiCondensed.woff2") format("woff2"),
-         url("/noto-sans-myanmar/NotoSansMyanmar-SemiCondensed.woff") format("woff");
-}
-
-.font-mymr {
-    font-family: noto-sans-myanmar;
+    src: url("noto-sans-myanmar/NotoSansMyanmar-SemiCondensed.woff2") format("woff2"),
+         url("noto-sans-myanmar/NotoSansMyanmar-SemiCondensed.woff") format("woff");
 }
 
 @font-face {
@@ -355,12 +247,8 @@
     font-weight: 900;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-sans-myanmar/NotoSansMyanmar-SemiCondensedBlack.woff2") format("woff2"),
-         url("/noto-sans-myanmar/NotoSansMyanmar-SemiCondensedBlack.woff") format("woff");
-}
-
-.font-mymr {
-    font-family: noto-sans-myanmar;
+    src: url("noto-sans-myanmar/NotoSansMyanmar-SemiCondensedBlack.woff2") format("woff2"),
+         url("noto-sans-myanmar/NotoSansMyanmar-SemiCondensedBlack.woff") format("woff");
 }
 
 @font-face {
@@ -368,12 +256,8 @@
     font-weight: 700;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-sans-myanmar/NotoSansMyanmar-SemiCondensedBold.woff2") format("woff2"),
-         url("/noto-sans-myanmar/NotoSansMyanmar-SemiCondensedBold.woff") format("woff");
-}
-
-.font-mymr {
-    font-family: noto-sans-myanmar;
+    src: url("noto-sans-myanmar/NotoSansMyanmar-SemiCondensedBold.woff2") format("woff2"),
+         url("noto-sans-myanmar/NotoSansMyanmar-SemiCondensedBold.woff") format("woff");
 }
 
 @font-face {
@@ -381,12 +265,8 @@
     font-weight: 700;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-sans-myanmar/NotoSansMyanmar-SemiCondensedExtraBold.woff2") format("woff2"),
-         url("/noto-sans-myanmar/NotoSansMyanmar-SemiCondensedExtraBold.woff") format("woff");
-}
-
-.font-mymr {
-    font-family: noto-sans-myanmar;
+    src: url("noto-sans-myanmar/NotoSansMyanmar-SemiCondensedExtraBold.woff2") format("woff2"),
+         url("noto-sans-myanmar/NotoSansMyanmar-SemiCondensedExtraBold.woff") format("woff");
 }
 
 @font-face {
@@ -394,12 +274,8 @@
     font-weight: 300;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-sans-myanmar/NotoSansMyanmar-SemiCondensedExtraLight.woff2") format("woff2"),
-         url("/noto-sans-myanmar/NotoSansMyanmar-SemiCondensedExtraLight.woff") format("woff");
-}
-
-.font-mymr {
-    font-family: noto-sans-myanmar;
+    src: url("noto-sans-myanmar/NotoSansMyanmar-SemiCondensedExtraLight.woff2") format("woff2"),
+         url("noto-sans-myanmar/NotoSansMyanmar-SemiCondensedExtraLight.woff") format("woff");
 }
 
 @font-face {
@@ -407,12 +283,8 @@
     font-weight: 300;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-sans-myanmar/NotoSansMyanmar-SemiCondensedLight.woff2") format("woff2"),
-         url("/noto-sans-myanmar/NotoSansMyanmar-SemiCondensedLight.woff") format("woff");
-}
-
-.font-mymr {
-    font-family: noto-sans-myanmar;
+    src: url("noto-sans-myanmar/NotoSansMyanmar-SemiCondensedLight.woff2") format("woff2"),
+         url("noto-sans-myanmar/NotoSansMyanmar-SemiCondensedLight.woff") format("woff");
 }
 
 @font-face {
@@ -420,12 +292,8 @@
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-sans-myanmar/NotoSansMyanmar-SemiCondensedMedium.woff2") format("woff2"),
-         url("/noto-sans-myanmar/NotoSansMyanmar-SemiCondensedMedium.woff") format("woff");
-}
-
-.font-mymr {
-    font-family: noto-sans-myanmar;
+    src: url("noto-sans-myanmar/NotoSansMyanmar-SemiCondensedMedium.woff2") format("woff2"),
+         url("noto-sans-myanmar/NotoSansMyanmar-SemiCondensedMedium.woff") format("woff");
 }
 
 @font-face {
@@ -433,12 +301,8 @@
     font-weight: 600;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-sans-myanmar/NotoSansMyanmar-SemiCondensedSemiBold.woff2") format("woff2"),
-         url("/noto-sans-myanmar/NotoSansMyanmar-SemiCondensedSemiBold.woff") format("woff");
-}
-
-.font-mymr {
-    font-family: noto-sans-myanmar;
+    src: url("noto-sans-myanmar/NotoSansMyanmar-SemiCondensedSemiBold.woff2") format("woff2"),
+         url("noto-sans-myanmar/NotoSansMyanmar-SemiCondensedSemiBold.woff") format("woff");
 }
 
 @font-face {
@@ -446,12 +310,8 @@
     font-weight: 100;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-sans-myanmar/NotoSansMyanmar-SemiCondensedThin.woff2") format("woff2"),
-         url("/noto-sans-myanmar/NotoSansMyanmar-SemiCondensedThin.woff") format("woff");
-}
-
-.font-mymr {
-    font-family: noto-sans-myanmar;
+    src: url("noto-sans-myanmar/NotoSansMyanmar-SemiCondensedThin.woff2") format("woff2"),
+         url("noto-sans-myanmar/NotoSansMyanmar-SemiCondensedThin.woff") format("woff");
 }
 
 @font-face {
@@ -459,8 +319,8 @@
     font-weight: 100;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-sans-myanmar/NotoSansMyanmar-Thin.woff2") format("woff2"),
-         url("/noto-sans-myanmar/NotoSansMyanmar-Thin.woff") format("woff");
+    src: url("noto-sans-myanmar/NotoSansMyanmar-Thin.woff2") format("woff2"),
+         url("noto-sans-myanmar/NotoSansMyanmar-Thin.woff") format("woff");
 }
 
 .font-mymr {

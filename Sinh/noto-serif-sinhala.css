@@ -4,12 +4,8 @@
     font-weight: 900;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-serif-sinhala/NotoSerifSinhala-Black.woff2") format("woff2"),
-         url("/noto-serif-sinhala/NotoSerifSinhala-Black.woff") format("woff");
-}
-
-.font-sinh {
-    font-family: noto-serif-sinhala;
+    src: url("noto-serif-sinhala/NotoSerifSinhala-Black.woff2") format("woff2"),
+         url("noto-serif-sinhala/NotoSerifSinhala-Black.woff") format("woff");
 }
 
 @font-face {
@@ -17,12 +13,8 @@
     font-weight: 700;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-serif-sinhala/NotoSerifSinhala-Bold.woff2") format("woff2"),
-         url("/noto-serif-sinhala/NotoSerifSinhala-Bold.woff") format("woff");
-}
-
-.font-sinh {
-    font-family: noto-serif-sinhala;
+    src: url("noto-serif-sinhala/NotoSerifSinhala-Bold.woff2") format("woff2"),
+         url("noto-serif-sinhala/NotoSerifSinhala-Bold.woff") format("woff");
 }
 
 @font-face {
@@ -30,12 +22,8 @@
     font-weight: 700;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-serif-sinhala/NotoSerifSinhala-ExtraBold.woff2") format("woff2"),
-         url("/noto-serif-sinhala/NotoSerifSinhala-ExtraBold.woff") format("woff");
-}
-
-.font-sinh {
-    font-family: noto-serif-sinhala;
+    src: url("noto-serif-sinhala/NotoSerifSinhala-ExtraBold.woff2") format("woff2"),
+         url("noto-serif-sinhala/NotoSerifSinhala-ExtraBold.woff") format("woff");
 }
 
 @font-face {
@@ -43,12 +31,8 @@
     font-weight: 300;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-serif-sinhala/NotoSerifSinhala-ExtraLight.woff2") format("woff2"),
-         url("/noto-serif-sinhala/NotoSerifSinhala-ExtraLight.woff") format("woff");
-}
-
-.font-sinh {
-    font-family: noto-serif-sinhala;
+    src: url("noto-serif-sinhala/NotoSerifSinhala-ExtraLight.woff2") format("woff2"),
+         url("noto-serif-sinhala/NotoSerifSinhala-ExtraLight.woff") format("woff");
 }
 
 @font-face {
@@ -56,12 +40,8 @@
     font-weight: 300;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-serif-sinhala/NotoSerifSinhala-Light.woff2") format("woff2"),
-         url("/noto-serif-sinhala/NotoSerifSinhala-Light.woff") format("woff");
-}
-
-.font-sinh {
-    font-family: noto-serif-sinhala;
+    src: url("noto-serif-sinhala/NotoSerifSinhala-Light.woff2") format("woff2"),
+         url("noto-serif-sinhala/NotoSerifSinhala-Light.woff") format("woff");
 }
 
 @font-face {
@@ -69,12 +49,8 @@
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-serif-sinhala/NotoSerifSinhala-Medium.woff2") format("woff2"),
-         url("/noto-serif-sinhala/NotoSerifSinhala-Medium.woff") format("woff");
-}
-
-.font-sinh {
-    font-family: noto-serif-sinhala;
+    src: url("noto-serif-sinhala/NotoSerifSinhala-Medium.woff2") format("woff2"),
+         url("noto-serif-sinhala/NotoSerifSinhala-Medium.woff") format("woff");
 }
 
 @font-face {
@@ -82,12 +58,8 @@
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-serif-sinhala/NotoSerifSinhala-Regular.woff2") format("woff2"),
-         url("/noto-serif-sinhala/NotoSerifSinhala-Regular.woff") format("woff");
-}
-
-.font-sinh {
-    font-family: noto-serif-sinhala;
+    src: url("noto-serif-sinhala/NotoSerifSinhala-Regular.woff2") format("woff2"),
+         url("noto-serif-sinhala/NotoSerifSinhala-Regular.woff") format("woff");
 }
 
 @font-face {
@@ -95,12 +67,8 @@
     font-weight: 600;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-serif-sinhala/NotoSerifSinhala-SemiBold.woff2") format("woff2"),
-         url("/noto-serif-sinhala/NotoSerifSinhala-SemiBold.woff") format("woff");
-}
-
-.font-sinh {
-    font-family: noto-serif-sinhala;
+    src: url("noto-serif-sinhala/NotoSerifSinhala-SemiBold.woff2") format("woff2"),
+         url("noto-serif-sinhala/NotoSerifSinhala-SemiBold.woff") format("woff");
 }
 
 @font-face {
@@ -108,8 +76,8 @@
     font-weight: 100;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-serif-sinhala/NotoSerifSinhala-Thin.woff2") format("woff2"),
-         url("/noto-serif-sinhala/NotoSerifSinhala-Thin.woff") format("woff");
+    src: url("noto-serif-sinhala/NotoSerifSinhala-Thin.woff2") format("woff2"),
+         url("noto-serif-sinhala/NotoSerifSinhala-Thin.woff") format("woff");
 }
 
 .font-sinh {

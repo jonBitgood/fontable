@@ -4,12 +4,8 @@
     font-weight: 700;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-gujarati/NotoSansGujaratiUI-Bold.woff2") format("woff2"),
-         url("/notoui-sans-gujarati/NotoSansGujaratiUI-Bold.woff") format("woff");
-}
-
-.font-gujr {
-    font-family: notoui-sans-gujarati;
+    src: url("notoui-sans-gujarati/NotoSansGujaratiUI-Bold.woff2") format("woff2"),
+         url("notoui-sans-gujarati/NotoSansGujaratiUI-Bold.woff") format("woff");
 }
 
 @font-face {
@@ -17,8 +13,8 @@
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-gujarati/NotoSansGujaratiUI-Regular.woff2") format("woff2"),
-         url("/notoui-sans-gujarati/NotoSansGujaratiUI-Regular.woff") format("woff");
+    src: url("notoui-sans-gujarati/NotoSansGujaratiUI-Regular.woff2") format("woff2"),
+         url("notoui-sans-gujarati/NotoSansGujaratiUI-Regular.woff") format("woff");
 }
 
 .font-gujr {

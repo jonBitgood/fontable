@@ -4,12 +4,8 @@
     font-weight: 900;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-thai/NotoSansThaiUI-Black.woff2") format("woff2"),
-         url("/notoui-sans-thai/NotoSansThaiUI-Black.woff") format("woff");
-}
-
-.font-thai {
-    font-family: notoui-sans-thai;
+    src: url("notoui-sans-thai/NotoSansThaiUI-Black.woff2") format("woff2"),
+         url("notoui-sans-thai/NotoSansThaiUI-Black.woff") format("woff");
 }
 
 @font-face {
@@ -17,12 +13,8 @@
     font-weight: 700;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-thai/NotoSansThaiUI-Bold.woff2") format("woff2"),
-         url("/notoui-sans-thai/NotoSansThaiUI-Bold.woff") format("woff");
-}
-
-.font-thai {
-    font-family: notoui-sans-thai;
+    src: url("notoui-sans-thai/NotoSansThaiUI-Bold.woff2") format("woff2"),
+         url("notoui-sans-thai/NotoSansThaiUI-Bold.woff") format("woff");
 }
 
 @font-face {
@@ -30,12 +22,8 @@
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-thai/NotoSansThaiUI-Condensed.woff2") format("woff2"),
-         url("/notoui-sans-thai/NotoSansThaiUI-Condensed.woff") format("woff");
-}
-
-.font-thai {
-    font-family: notoui-sans-thai;
+    src: url("notoui-sans-thai/NotoSansThaiUI-Condensed.woff2") format("woff2"),
+         url("notoui-sans-thai/NotoSansThaiUI-Condensed.woff") format("woff");
 }
 
 @font-face {
@@ -43,12 +31,8 @@
     font-weight: 900;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-thai/NotoSansThaiUI-CondensedBlack.woff2") format("woff2"),
-         url("/notoui-sans-thai/NotoSansThaiUI-CondensedBlack.woff") format("woff");
-}
-
-.font-thai {
-    font-family: notoui-sans-thai;
+    src: url("notoui-sans-thai/NotoSansThaiUI-CondensedBlack.woff2") format("woff2"),
+         url("notoui-sans-thai/NotoSansThaiUI-CondensedBlack.woff") format("woff");
 }
 
 @font-face {
@@ -56,12 +40,8 @@
     font-weight: 700;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-thai/NotoSansThaiUI-CondensedBold.woff2") format("woff2"),
-         url("/notoui-sans-thai/NotoSansThaiUI-CondensedBold.woff") format("woff");
-}
-
-.font-thai {
-    font-family: notoui-sans-thai;
+    src: url("notoui-sans-thai/NotoSansThaiUI-CondensedBold.woff2") format("woff2"),
+         url("notoui-sans-thai/NotoSansThaiUI-CondensedBold.woff") format("woff");
 }
 
 @font-face {
@@ -69,12 +49,8 @@
     font-weight: 700;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-thai/NotoSansThaiUI-CondensedExtraBold.woff2") format("woff2"),
-         url("/notoui-sans-thai/NotoSansThaiUI-CondensedExtraBold.woff") format("woff");
-}
-
-.font-thai {
-    font-family: notoui-sans-thai;
+    src: url("notoui-sans-thai/NotoSansThaiUI-CondensedExtraBold.woff2") format("woff2"),
+         url("notoui-sans-thai/NotoSansThaiUI-CondensedExtraBold.woff") format("woff");
 }
 
 @font-face {
@@ -82,12 +58,8 @@
     font-weight: 300;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-thai/NotoSansThaiUI-CondensedExtraLight.woff2") format("woff2"),
-         url("/notoui-sans-thai/NotoSansThaiUI-CondensedExtraLight.woff") format("woff");
-}
-
-.font-thai {
-    font-family: notoui-sans-thai;
+    src: url("notoui-sans-thai/NotoSansThaiUI-CondensedExtraLight.woff2") format("woff2"),
+         url("notoui-sans-thai/NotoSansThaiUI-CondensedExtraLight.woff") format("woff");
 }
 
 @font-face {
@@ -95,12 +67,8 @@
     font-weight: 300;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-thai/NotoSansThaiUI-CondensedLight.woff2") format("woff2"),
-         url("/notoui-sans-thai/NotoSansThaiUI-CondensedLight.woff") format("woff");
-}
-
-.font-thai {
-    font-family: notoui-sans-thai;
+    src: url("notoui-sans-thai/NotoSansThaiUI-CondensedLight.woff2") format("woff2"),
+         url("notoui-sans-thai/NotoSansThaiUI-CondensedLight.woff") format("woff");
 }
 
 @font-face {
@@ -108,12 +76,8 @@
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-thai/NotoSansThaiUI-CondensedMedium.woff2") format("woff2"),
-         url("/notoui-sans-thai/NotoSansThaiUI-CondensedMedium.woff") format("woff");
-}
-
-.font-thai {
-    font-family: notoui-sans-thai;
+    src: url("notoui-sans-thai/NotoSansThaiUI-CondensedMedium.woff2") format("woff2"),
+         url("notoui-sans-thai/NotoSansThaiUI-CondensedMedium.woff") format("woff");
 }
 
 @font-face {
@@ -121,12 +85,8 @@
     font-weight: 600;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-thai/NotoSansThaiUI-CondensedSemiBold.woff2") format("woff2"),
-         url("/notoui-sans-thai/NotoSansThaiUI-CondensedSemiBold.woff") format("woff");
-}
-
-.font-thai {
-    font-family: notoui-sans-thai;
+    src: url("notoui-sans-thai/NotoSansThaiUI-CondensedSemiBold.woff2") format("woff2"),
+         url("notoui-sans-thai/NotoSansThaiUI-CondensedSemiBold.woff") format("woff");
 }
 
 @font-face {
@@ -134,12 +94,8 @@
     font-weight: 100;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-thai/NotoSansThaiUI-CondensedThin.woff2") format("woff2"),
-         url("/notoui-sans-thai/NotoSansThaiUI-CondensedThin.woff") format("woff");
-}
-
-.font-thai {
-    font-family: notoui-sans-thai;
+    src: url("notoui-sans-thai/NotoSansThaiUI-CondensedThin.woff2") format("woff2"),
+         url("notoui-sans-thai/NotoSansThaiUI-CondensedThin.woff") format("woff");
 }
 
 @font-face {
@@ -147,12 +103,8 @@
     font-weight: 700;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-thai/NotoSansThaiUI-ExtraBold.woff2") format("woff2"),
-         url("/notoui-sans-thai/NotoSansThaiUI-ExtraBold.woff") format("woff");
-}
-
-.font-thai {
-    font-family: notoui-sans-thai;
+    src: url("notoui-sans-thai/NotoSansThaiUI-ExtraBold.woff2") format("woff2"),
+         url("notoui-sans-thai/NotoSansThaiUI-ExtraBold.woff") format("woff");
 }
 
 @font-face {
@@ -160,12 +112,8 @@
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-thai/NotoSansThaiUI-ExtraCondensed.woff2") format("woff2"),
-         url("/notoui-sans-thai/NotoSansThaiUI-ExtraCondensed.woff") format("woff");
-}
-
-.font-thai {
-    font-family: notoui-sans-thai;
+    src: url("notoui-sans-thai/NotoSansThaiUI-ExtraCondensed.woff2") format("woff2"),
+         url("notoui-sans-thai/NotoSansThaiUI-ExtraCondensed.woff") format("woff");
 }
 
 @font-face {
@@ -173,12 +121,8 @@
     font-weight: 900;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-thai/NotoSansThaiUI-ExtraCondensedBlack.woff2") format("woff2"),
-         url("/notoui-sans-thai/NotoSansThaiUI-ExtraCondensedBlack.woff") format("woff");
-}
-
-.font-thai {
-    font-family: notoui-sans-thai;
+    src: url("notoui-sans-thai/NotoSansThaiUI-ExtraCondensedBlack.woff2") format("woff2"),
+         url("notoui-sans-thai/NotoSansThaiUI-ExtraCondensedBlack.woff") format("woff");
 }
 
 @font-face {
@@ -186,12 +130,8 @@
     font-weight: 700;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-thai/NotoSansThaiUI-ExtraCondensedBold.woff2") format("woff2"),
-         url("/notoui-sans-thai/NotoSansThaiUI-ExtraCondensedBold.woff") format("woff");
-}
-
-.font-thai {
-    font-family: notoui-sans-thai;
+    src: url("notoui-sans-thai/NotoSansThaiUI-ExtraCondensedBold.woff2") format("woff2"),
+         url("notoui-sans-thai/NotoSansThaiUI-ExtraCondensedBold.woff") format("woff");
 }
 
 @font-face {
@@ -199,12 +139,8 @@
     font-weight: 700;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-thai/NotoSansThaiUI-ExtraCondensedExtraBold.woff2") format("woff2"),
-         url("/notoui-sans-thai/NotoSansThaiUI-ExtraCondensedExtraBold.woff") format("woff");
-}
-
-.font-thai {
-    font-family: notoui-sans-thai;
+    src: url("notoui-sans-thai/NotoSansThaiUI-ExtraCondensedExtraBold.woff2") format("woff2"),
+         url("notoui-sans-thai/NotoSansThaiUI-ExtraCondensedExtraBold.woff") format("woff");
 }
 
 @font-face {
@@ -212,12 +148,8 @@
     font-weight: 300;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-thai/NotoSansThaiUI-ExtraCondensedExtraLight.woff2") format("woff2"),
-         url("/notoui-sans-thai/NotoSansThaiUI-ExtraCondensedExtraLight.woff") format("woff");
-}
-
-.font-thai {
-    font-family: notoui-sans-thai;
+    src: url("notoui-sans-thai/NotoSansThaiUI-ExtraCondensedExtraLight.woff2") format("woff2"),
+         url("notoui-sans-thai/NotoSansThaiUI-ExtraCondensedExtraLight.woff") format("woff");
 }
 
 @font-face {
@@ -225,12 +157,8 @@
     font-weight: 300;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-thai/NotoSansThaiUI-ExtraCondensedLight.woff2") format("woff2"),
-         url("/notoui-sans-thai/NotoSansThaiUI-ExtraCondensedLight.woff") format("woff");
-}
-
-.font-thai {
-    font-family: notoui-sans-thai;
+    src: url("notoui-sans-thai/NotoSansThaiUI-ExtraCondensedLight.woff2") format("woff2"),
+         url("notoui-sans-thai/NotoSansThaiUI-ExtraCondensedLight.woff") format("woff");
 }
 
 @font-face {
@@ -238,12 +166,8 @@
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-thai/NotoSansThaiUI-ExtraCondensedMedium.woff2") format("woff2"),
-         url("/notoui-sans-thai/NotoSansThaiUI-ExtraCondensedMedium.woff") format("woff");
-}
-
-.font-thai {
-    font-family: notoui-sans-thai;
+    src: url("notoui-sans-thai/NotoSansThaiUI-ExtraCondensedMedium.woff2") format("woff2"),
+         url("notoui-sans-thai/NotoSansThaiUI-ExtraCondensedMedium.woff") format("woff");
 }
 
 @font-face {
@@ -251,12 +175,8 @@
     font-weight: 600;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-thai/NotoSansThaiUI-ExtraCondensedSemiBold.woff2") format("woff2"),
-         url("/notoui-sans-thai/NotoSansThaiUI-ExtraCondensedSemiBold.woff") format("woff");
-}
-
-.font-thai {
-    font-family: notoui-sans-thai;
+    src: url("notoui-sans-thai/NotoSansThaiUI-ExtraCondensedSemiBold.woff2") format("woff2"),
+         url("notoui-sans-thai/NotoSansThaiUI-ExtraCondensedSemiBold.woff") format("woff");
 }
 
 @font-face {
@@ -264,12 +184,8 @@
     font-weight: 100;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-thai/NotoSansThaiUI-ExtraCondensedThin.woff2") format("woff2"),
-         url("/notoui-sans-thai/NotoSansThaiUI-ExtraCondensedThin.woff") format("woff");
-}
-
-.font-thai {
-    font-family: notoui-sans-thai;
+    src: url("notoui-sans-thai/NotoSansThaiUI-ExtraCondensedThin.woff2") format("woff2"),
+         url("notoui-sans-thai/NotoSansThaiUI-ExtraCondensedThin.woff") format("woff");
 }
 
 @font-face {
@@ -277,12 +193,8 @@
     font-weight: 300;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-thai/NotoSansThaiUI-ExtraLight.woff2") format("woff2"),
-         url("/notoui-sans-thai/NotoSansThaiUI-ExtraLight.woff") format("woff");
-}
-
-.font-thai {
-    font-family: notoui-sans-thai;
+    src: url("notoui-sans-thai/NotoSansThaiUI-ExtraLight.woff2") format("woff2"),
+         url("notoui-sans-thai/NotoSansThaiUI-ExtraLight.woff") format("woff");
 }
 
 @font-face {
@@ -290,12 +202,8 @@
     font-weight: 300;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-thai/NotoSansThaiUI-Light.woff2") format("woff2"),
-         url("/notoui-sans-thai/NotoSansThaiUI-Light.woff") format("woff");
-}
-
-.font-thai {
-    font-family: notoui-sans-thai;
+    src: url("notoui-sans-thai/NotoSansThaiUI-Light.woff2") format("woff2"),
+         url("notoui-sans-thai/NotoSansThaiUI-Light.woff") format("woff");
 }
 
 @font-face {
@@ -303,12 +211,8 @@
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-thai/NotoSansThaiUI-Medium.woff2") format("woff2"),
-         url("/notoui-sans-thai/NotoSansThaiUI-Medium.woff") format("woff");
-}
-
-.font-thai {
-    font-family: notoui-sans-thai;
+    src: url("notoui-sans-thai/NotoSansThaiUI-Medium.woff2") format("woff2"),
+         url("notoui-sans-thai/NotoSansThaiUI-Medium.woff") format("woff");
 }
 
 @font-face {
@@ -316,12 +220,8 @@
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-thai/NotoSansThaiUI-Regular.woff2") format("woff2"),
-         url("/notoui-sans-thai/NotoSansThaiUI-Regular.woff") format("woff");
-}
-
-.font-thai {
-    font-family: notoui-sans-thai;
+    src: url("notoui-sans-thai/NotoSansThaiUI-Regular.woff2") format("woff2"),
+         url("notoui-sans-thai/NotoSansThaiUI-Regular.woff") format("woff");
 }
 
 @font-face {
@@ -329,12 +229,8 @@
     font-weight: 600;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-thai/NotoSansThaiUI-SemiBold.woff2") format("woff2"),
-         url("/notoui-sans-thai/NotoSansThaiUI-SemiBold.woff") format("woff");
-}
-
-.font-thai {
-    font-family: notoui-sans-thai;
+    src: url("notoui-sans-thai/NotoSansThaiUI-SemiBold.woff2") format("woff2"),
+         url("notoui-sans-thai/NotoSansThaiUI-SemiBold.woff") format("woff");
 }
 
 @font-face {
@@ -342,12 +238,8 @@
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-thai/NotoSansThaiUI-SemiCondensed.woff2") format("woff2"),
-         url("/notoui-sans-thai/NotoSansThaiUI-SemiCondensed.woff") format("woff");
-}
-
-.font-thai {
-    font-family: notoui-sans-thai;
+    src: url("notoui-sans-thai/NotoSansThaiUI-SemiCondensed.woff2") format("woff2"),
+         url("notoui-sans-thai/NotoSansThaiUI-SemiCondensed.woff") format("woff");
 }
 
 @font-face {
@@ -355,12 +247,8 @@
     font-weight: 900;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-thai/NotoSansThaiUI-SemiCondensedBlack.woff2") format("woff2"),
-         url("/notoui-sans-thai/NotoSansThaiUI-SemiCondensedBlack.woff") format("woff");
-}
-
-.font-thai {
-    font-family: notoui-sans-thai;
+    src: url("notoui-sans-thai/NotoSansThaiUI-SemiCondensedBlack.woff2") format("woff2"),
+         url("notoui-sans-thai/NotoSansThaiUI-SemiCondensedBlack.woff") format("woff");
 }
 
 @font-face {
@@ -368,12 +256,8 @@
     font-weight: 700;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-thai/NotoSansThaiUI-SemiCondensedBold.woff2") format("woff2"),
-         url("/notoui-sans-thai/NotoSansThaiUI-SemiCondensedBold.woff") format("woff");
-}
-
-.font-thai {
-    font-family: notoui-sans-thai;
+    src: url("notoui-sans-thai/NotoSansThaiUI-SemiCondensedBold.woff2") format("woff2"),
+         url("notoui-sans-thai/NotoSansThaiUI-SemiCondensedBold.woff") format("woff");
 }
 
 @font-face {
@@ -381,12 +265,8 @@
     font-weight: 700;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-thai/NotoSansThaiUI-SemiCondensedExtraBold.woff2") format("woff2"),
-         url("/notoui-sans-thai/NotoSansThaiUI-SemiCondensedExtraBold.woff") format("woff");
-}
-
-.font-thai {
-    font-family: notoui-sans-thai;
+    src: url("notoui-sans-thai/NotoSansThaiUI-SemiCondensedExtraBold.woff2") format("woff2"),
+         url("notoui-sans-thai/NotoSansThaiUI-SemiCondensedExtraBold.woff") format("woff");
 }
 
 @font-face {
@@ -394,12 +274,8 @@
     font-weight: 300;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-thai/NotoSansThaiUI-SemiCondensedExtraLight.woff2") format("woff2"),
-         url("/notoui-sans-thai/NotoSansThaiUI-SemiCondensedExtraLight.woff") format("woff");
-}
-
-.font-thai {
-    font-family: notoui-sans-thai;
+    src: url("notoui-sans-thai/NotoSansThaiUI-SemiCondensedExtraLight.woff2") format("woff2"),
+         url("notoui-sans-thai/NotoSansThaiUI-SemiCondensedExtraLight.woff") format("woff");
 }
 
 @font-face {
@@ -407,12 +283,8 @@
     font-weight: 300;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-thai/NotoSansThaiUI-SemiCondensedLight.woff2") format("woff2"),
-         url("/notoui-sans-thai/NotoSansThaiUI-SemiCondensedLight.woff") format("woff");
-}
-
-.font-thai {
-    font-family: notoui-sans-thai;
+    src: url("notoui-sans-thai/NotoSansThaiUI-SemiCondensedLight.woff2") format("woff2"),
+         url("notoui-sans-thai/NotoSansThaiUI-SemiCondensedLight.woff") format("woff");
 }
 
 @font-face {
@@ -420,12 +292,8 @@
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-thai/NotoSansThaiUI-SemiCondensedMedium.woff2") format("woff2"),
-         url("/notoui-sans-thai/NotoSansThaiUI-SemiCondensedMedium.woff") format("woff");
-}
-
-.font-thai {
-    font-family: notoui-sans-thai;
+    src: url("notoui-sans-thai/NotoSansThaiUI-SemiCondensedMedium.woff2") format("woff2"),
+         url("notoui-sans-thai/NotoSansThaiUI-SemiCondensedMedium.woff") format("woff");
 }
 
 @font-face {
@@ -433,12 +301,8 @@
     font-weight: 600;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-thai/NotoSansThaiUI-SemiCondensedSemiBold.woff2") format("woff2"),
-         url("/notoui-sans-thai/NotoSansThaiUI-SemiCondensedSemiBold.woff") format("woff");
-}
-
-.font-thai {
-    font-family: notoui-sans-thai;
+    src: url("notoui-sans-thai/NotoSansThaiUI-SemiCondensedSemiBold.woff2") format("woff2"),
+         url("notoui-sans-thai/NotoSansThaiUI-SemiCondensedSemiBold.woff") format("woff");
 }
 
 @font-face {
@@ -446,12 +310,8 @@
     font-weight: 100;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-thai/NotoSansThaiUI-SemiCondensedThin.woff2") format("woff2"),
-         url("/notoui-sans-thai/NotoSansThaiUI-SemiCondensedThin.woff") format("woff");
-}
-
-.font-thai {
-    font-family: notoui-sans-thai;
+    src: url("notoui-sans-thai/NotoSansThaiUI-SemiCondensedThin.woff2") format("woff2"),
+         url("notoui-sans-thai/NotoSansThaiUI-SemiCondensedThin.woff") format("woff");
 }
 
 @font-face {
@@ -459,8 +319,8 @@
     font-weight: 100;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-thai/NotoSansThaiUI-Thin.woff2") format("woff2"),
-         url("/notoui-sans-thai/NotoSansThaiUI-Thin.woff") format("woff");
+    src: url("notoui-sans-thai/NotoSansThaiUI-Thin.woff2") format("woff2"),
+         url("notoui-sans-thai/NotoSansThaiUI-Thin.woff") format("woff");
 }
 
 .font-thai {

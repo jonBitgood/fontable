@@ -4,12 +4,8 @@
     font-weight: 900;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-arabic/NotoSansArabicUI-Black.woff2") format("woff2"),
-         url("/notoui-sans-arabic/NotoSansArabicUI-Black.woff") format("woff");
-}
-
-.font-arab {
-    font-family: notoui-sans-arabic;
+    src: url("notoui-sans-arabic/NotoSansArabicUI-Black.woff2") format("woff2"),
+         url("notoui-sans-arabic/NotoSansArabicUI-Black.woff") format("woff");
 }
 
 @font-face {
@@ -17,12 +13,8 @@
     font-weight: 700;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-arabic/NotoSansArabicUI-Bold.woff2") format("woff2"),
-         url("/notoui-sans-arabic/NotoSansArabicUI-Bold.woff") format("woff");
-}
-
-.font-arab {
-    font-family: notoui-sans-arabic;
+    src: url("notoui-sans-arabic/NotoSansArabicUI-Bold.woff2") format("woff2"),
+         url("notoui-sans-arabic/NotoSansArabicUI-Bold.woff") format("woff");
 }
 
 @font-face {
@@ -30,12 +22,8 @@
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-arabic/NotoSansArabicUI-Condensed.woff2") format("woff2"),
-         url("/notoui-sans-arabic/NotoSansArabicUI-Condensed.woff") format("woff");
-}
-
-.font-arab {
-    font-family: notoui-sans-arabic;
+    src: url("notoui-sans-arabic/NotoSansArabicUI-Condensed.woff2") format("woff2"),
+         url("notoui-sans-arabic/NotoSansArabicUI-Condensed.woff") format("woff");
 }
 
 @font-face {
@@ -43,12 +31,8 @@
     font-weight: 900;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-arabic/NotoSansArabicUI-CondensedBlack.woff2") format("woff2"),
-         url("/notoui-sans-arabic/NotoSansArabicUI-CondensedBlack.woff") format("woff");
-}
-
-.font-arab {
-    font-family: notoui-sans-arabic;
+    src: url("notoui-sans-arabic/NotoSansArabicUI-CondensedBlack.woff2") format("woff2"),
+         url("notoui-sans-arabic/NotoSansArabicUI-CondensedBlack.woff") format("woff");
 }
 
 @font-face {
@@ -56,12 +40,8 @@
     font-weight: 700;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-arabic/NotoSansArabicUI-CondensedBold.woff2") format("woff2"),
-         url("/notoui-sans-arabic/NotoSansArabicUI-CondensedBold.woff") format("woff");
-}
-
-.font-arab {
-    font-family: notoui-sans-arabic;
+    src: url("notoui-sans-arabic/NotoSansArabicUI-CondensedBold.woff2") format("woff2"),
+         url("notoui-sans-arabic/NotoSansArabicUI-CondensedBold.woff") format("woff");
 }
 
 @font-face {
@@ -69,12 +49,8 @@
     font-weight: 700;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-arabic/NotoSansArabicUI-CondensedExtraBold.woff2") format("woff2"),
-         url("/notoui-sans-arabic/NotoSansArabicUI-CondensedExtraBold.woff") format("woff");
-}
-
-.font-arab {
-    font-family: notoui-sans-arabic;
+    src: url("notoui-sans-arabic/NotoSansArabicUI-CondensedExtraBold.woff2") format("woff2"),
+         url("notoui-sans-arabic/NotoSansArabicUI-CondensedExtraBold.woff") format("woff");
 }
 
 @font-face {
@@ -82,12 +58,8 @@
     font-weight: 300;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-arabic/NotoSansArabicUI-CondensedExtraLight.woff2") format("woff2"),
-         url("/notoui-sans-arabic/NotoSansArabicUI-CondensedExtraLight.woff") format("woff");
-}
-
-.font-arab {
-    font-family: notoui-sans-arabic;
+    src: url("notoui-sans-arabic/NotoSansArabicUI-CondensedExtraLight.woff2") format("woff2"),
+         url("notoui-sans-arabic/NotoSansArabicUI-CondensedExtraLight.woff") format("woff");
 }
 
 @font-face {
@@ -95,12 +67,8 @@
     font-weight: 300;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-arabic/NotoSansArabicUI-CondensedLight.woff2") format("woff2"),
-         url("/notoui-sans-arabic/NotoSansArabicUI-CondensedLight.woff") format("woff");
-}
-
-.font-arab {
-    font-family: notoui-sans-arabic;
+    src: url("notoui-sans-arabic/NotoSansArabicUI-CondensedLight.woff2") format("woff2"),
+         url("notoui-sans-arabic/NotoSansArabicUI-CondensedLight.woff") format("woff");
 }
 
 @font-face {
@@ -108,12 +76,8 @@
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-arabic/NotoSansArabicUI-CondensedMedium.woff2") format("woff2"),
-         url("/notoui-sans-arabic/NotoSansArabicUI-CondensedMedium.woff") format("woff");
-}
-
-.font-arab {
-    font-family: notoui-sans-arabic;
+    src: url("notoui-sans-arabic/NotoSansArabicUI-CondensedMedium.woff2") format("woff2"),
+         url("notoui-sans-arabic/NotoSansArabicUI-CondensedMedium.woff") format("woff");
 }
 
 @font-face {
@@ -121,12 +85,8 @@
     font-weight: 600;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-arabic/NotoSansArabicUI-CondensedSemiBold.woff2") format("woff2"),
-         url("/notoui-sans-arabic/NotoSansArabicUI-CondensedSemiBold.woff") format("woff");
-}
-
-.font-arab {
-    font-family: notoui-sans-arabic;
+    src: url("notoui-sans-arabic/NotoSansArabicUI-CondensedSemiBold.woff2") format("woff2"),
+         url("notoui-sans-arabic/NotoSansArabicUI-CondensedSemiBold.woff") format("woff");
 }
 
 @font-face {
@@ -134,12 +94,8 @@
     font-weight: 100;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-arabic/NotoSansArabicUI-CondensedThin.woff2") format("woff2"),
-         url("/notoui-sans-arabic/NotoSansArabicUI-CondensedThin.woff") format("woff");
-}
-
-.font-arab {
-    font-family: notoui-sans-arabic;
+    src: url("notoui-sans-arabic/NotoSansArabicUI-CondensedThin.woff2") format("woff2"),
+         url("notoui-sans-arabic/NotoSansArabicUI-CondensedThin.woff") format("woff");
 }
 
 @font-face {
@@ -147,12 +103,8 @@
     font-weight: 700;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-arabic/NotoSansArabicUI-ExtraBold.woff2") format("woff2"),
-         url("/notoui-sans-arabic/NotoSansArabicUI-ExtraBold.woff") format("woff");
-}
-
-.font-arab {
-    font-family: notoui-sans-arabic;
+    src: url("notoui-sans-arabic/NotoSansArabicUI-ExtraBold.woff2") format("woff2"),
+         url("notoui-sans-arabic/NotoSansArabicUI-ExtraBold.woff") format("woff");
 }
 
 @font-face {
@@ -160,12 +112,8 @@
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-arabic/NotoSansArabicUI-ExtraCondensed.woff2") format("woff2"),
-         url("/notoui-sans-arabic/NotoSansArabicUI-ExtraCondensed.woff") format("woff");
-}
-
-.font-arab {
-    font-family: notoui-sans-arabic;
+    src: url("notoui-sans-arabic/NotoSansArabicUI-ExtraCondensed.woff2") format("woff2"),
+         url("notoui-sans-arabic/NotoSansArabicUI-ExtraCondensed.woff") format("woff");
 }
 
 @font-face {
@@ -173,12 +121,8 @@
     font-weight: 900;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-arabic/NotoSansArabicUI-ExtraCondensedBlack.woff2") format("woff2"),
-         url("/notoui-sans-arabic/NotoSansArabicUI-ExtraCondensedBlack.woff") format("woff");
-}
-
-.font-arab {
-    font-family: notoui-sans-arabic;
+    src: url("notoui-sans-arabic/NotoSansArabicUI-ExtraCondensedBlack.woff2") format("woff2"),
+         url("notoui-sans-arabic/NotoSansArabicUI-ExtraCondensedBlack.woff") format("woff");
 }
 
 @font-face {
@@ -186,12 +130,8 @@
     font-weight: 700;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-arabic/NotoSansArabicUI-ExtraCondensedBold.woff2") format("woff2"),
-         url("/notoui-sans-arabic/NotoSansArabicUI-ExtraCondensedBold.woff") format("woff");
-}
-
-.font-arab {
-    font-family: notoui-sans-arabic;
+    src: url("notoui-sans-arabic/NotoSansArabicUI-ExtraCondensedBold.woff2") format("woff2"),
+         url("notoui-sans-arabic/NotoSansArabicUI-ExtraCondensedBold.woff") format("woff");
 }
 
 @font-face {
@@ -199,12 +139,8 @@
     font-weight: 700;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-arabic/NotoSansArabicUI-ExtraCondensedExtraBold.woff2") format("woff2"),
-         url("/notoui-sans-arabic/NotoSansArabicUI-ExtraCondensedExtraBold.woff") format("woff");
-}
-
-.font-arab {
-    font-family: notoui-sans-arabic;
+    src: url("notoui-sans-arabic/NotoSansArabicUI-ExtraCondensedExtraBold.woff2") format("woff2"),
+         url("notoui-sans-arabic/NotoSansArabicUI-ExtraCondensedExtraBold.woff") format("woff");
 }
 
 @font-face {
@@ -212,12 +148,8 @@
     font-weight: 300;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-arabic/NotoSansArabicUI-ExtraCondensedExtraLight.woff2") format("woff2"),
-         url("/notoui-sans-arabic/NotoSansArabicUI-ExtraCondensedExtraLight.woff") format("woff");
-}
-
-.font-arab {
-    font-family: notoui-sans-arabic;
+    src: url("notoui-sans-arabic/NotoSansArabicUI-ExtraCondensedExtraLight.woff2") format("woff2"),
+         url("notoui-sans-arabic/NotoSansArabicUI-ExtraCondensedExtraLight.woff") format("woff");
 }
 
 @font-face {
@@ -225,12 +157,8 @@
     font-weight: 300;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-arabic/NotoSansArabicUI-ExtraCondensedLight.woff2") format("woff2"),
-         url("/notoui-sans-arabic/NotoSansArabicUI-ExtraCondensedLight.woff") format("woff");
-}
-
-.font-arab {
-    font-family: notoui-sans-arabic;
+    src: url("notoui-sans-arabic/NotoSansArabicUI-ExtraCondensedLight.woff2") format("woff2"),
+         url("notoui-sans-arabic/NotoSansArabicUI-ExtraCondensedLight.woff") format("woff");
 }
 
 @font-face {
@@ -238,12 +166,8 @@
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-arabic/NotoSansArabicUI-ExtraCondensedMedium.woff2") format("woff2"),
-         url("/notoui-sans-arabic/NotoSansArabicUI-ExtraCondensedMedium.woff") format("woff");
-}
-
-.font-arab {
-    font-family: notoui-sans-arabic;
+    src: url("notoui-sans-arabic/NotoSansArabicUI-ExtraCondensedMedium.woff2") format("woff2"),
+         url("notoui-sans-arabic/NotoSansArabicUI-ExtraCondensedMedium.woff") format("woff");
 }
 
 @font-face {
@@ -251,12 +175,8 @@
     font-weight: 600;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-arabic/NotoSansArabicUI-ExtraCondensedSemiBold.woff2") format("woff2"),
-         url("/notoui-sans-arabic/NotoSansArabicUI-ExtraCondensedSemiBold.woff") format("woff");
-}
-
-.font-arab {
-    font-family: notoui-sans-arabic;
+    src: url("notoui-sans-arabic/NotoSansArabicUI-ExtraCondensedSemiBold.woff2") format("woff2"),
+         url("notoui-sans-arabic/NotoSansArabicUI-ExtraCondensedSemiBold.woff") format("woff");
 }
 
 @font-face {
@@ -264,12 +184,8 @@
     font-weight: 100;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-arabic/NotoSansArabicUI-ExtraCondensedThin.woff2") format("woff2"),
-         url("/notoui-sans-arabic/NotoSansArabicUI-ExtraCondensedThin.woff") format("woff");
-}
-
-.font-arab {
-    font-family: notoui-sans-arabic;
+    src: url("notoui-sans-arabic/NotoSansArabicUI-ExtraCondensedThin.woff2") format("woff2"),
+         url("notoui-sans-arabic/NotoSansArabicUI-ExtraCondensedThin.woff") format("woff");
 }
 
 @font-face {
@@ -277,12 +193,8 @@
     font-weight: 300;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-arabic/NotoSansArabicUI-ExtraLight.woff2") format("woff2"),
-         url("/notoui-sans-arabic/NotoSansArabicUI-ExtraLight.woff") format("woff");
-}
-
-.font-arab {
-    font-family: notoui-sans-arabic;
+    src: url("notoui-sans-arabic/NotoSansArabicUI-ExtraLight.woff2") format("woff2"),
+         url("notoui-sans-arabic/NotoSansArabicUI-ExtraLight.woff") format("woff");
 }
 
 @font-face {
@@ -290,12 +202,8 @@
     font-weight: 300;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-arabic/NotoSansArabicUI-Light.woff2") format("woff2"),
-         url("/notoui-sans-arabic/NotoSansArabicUI-Light.woff") format("woff");
-}
-
-.font-arab {
-    font-family: notoui-sans-arabic;
+    src: url("notoui-sans-arabic/NotoSansArabicUI-Light.woff2") format("woff2"),
+         url("notoui-sans-arabic/NotoSansArabicUI-Light.woff") format("woff");
 }
 
 @font-face {
@@ -303,12 +211,8 @@
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-arabic/NotoSansArabicUI-Medium.woff2") format("woff2"),
-         url("/notoui-sans-arabic/NotoSansArabicUI-Medium.woff") format("woff");
-}
-
-.font-arab {
-    font-family: notoui-sans-arabic;
+    src: url("notoui-sans-arabic/NotoSansArabicUI-Medium.woff2") format("woff2"),
+         url("notoui-sans-arabic/NotoSansArabicUI-Medium.woff") format("woff");
 }
 
 @font-face {
@@ -316,12 +220,8 @@
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-arabic/NotoSansArabicUI-Regular.woff2") format("woff2"),
-         url("/notoui-sans-arabic/NotoSansArabicUI-Regular.woff") format("woff");
-}
-
-.font-arab {
-    font-family: notoui-sans-arabic;
+    src: url("notoui-sans-arabic/NotoSansArabicUI-Regular.woff2") format("woff2"),
+         url("notoui-sans-arabic/NotoSansArabicUI-Regular.woff") format("woff");
 }
 
 @font-face {
@@ -329,12 +229,8 @@
     font-weight: 600;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-arabic/NotoSansArabicUI-SemiBold.woff2") format("woff2"),
-         url("/notoui-sans-arabic/NotoSansArabicUI-SemiBold.woff") format("woff");
-}
-
-.font-arab {
-    font-family: notoui-sans-arabic;
+    src: url("notoui-sans-arabic/NotoSansArabicUI-SemiBold.woff2") format("woff2"),
+         url("notoui-sans-arabic/NotoSansArabicUI-SemiBold.woff") format("woff");
 }
 
 @font-face {
@@ -342,12 +238,8 @@
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-arabic/NotoSansArabicUI-SemiCondensed.woff2") format("woff2"),
-         url("/notoui-sans-arabic/NotoSansArabicUI-SemiCondensed.woff") format("woff");
-}
-
-.font-arab {
-    font-family: notoui-sans-arabic;
+    src: url("notoui-sans-arabic/NotoSansArabicUI-SemiCondensed.woff2") format("woff2"),
+         url("notoui-sans-arabic/NotoSansArabicUI-SemiCondensed.woff") format("woff");
 }
 
 @font-face {
@@ -355,12 +247,8 @@
     font-weight: 900;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-arabic/NotoSansArabicUI-SemiCondensedBlack.woff2") format("woff2"),
-         url("/notoui-sans-arabic/NotoSansArabicUI-SemiCondensedBlack.woff") format("woff");
-}
-
-.font-arab {
-    font-family: notoui-sans-arabic;
+    src: url("notoui-sans-arabic/NotoSansArabicUI-SemiCondensedBlack.woff2") format("woff2"),
+         url("notoui-sans-arabic/NotoSansArabicUI-SemiCondensedBlack.woff") format("woff");
 }
 
 @font-face {
@@ -368,12 +256,8 @@
     font-weight: 700;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-arabic/NotoSansArabicUI-SemiCondensedBold.woff2") format("woff2"),
-         url("/notoui-sans-arabic/NotoSansArabicUI-SemiCondensedBold.woff") format("woff");
-}
-
-.font-arab {
-    font-family: notoui-sans-arabic;
+    src: url("notoui-sans-arabic/NotoSansArabicUI-SemiCondensedBold.woff2") format("woff2"),
+         url("notoui-sans-arabic/NotoSansArabicUI-SemiCondensedBold.woff") format("woff");
 }
 
 @font-face {
@@ -381,12 +265,8 @@
     font-weight: 700;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-arabic/NotoSansArabicUI-SemiCondensedExtraBold.woff2") format("woff2"),
-         url("/notoui-sans-arabic/NotoSansArabicUI-SemiCondensedExtraBold.woff") format("woff");
-}
-
-.font-arab {
-    font-family: notoui-sans-arabic;
+    src: url("notoui-sans-arabic/NotoSansArabicUI-SemiCondensedExtraBold.woff2") format("woff2"),
+         url("notoui-sans-arabic/NotoSansArabicUI-SemiCondensedExtraBold.woff") format("woff");
 }
 
 @font-face {
@@ -394,12 +274,8 @@
     font-weight: 300;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-arabic/NotoSansArabicUI-SemiCondensedExtraLight.woff2") format("woff2"),
-         url("/notoui-sans-arabic/NotoSansArabicUI-SemiCondensedExtraLight.woff") format("woff");
-}
-
-.font-arab {
-    font-family: notoui-sans-arabic;
+    src: url("notoui-sans-arabic/NotoSansArabicUI-SemiCondensedExtraLight.woff2") format("woff2"),
+         url("notoui-sans-arabic/NotoSansArabicUI-SemiCondensedExtraLight.woff") format("woff");
 }
 
 @font-face {
@@ -407,12 +283,8 @@
     font-weight: 300;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-arabic/NotoSansArabicUI-SemiCondensedLight.woff2") format("woff2"),
-         url("/notoui-sans-arabic/NotoSansArabicUI-SemiCondensedLight.woff") format("woff");
-}
-
-.font-arab {
-    font-family: notoui-sans-arabic;
+    src: url("notoui-sans-arabic/NotoSansArabicUI-SemiCondensedLight.woff2") format("woff2"),
+         url("notoui-sans-arabic/NotoSansArabicUI-SemiCondensedLight.woff") format("woff");
 }
 
 @font-face {
@@ -420,12 +292,8 @@
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-arabic/NotoSansArabicUI-SemiCondensedMedium.woff2") format("woff2"),
-         url("/notoui-sans-arabic/NotoSansArabicUI-SemiCondensedMedium.woff") format("woff");
-}
-
-.font-arab {
-    font-family: notoui-sans-arabic;
+    src: url("notoui-sans-arabic/NotoSansArabicUI-SemiCondensedMedium.woff2") format("woff2"),
+         url("notoui-sans-arabic/NotoSansArabicUI-SemiCondensedMedium.woff") format("woff");
 }
 
 @font-face {
@@ -433,12 +301,8 @@
     font-weight: 600;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-arabic/NotoSansArabicUI-SemiCondensedSemiBold.woff2") format("woff2"),
-         url("/notoui-sans-arabic/NotoSansArabicUI-SemiCondensedSemiBold.woff") format("woff");
-}
-
-.font-arab {
-    font-family: notoui-sans-arabic;
+    src: url("notoui-sans-arabic/NotoSansArabicUI-SemiCondensedSemiBold.woff2") format("woff2"),
+         url("notoui-sans-arabic/NotoSansArabicUI-SemiCondensedSemiBold.woff") format("woff");
 }
 
 @font-face {
@@ -446,12 +310,8 @@
     font-weight: 100;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-arabic/NotoSansArabicUI-SemiCondensedThin.woff2") format("woff2"),
-         url("/notoui-sans-arabic/NotoSansArabicUI-SemiCondensedThin.woff") format("woff");
-}
-
-.font-arab {
-    font-family: notoui-sans-arabic;
+    src: url("notoui-sans-arabic/NotoSansArabicUI-SemiCondensedThin.woff2") format("woff2"),
+         url("notoui-sans-arabic/NotoSansArabicUI-SemiCondensedThin.woff") format("woff");
 }
 
 @font-face {
@@ -459,8 +319,8 @@
     font-weight: 100;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-arabic/NotoSansArabicUI-Thin.woff2") format("woff2"),
-         url("/notoui-sans-arabic/NotoSansArabicUI-Thin.woff") format("woff");
+    src: url("notoui-sans-arabic/NotoSansArabicUI-Thin.woff2") format("woff2"),
+         url("notoui-sans-arabic/NotoSansArabicUI-Thin.woff") format("woff");
 }
 
 .font-arab {

@@ -4,8 +4,8 @@
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-sans-meetei-mayek/NotoSansMeeteiMayek-Regular.woff2") format("woff2"),
-         url("/noto-sans-meetei-mayek/NotoSansMeeteiMayek-Regular.woff") format("woff");
+    src: url("noto-sans-meetei-mayek/NotoSansMeeteiMayek-Regular.woff2") format("woff2"),
+         url("noto-sans-meetei-mayek/NotoSansMeeteiMayek-Regular.woff") format("woff");
 }
 
 .font-mtei {

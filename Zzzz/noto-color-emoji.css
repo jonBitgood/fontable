@@ -4,8 +4,8 @@
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-color-emoji/NotoColorEmoji.woff2") format("woff2"),
-         url("/noto-color-emoji/NotoColorEmoji.woff") format("woff");
+    src: url("noto-color-emoji/NotoColorEmoji.woff2") format("woff2"),
+         url("noto-color-emoji/NotoColorEmoji.woff") format("woff");
 }
 
 .font-zzzz {

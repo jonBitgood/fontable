@@ -4,12 +4,8 @@
     font-weight: 700;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-serif-malayalam/NotoSerifMalayalam-Bold.woff2") format("woff2"),
-         url("/noto-serif-malayalam/NotoSerifMalayalam-Bold.woff") format("woff");
-}
-
-.font-mlym {
-    font-family: noto-serif-malayalam;
+    src: url("noto-serif-malayalam/NotoSerifMalayalam-Bold.woff2") format("woff2"),
+         url("noto-serif-malayalam/NotoSerifMalayalam-Bold.woff") format("woff");
 }
 
 @font-face {
@@ -17,8 +13,8 @@
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-serif-malayalam/NotoSerifMalayalam-Regular.woff2") format("woff2"),
-         url("/noto-serif-malayalam/NotoSerifMalayalam-Regular.woff") format("woff");
+    src: url("noto-serif-malayalam/NotoSerifMalayalam-Regular.woff2") format("woff2"),
+         url("noto-serif-malayalam/NotoSerifMalayalam-Regular.woff") format("woff");
 }
 
 .font-mlym {
