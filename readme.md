@@ -1,5 +1,5 @@
 # Fontable
-Fontable is a project to pair every iso-15924 script code to a font. These are accessible via the [JSdeliver VPN](https://www.jsdelivr.com/).
+Fontable is a project to pair every [iso-15924 script](https://en.wikipedia.org/wiki/ISO_15924) code to a font. These are accessible via the [JSdeliver VPN](https://www.jsdelivr.com/).
 
 ## Example VPN Path
 Each Script code will have a default css file in addition to a dedicated one for each font family. Check out the [Example](example.html).
