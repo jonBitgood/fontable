@@ -1,0 +1,647 @@
+[
+  {
+    "font": "noto-sans-lgc",
+    "type": "sans",
+    "script": "latn"
+  },
+  {
+    "font": "noto-serif-lgc",
+    "type": "serif",
+    "script": "latn"
+  },
+  {
+    "font": "noto-sans-lgc-display",
+    "type": "sans",
+    "script": "latn"
+  },
+  {
+    "font": "noto-serif-lgc-display",
+    "type": "serif",
+    "script": "latn"
+  },
+  {
+    "font": "noto-mono-mono",
+    "type": "mono",
+    "script": "mono"
+  },
+  {
+    "font": "noto-emoji-zsye-color",
+    "type": "emoji",
+    "script": "zsye-color"
+  },
+  {
+    "font": "noto-emoji-zsye",
+    "type": "emoji",
+    "script": "zsye"
+  },
+  {
+    "font": "noto-kufi-arab",
+    "type": "kufi",
+    "script": "arab",
+    "languages": ["aeb","ara","arq","ars","ary","arz","bal","bej","bft","bgn","bqi","brh","cja","ckb","dcc","doi","fas","fia","gbz","gjk","gju","glk","haz","hnd","hno","khw","kvx","kxp","lah","lki","lrc","luz","mfa","msa","mvy","mzn","prd","prs","pus","rmt","sdh","skr","swb","tly","trw","uig","urd","wni","zdj"]
+  },
+  {
+    "font": "noto-naskh-arab",
+    "type": "naskh",
+    "script": "arab",
+    "languages": ["aeb","ara","arq","ars","ary","arz","bal","bej","bft","bgn","bqi","brh","cja","ckb","dcc","doi","fas","fia","gbz","gjk","gju","glk","haz","hnd","hno","khw","kvx","kxp","lah","lki","lrc","luz","mfa","msa","mvy","mzn","prd","prs","pus","rmt","sdh","skr","swb","tly","trw","uig","urd","wni","zdj"]
+  },
+  {
+    "font": "noto-nastaliq-aran",
+    "type": "nastaliq",
+    "script": "aran"
+  },
+  {
+    "font": "noto-sans-adlm",
+    "type": "sans",
+    "script": "adlm"
+  },
+  {
+    "font": "noto-sans-adlm-unjoined",
+    "type": "unjoined",
+    "script": "adlm"
+  },
+  {
+    "font": "noto-sans-hluw",
+    "type": "sans",
+    "script": "hluw"
+  },
+  {
+    "font": "noto-sans-arab",
+    "type": "sans",
+    "script": "arab",
+    "languages": ["aeb","ara","arq","ars","ary","arz","bal","bej","bft","bgn","bqi","brh","cja","ckb","dcc","doi","fas","fia","gbz","gjk","gju","glk","haz","hnd","hno","khw","kvx","kxp","lah","lki","lrc","luz","mfa","msa","mvy","mzn","prd","prs","pus","rmt","sdh","skr","swb","tly","trw","uig","urd","wni","zdj"]
+  },
+  {
+    "font": "noto-sans-armn",
+    "type": "sans",
+    "script": "armn",
+    "languages": ["hye"]
+  },
+  {
+    "font": "noto-sans-avst",
+    "type": "sans",
+    "script": "avst"
+  },
+  {
+    "font": "noto-sans-bali",
+    "type": "sans",
+    "script": "bali"
+  },
+  {
+    "font": "noto-sans-bamu",
+    "type": "sans",
+    "script": "bamu",
+    "languages": ["bax"]
+  },
+  {
+    "font": "noto-sans-batk",
+    "type": "sans",
+    "script": "batk"
+  },
+  {
+    "font": "noto-sans-beng",
+    "type": "sans",
+    "script": "beng",
+    "languages": ["asm","ben","bpy","grt","lus","mni","rkt","syl"]
+  },
+  {
+    "font": "noto-sans-brah",
+    "type": "sans",
+    "script": "brah"
+  },
+  {
+    "font": "noto-sans-bugi",
+    "type": "sans",
+    "script": "bugi"
+  },
+  {
+    "font": "noto-sans-buhd",
+    "type": "sans",
+    "script": "buhd"
+  },
+  {
+    "font": "noto-sans-jpan",
+    "type": "sans",
+    "script": "jpan"
+  },
+  {
+    "font": "noto-sans-kore",
+    "type": "sans",
+    "script": "kore"
+  },
+  {
+    "font": "noto-sans-hans",
+    "type": "sans",
+    "script": "hans"
+  },
+  {
+    "font": "noto-sans-hant",
+    "type": "sans",
+    "script": "hant"
+  },
+  {
+    "font": "noto-sans-cans",
+    "type": "sans",
+    "script": "cans",
+    "languages": ["bla","crm","csw","nsk"]
+  },
+  {
+    "font": "noto-sans-cari",
+    "type": "sans",
+    "script": "cari"
+  },
+  {
+    "font": "noto-sans-cakm",
+    "type": "sans",
+    "script": "cakm",
+    "languages": ["ccp"]
+  },
+  {
+    "font": "noto-sans-cham",
+    "type": "sans",
+    "script": "cham",
+    "languages": ["cjm"]
+  },
+  {
+    "font": "noto-sans-cher",
+    "type": "sans",
+    "script": "cher"
+  },
+  {
+    "font": "noto-sans-copt",
+    "type": "sans",
+    "script": "copt"
+  },
+  {
+    "font": "noto-sans-xsux",
+    "type": "sans",
+    "script": "xsux"
+  },
+  {
+    "font": "noto-sans-cprt",
+    "type": "sans",
+    "script": "cprt"
+  },
+  {
+    "font": "noto-sans-dsrt",
+    "type": "sans",
+    "script": "dsrt"
+  },
+  {
+    "font": "noto-sans-deva",
+    "type": "sans",
+    "script": "deva"
+  },
+  {
+    "font": "noto-sans-egyp",
+    "type": "sans",
+    "script": "egyp"
+  },
+  {
+    "font": "noto-sans-ethi",
+    "type": "sans",
+    "script": "ethi"
+  },
+  {
+    "font": "noto-sans-geor",
+    "type": "sans",
+    "script": "geor"
+  },
+  {
+    "font": "noto-sans-glag",
+    "type": "sans",
+    "script": "glag"
+  },
+  {
+    "font": "noto-sans-goth",
+    "type": "sans",
+    "script": "goth"
+  },
+  {
+    "font": "noto-sans-gujr",
+    "type": "sans",
+    "script": "gujr"
+  },
+  {
+    "font": "noto-sans-guru",
+    "type": "sans",
+    "script": "guru"
+  },
+  {
+    "font": "noto-sans-hano",
+    "type": "sans",
+    "script": "hano"
+  },
+  {
+    "font": "noto-sans-hebr",
+    "type": "sans",
+    "script": "hebr"
+  },
+  {
+    "font": "noto-sans-armi",
+    "type": "sans",
+    "script": "armi"
+  },
+  {
+    "font": "noto-sans-phli",
+    "type": "sans",
+    "script": "phli"
+  },
+  {
+    "font": "noto-sans-prti",
+    "type": "sans",
+    "script": "prti"
+  },
+  {
+    "font": "noto-sans-java",
+    "type": "sans",
+    "script": "java"
+  },
+  {
+    "font": "noto-sans-kthi",
+    "type": "sans",
+    "script": "kthi"
+  },
+  {
+    "font": "noto-sans-knda",
+    "type": "sans",
+    "script": "knda"
+  },
+  {
+    "font": "noto-sans-kali",
+    "type": "sans",
+    "script": "kali"
+  },
+  {
+    "font": "noto-sans-khar",
+    "type": "sans",
+    "script": "khar"
+  },
+  {
+    "font": "noto-sans-khmr",
+    "type": "sans",
+    "script": "khmr"
+  },
+  {
+    "font": "noto-sans-laoo",
+    "type": "sans",
+    "script": "laoo"
+  },
+  {
+    "font": "noto-sans-lepc",
+    "type": "sans",
+    "script": "lepc"
+  },
+  {
+    "font": "noto-sans-limb",
+    "type": "sans",
+    "script": "limb"
+  },
+  {
+    "font": "noto-sans-linb",
+    "type": "sans",
+    "script": "linb"
+  },
+  {
+    "font": "noto-sans-lisu",
+    "type": "sans",
+    "script": "lisu"
+  },
+  {
+    "font": "noto-sans-lyci",
+    "type": "sans",
+    "script": "lyci"
+  },
+  {
+    "font": "noto-sans-lydi",
+    "type": "sans",
+    "script": "lydi"
+  },
+  {
+    "font": "noto-sans-mlym",
+    "type": "sans",
+    "script": "mlym"
+  },
+  {
+    "font": "noto-sans-mand",
+    "type": "sans",
+    "script": "mand"
+  },
+  {
+    "font": "noto-sans-mtei",
+    "type": "sans",
+    "script": "mtei"
+  },
+  {
+    "font": "noto-sans-mong",
+    "type": "sans",
+    "script": "mong"
+  },
+  {
+    "font": "noto-sans-mono",
+    "type": "sans",
+    "script": "mono"
+  },
+  {
+    "font": "noto-sans-mymr",
+    "type": "sans",
+    "script": "mymr"
+  },
+  {
+    "font": "noto-sans-nkoo",
+    "type": "sans",
+    "script": "nkoo"
+  },
+  {
+    "font": "noto-sans-talu",
+    "type": "sans",
+    "script": "talu"
+  },
+  {
+    "font": "noto-sans-ogam",
+    "type": "sans",
+    "script": "ogam"
+  },
+  {
+    "font": "noto-sans-olck",
+    "type": "sans",
+    "script": "olck"
+  },
+  {
+    "font": "noto-sans-ital",
+    "type": "sans",
+    "script": "ital"
+  },
+  {
+    "font": "noto-sans-xpeo",
+    "type": "sans",
+    "script": "xpeo"
+  },
+  {
+    "font": "noto-sans-sarb",
+    "type": "sans",
+    "script": "sarb"
+  },
+  {
+    "font": "noto-sans-orkh",
+    "type": "sans",
+    "script": "orkh"
+  },
+  {
+    "font": "noto-sans-orya",
+    "type": "sans",
+    "script": "orya"
+  },
+  {
+    "font": "noto-sans-osge",
+    "type": "sans",
+    "script": "osge"
+  },
+  {
+    "font": "noto-sans-osma",
+    "type": "sans",
+    "script": "osma"
+  },
+  {
+    "font": "noto-sans-phag",
+    "type": "sans",
+    "script": "phag"
+  },
+  {
+    "font": "noto-sans-phnx",
+    "type": "sans",
+    "script": "phnx"
+  },
+  {
+    "font": "noto-sans-rjng",
+    "type": "sans",
+    "script": "rjng"
+  },
+  {
+    "font": "noto-sans-runr",
+    "type": "sans",
+    "script": "runr"
+  },
+  {
+    "font": "noto-sans-samr",
+    "type": "sans",
+    "script": "samr"
+  },
+  {
+    "font": "noto-sans-saur",
+    "type": "sans",
+    "script": "saur"
+  },
+  {
+    "font": "noto-sans-shaw",
+    "type": "sans",
+    "script": "shaw"
+  },
+  {
+    "font": "noto-sans-sinh",
+    "type": "sans",
+    "script": "sinh"
+  },
+  {
+    "font": "noto-sans-sund",
+    "type": "sans",
+    "script": "sund"
+  },
+  {
+    "font": "noto-sans-sylo",
+    "type": "sans",
+    "script": "sylo"
+  },
+  {
+    "font": "noto-sans-zsym",
+    "type": "sans",
+    "script": "zsym"
+  },
+  {
+    "font": "noto-sans-sym2",
+    "type": "sans",
+    "script": "sym2"
+  },
+  {
+    "font": "noto-sans-syrc-eastern",
+    "type": "sans",
+    "script": "syrc"
+  },
+  {
+    "font": "noto-sans-syrc-estrangela",
+    "type": "sans",
+    "script": "syrc"
+  },
+  {
+    "font": "noto-sans-syrc-western",
+    "type": "sans",
+    "script": "syrc"
+  },
+  {
+    "font": "noto-sans-tglg",
+    "type": "sans",
+    "script": "tglg"
+  },
+  {
+    "font": "noto-sans-tagb",
+    "type": "sans",
+    "script": "tagb"
+  },
+  {
+    "font": "noto-sans-tale",
+    "type": "sans",
+    "script": "tale"
+  },
+  {
+    "font": "noto-sans-lana",
+    "type": "sans",
+    "script": "lana"
+  },
+  {
+    "font": "noto-sans-tavt",
+    "type": "sans",
+    "script": "tavt"
+  },
+  {
+    "font": "noto-sans-taml",
+    "type": "sans",
+    "script": "taml"
+  },
+  {
+    "font": "noto-sans-telu",
+    "type": "sans",
+    "script": "telu"
+  },
+  {
+    "font": "noto-sans-thaa",
+    "type": "sans",
+    "script": "thaa"
+  },
+  {
+    "font": "noto-sans-thai",
+    "type": "sans",
+    "script": "thai"
+  },
+  {
+    "font": "noto-sans-tibt",
+    "type": "sans",
+    "script": "tibt"
+  },
+  {
+    "font": "noto-sans-tfng",
+    "type": "sans",
+    "script": "tfng"
+  },
+  {
+    "font": "noto-sans-ugar",
+    "type": "sans",
+    "script": "ugar"
+  },
+  {
+    "font": "noto-sans-vaii",
+    "type": "sans",
+    "script": "vaii"
+  },
+  {
+    "font": "noto-sans-yiii",
+    "type": "sans",
+    "script": "yiii"
+  },
+  {
+    "font": "noto-serif-armn",
+    "type": "serif",
+    "script": "armn"
+  },
+  {
+    "font": "noto-serif-beng",
+    "type": "serif",
+    "script": "beng",
+    "languages": ["asm","ben","bpy","grt","lus","mni","rkt","syl"]
+  },
+  {
+    "font": "noto-serif-jpan",
+    "type": "serif",
+    "script": "jpan"
+  },
+  {
+    "font": "noto-serif-kore",
+    "type": "serif",
+    "script": "kore"
+  },
+  {
+    "font": "noto-serif-hans",
+    "type": "serif",
+    "script": "hans"
+  },
+  {
+    "font": "noto-serif-hant",
+    "type": "serif",
+    "script": "hant"
+  },
+  {
+    "font": "noto-serif-deva",
+    "type": "serif",
+    "script": "deva"
+  },
+  {
+    "font": "noto-serif-ethi",
+    "type": "serif",
+    "script": "ethi"
+  },
+  {
+    "font": "noto-serif-geor",
+    "type": "serif",
+    "script": "geor"
+  },
+  {
+    "font": "noto-serif-gujr",
+    "type": "serif",
+    "script": "gujr"
+  },
+  {
+    "font": "noto-serif-hebr",
+    "type": "serif",
+    "script": "hebr"
+  },
+  {
+    "font": "noto-serif-knda",
+    "type": "serif",
+    "script": "knda"
+  },
+  {
+    "font": "noto-serif-khmr",
+    "type": "serif",
+    "script": "khmr"
+  },
+  {
+    "font": "noto-serif-laoo",
+    "type": "serif",
+    "script": "laoo"
+  },
+  {
+    "font": "noto-serif-mlym",
+    "type": "serif",
+    "script": "mlym"
+  },
+  {
+    "font": "noto-serif-mymr",
+    "type": "serif",
+    "script": "mymr"
+  },
+  {
+    "font": "noto-serif-sinh",
+    "type": "serif",
+    "script": "sinh"
+  },
+  {
+    "font": "noto-serif-taml",
+    "type": "serif",
+    "script": "taml"
+  },
+  {
+    "font": "noto-serif-telu",
+    "type": "serif",
+    "script": "telu"
+  }
+]
