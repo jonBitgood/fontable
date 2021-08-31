@@ -1,468 +1,328 @@
 
 @font-face {
-    font-family: notoui-sans-khmer;
+    font-family: noto-sans-khmer;
     font-weight: 900;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-khmer/NotoSansKhmerUI-Black.woff2") format("woff2"),
-         url("/notoui-sans-khmer/NotoSansKhmerUI-Black.woff") format("woff");
-}
-
-.font-khmr {
-    font-family: notoui-sans-khmer;
+    src: url("noto-sans-khmer/NotoSansKhmer-Black.woff2") format("woff2"),
+         url("noto-sans-khmer/NotoSansKhmer-Black.woff") format("woff");
 }
 
 @font-face {
-    font-family: notoui-sans-khmer;
+    font-family: noto-sans-khmer;
     font-weight: 700;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-khmer/NotoSansKhmerUI-Bold.woff2") format("woff2"),
-         url("/notoui-sans-khmer/NotoSansKhmerUI-Bold.woff") format("woff");
-}
-
-.font-khmr {
-    font-family: notoui-sans-khmer;
+    src: url("noto-sans-khmer/NotoSansKhmer-Bold.woff2") format("woff2"),
+         url("noto-sans-khmer/NotoSansKhmer-Bold.woff") format("woff");
 }
 
 @font-face {
-    font-family: notoui-sans-khmer;
+    font-family: noto-sans-khmer;
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-khmer/NotoSansKhmerUI-Condensed.woff2") format("woff2"),
-         url("/notoui-sans-khmer/NotoSansKhmerUI-Condensed.woff") format("woff");
-}
-
-.font-khmr {
-    font-family: notoui-sans-khmer;
+    src: url("noto-sans-khmer/NotoSansKhmer-Condensed.woff2") format("woff2"),
+         url("noto-sans-khmer/NotoSansKhmer-Condensed.woff") format("woff");
 }
 
 @font-face {
-    font-family: notoui-sans-khmer;
+    font-family: noto-sans-khmer;
     font-weight: 900;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-khmer/NotoSansKhmerUI-CondensedBlack.woff2") format("woff2"),
-         url("/notoui-sans-khmer/NotoSansKhmerUI-CondensedBlack.woff") format("woff");
-}
-
-.font-khmr {
-    font-family: notoui-sans-khmer;
+    src: url("noto-sans-khmer/NotoSansKhmer-CondensedBlack.woff2") format("woff2"),
+         url("noto-sans-khmer/NotoSansKhmer-CondensedBlack.woff") format("woff");
 }
 
 @font-face {
-    font-family: notoui-sans-khmer;
+    font-family: noto-sans-khmer;
     font-weight: 700;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-khmer/NotoSansKhmerUI-CondensedBold.woff2") format("woff2"),
-         url("/notoui-sans-khmer/NotoSansKhmerUI-CondensedBold.woff") format("woff");
-}
-
-.font-khmr {
-    font-family: notoui-sans-khmer;
+    src: url("noto-sans-khmer/NotoSansKhmer-CondensedBold.woff2") format("woff2"),
+         url("noto-sans-khmer/NotoSansKhmer-CondensedBold.woff") format("woff");
 }
 
 @font-face {
-    font-family: notoui-sans-khmer;
+    font-family: noto-sans-khmer;
     font-weight: 700;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-khmer/NotoSansKhmerUI-CondensedExtraBold.woff2") format("woff2"),
-         url("/notoui-sans-khmer/NotoSansKhmerUI-CondensedExtraBold.woff") format("woff");
-}
-
-.font-khmr {
-    font-family: notoui-sans-khmer;
+    src: url("noto-sans-khmer/NotoSansKhmer-CondensedExtraBold.woff2") format("woff2"),
+         url("noto-sans-khmer/NotoSansKhmer-CondensedExtraBold.woff") format("woff");
 }
 
 @font-face {
-    font-family: notoui-sans-khmer;
+    font-family: noto-sans-khmer;
     font-weight: 300;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-khmer/NotoSansKhmerUI-CondensedExtraLight.woff2") format("woff2"),
-         url("/notoui-sans-khmer/NotoSansKhmerUI-CondensedExtraLight.woff") format("woff");
-}
-
-.font-khmr {
-    font-family: notoui-sans-khmer;
+    src: url("noto-sans-khmer/NotoSansKhmer-CondensedExtraLight.woff2") format("woff2"),
+         url("noto-sans-khmer/NotoSansKhmer-CondensedExtraLight.woff") format("woff");
 }
 
 @font-face {
-    font-family: notoui-sans-khmer;
+    font-family: noto-sans-khmer;
     font-weight: 300;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-khmer/NotoSansKhmerUI-CondensedLight.woff2") format("woff2"),
-         url("/notoui-sans-khmer/NotoSansKhmerUI-CondensedLight.woff") format("woff");
-}
-
-.font-khmr {
-    font-family: notoui-sans-khmer;
+    src: url("noto-sans-khmer/NotoSansKhmer-CondensedLight.woff2") format("woff2"),
+         url("noto-sans-khmer/NotoSansKhmer-CondensedLight.woff") format("woff");
 }
 
 @font-face {
-    font-family: notoui-sans-khmer;
+    font-family: noto-sans-khmer;
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-khmer/NotoSansKhmerUI-CondensedMedium.woff2") format("woff2"),
-         url("/notoui-sans-khmer/NotoSansKhmerUI-CondensedMedium.woff") format("woff");
-}
-
-.font-khmr {
-    font-family: notoui-sans-khmer;
+    src: url("noto-sans-khmer/NotoSansKhmer-CondensedMedium.woff2") format("woff2"),
+         url("noto-sans-khmer/NotoSansKhmer-CondensedMedium.woff") format("woff");
 }
 
 @font-face {
-    font-family: notoui-sans-khmer;
+    font-family: noto-sans-khmer;
     font-weight: 600;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-khmer/NotoSansKhmerUI-CondensedSemiBold.woff2") format("woff2"),
-         url("/notoui-sans-khmer/NotoSansKhmerUI-CondensedSemiBold.woff") format("woff");
-}
-
-.font-khmr {
-    font-family: notoui-sans-khmer;
+    src: url("noto-sans-khmer/NotoSansKhmer-CondensedSemiBold.woff2") format("woff2"),
+         url("noto-sans-khmer/NotoSansKhmer-CondensedSemiBold.woff") format("woff");
 }
 
 @font-face {
-    font-family: notoui-sans-khmer;
+    font-family: noto-sans-khmer;
     font-weight: 100;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-khmer/NotoSansKhmerUI-CondensedThin.woff2") format("woff2"),
-         url("/notoui-sans-khmer/NotoSansKhmerUI-CondensedThin.woff") format("woff");
-}
-
-.font-khmr {
-    font-family: notoui-sans-khmer;
+    src: url("noto-sans-khmer/NotoSansKhmer-CondensedThin.woff2") format("woff2"),
+         url("noto-sans-khmer/NotoSansKhmer-CondensedThin.woff") format("woff");
 }
 
 @font-face {
-    font-family: notoui-sans-khmer;
+    font-family: noto-sans-khmer;
     font-weight: 700;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-khmer/NotoSansKhmerUI-ExtraBold.woff2") format("woff2"),
-         url("/notoui-sans-khmer/NotoSansKhmerUI-ExtraBold.woff") format("woff");
-}
-
-.font-khmr {
-    font-family: notoui-sans-khmer;
+    src: url("noto-sans-khmer/NotoSansKhmer-ExtraBold.woff2") format("woff2"),
+         url("noto-sans-khmer/NotoSansKhmer-ExtraBold.woff") format("woff");
 }
 
 @font-face {
-    font-family: notoui-sans-khmer;
+    font-family: noto-sans-khmer;
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-khmer/NotoSansKhmerUI-ExtraCondensed.woff2") format("woff2"),
-         url("/notoui-sans-khmer/NotoSansKhmerUI-ExtraCondensed.woff") format("woff");
-}
-
-.font-khmr {
-    font-family: notoui-sans-khmer;
+    src: url("noto-sans-khmer/NotoSansKhmer-ExtraCondensed.woff2") format("woff2"),
+         url("noto-sans-khmer/NotoSansKhmer-ExtraCondensed.woff") format("woff");
 }
 
 @font-face {
-    font-family: notoui-sans-khmer;
+    font-family: noto-sans-khmer;
     font-weight: 900;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-khmer/NotoSansKhmerUI-ExtraCondensedBlack.woff2") format("woff2"),
-         url("/notoui-sans-khmer/NotoSansKhmerUI-ExtraCondensedBlack.woff") format("woff");
-}
-
-.font-khmr {
-    font-family: notoui-sans-khmer;
+    src: url("noto-sans-khmer/NotoSansKhmer-ExtraCondensedBlack.woff2") format("woff2"),
+         url("noto-sans-khmer/NotoSansKhmer-ExtraCondensedBlack.woff") format("woff");
 }
 
 @font-face {
-    font-family: notoui-sans-khmer;
+    font-family: noto-sans-khmer;
     font-weight: 700;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-khmer/NotoSansKhmerUI-ExtraCondensedBold.woff2") format("woff2"),
-         url("/notoui-sans-khmer/NotoSansKhmerUI-ExtraCondensedBold.woff") format("woff");
-}
-
-.font-khmr {
-    font-family: notoui-sans-khmer;
+    src: url("noto-sans-khmer/NotoSansKhmer-ExtraCondensedBold.woff2") format("woff2"),
+         url("noto-sans-khmer/NotoSansKhmer-ExtraCondensedBold.woff") format("woff");
 }
 
 @font-face {
-    font-family: notoui-sans-khmer;
+    font-family: noto-sans-khmer;
     font-weight: 700;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-khmer/NotoSansKhmerUI-ExtraCondensedExtraBold.woff2") format("woff2"),
-         url("/notoui-sans-khmer/NotoSansKhmerUI-ExtraCondensedExtraBold.woff") format("woff");
-}
-
-.font-khmr {
-    font-family: notoui-sans-khmer;
+    src: url("noto-sans-khmer/NotoSansKhmer-ExtraCondensedExtraBold.woff2") format("woff2"),
+         url("noto-sans-khmer/NotoSansKhmer-ExtraCondensedExtraBold.woff") format("woff");
 }
 
 @font-face {
-    font-family: notoui-sans-khmer;
+    font-family: noto-sans-khmer;
     font-weight: 300;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-khmer/NotoSansKhmerUI-ExtraCondensedExtraLight.woff2") format("woff2"),
-         url("/notoui-sans-khmer/NotoSansKhmerUI-ExtraCondensedExtraLight.woff") format("woff");
-}
-
-.font-khmr {
-    font-family: notoui-sans-khmer;
+    src: url("noto-sans-khmer/NotoSansKhmer-ExtraCondensedExtraLight.woff2") format("woff2"),
+         url("noto-sans-khmer/NotoSansKhmer-ExtraCondensedExtraLight.woff") format("woff");
 }
 
 @font-face {
-    font-family: notoui-sans-khmer;
+    font-family: noto-sans-khmer;
     font-weight: 300;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-khmer/NotoSansKhmerUI-ExtraCondensedLight.woff2") format("woff2"),
-         url("/notoui-sans-khmer/NotoSansKhmerUI-ExtraCondensedLight.woff") format("woff");
-}
-
-.font-khmr {
-    font-family: notoui-sans-khmer;
+    src: url("noto-sans-khmer/NotoSansKhmer-ExtraCondensedLight.woff2") format("woff2"),
+         url("noto-sans-khmer/NotoSansKhmer-ExtraCondensedLight.woff") format("woff");
 }
 
 @font-face {
-    font-family: notoui-sans-khmer;
+    font-family: noto-sans-khmer;
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-khmer/NotoSansKhmerUI-ExtraCondensedMedium.woff2") format("woff2"),
-         url("/notoui-sans-khmer/NotoSansKhmerUI-ExtraCondensedMedium.woff") format("woff");
-}
-
-.font-khmr {
-    font-family: notoui-sans-khmer;
+    src: url("noto-sans-khmer/NotoSansKhmer-ExtraCondensedMedium.woff2") format("woff2"),
+         url("noto-sans-khmer/NotoSansKhmer-ExtraCondensedMedium.woff") format("woff");
 }
 
 @font-face {
-    font-family: notoui-sans-khmer;
+    font-family: noto-sans-khmer;
     font-weight: 600;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-khmer/NotoSansKhmerUI-ExtraCondensedSemiBold.woff2") format("woff2"),
-         url("/notoui-sans-khmer/NotoSansKhmerUI-ExtraCondensedSemiBold.woff") format("woff");
-}
-
-.font-khmr {
-    font-family: notoui-sans-khmer;
+    src: url("noto-sans-khmer/NotoSansKhmer-ExtraCondensedSemiBold.woff2") format("woff2"),
+         url("noto-sans-khmer/NotoSansKhmer-ExtraCondensedSemiBold.woff") format("woff");
 }
 
 @font-face {
-    font-family: notoui-sans-khmer;
+    font-family: noto-sans-khmer;
     font-weight: 100;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-khmer/NotoSansKhmerUI-ExtraCondensedThin.woff2") format("woff2"),
-         url("/notoui-sans-khmer/NotoSansKhmerUI-ExtraCondensedThin.woff") format("woff");
-}
-
-.font-khmr {
-    font-family: notoui-sans-khmer;
+    src: url("noto-sans-khmer/NotoSansKhmer-ExtraCondensedThin.woff2") format("woff2"),
+         url("noto-sans-khmer/NotoSansKhmer-ExtraCondensedThin.woff") format("woff");
 }
 
 @font-face {
-    font-family: notoui-sans-khmer;
+    font-family: noto-sans-khmer;
     font-weight: 300;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-khmer/NotoSansKhmerUI-ExtraLight.woff2") format("woff2"),
-         url("/notoui-sans-khmer/NotoSansKhmerUI-ExtraLight.woff") format("woff");
-}
-
-.font-khmr {
-    font-family: notoui-sans-khmer;
+    src: url("noto-sans-khmer/NotoSansKhmer-ExtraLight.woff2") format("woff2"),
+         url("noto-sans-khmer/NotoSansKhmer-ExtraLight.woff") format("woff");
 }
 
 @font-face {
-    font-family: notoui-sans-khmer;
+    font-family: noto-sans-khmer;
     font-weight: 300;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-khmer/NotoSansKhmerUI-Light.woff2") format("woff2"),
-         url("/notoui-sans-khmer/NotoSansKhmerUI-Light.woff") format("woff");
-}
-
-.font-khmr {
-    font-family: notoui-sans-khmer;
+    src: url("noto-sans-khmer/NotoSansKhmer-Light.woff2") format("woff2"),
+         url("noto-sans-khmer/NotoSansKhmer-Light.woff") format("woff");
 }
 
 @font-face {
-    font-family: notoui-sans-khmer;
+    font-family: noto-sans-khmer;
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-khmer/NotoSansKhmerUI-Medium.woff2") format("woff2"),
-         url("/notoui-sans-khmer/NotoSansKhmerUI-Medium.woff") format("woff");
-}
-
-.font-khmr {
-    font-family: notoui-sans-khmer;
+    src: url("noto-sans-khmer/NotoSansKhmer-Medium.woff2") format("woff2"),
+         url("noto-sans-khmer/NotoSansKhmer-Medium.woff") format("woff");
 }
 
 @font-face {
-    font-family: notoui-sans-khmer;
+    font-family: noto-sans-khmer;
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-khmer/NotoSansKhmerUI-Regular.woff2") format("woff2"),
-         url("/notoui-sans-khmer/NotoSansKhmerUI-Regular.woff") format("woff");
-}
-
-.font-khmr {
-    font-family: notoui-sans-khmer;
+    src: url("noto-sans-khmer/NotoSansKhmer-Regular.woff2") format("woff2"),
+         url("noto-sans-khmer/NotoSansKhmer-Regular.woff") format("woff");
 }
 
 @font-face {
-    font-family: notoui-sans-khmer;
+    font-family: noto-sans-khmer;
     font-weight: 600;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-khmer/NotoSansKhmerUI-SemiBold.woff2") format("woff2"),
-         url("/notoui-sans-khmer/NotoSansKhmerUI-SemiBold.woff") format("woff");
-}
-
-.font-khmr {
-    font-family: notoui-sans-khmer;
+    src: url("noto-sans-khmer/NotoSansKhmer-SemiBold.woff2") format("woff2"),
+         url("noto-sans-khmer/NotoSansKhmer-SemiBold.woff") format("woff");
 }
 
 @font-face {
-    font-family: notoui-sans-khmer;
+    font-family: noto-sans-khmer;
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-khmer/NotoSansKhmerUI-SemiCondensed.woff2") format("woff2"),
-         url("/notoui-sans-khmer/NotoSansKhmerUI-SemiCondensed.woff") format("woff");
-}
-
-.font-khmr {
-    font-family: notoui-sans-khmer;
+    src: url("noto-sans-khmer/NotoSansKhmer-SemiCondensed.woff2") format("woff2"),
+         url("noto-sans-khmer/NotoSansKhmer-SemiCondensed.woff") format("woff");
 }
 
 @font-face {
-    font-family: notoui-sans-khmer;
+    font-family: noto-sans-khmer;
     font-weight: 900;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-khmer/NotoSansKhmerUI-SemiCondensedBlack.woff2") format("woff2"),
-         url("/notoui-sans-khmer/NotoSansKhmerUI-SemiCondensedBlack.woff") format("woff");
-}
-
-.font-khmr {
-    font-family: notoui-sans-khmer;
+    src: url("noto-sans-khmer/NotoSansKhmer-SemiCondensedBlack.woff2") format("woff2"),
+         url("noto-sans-khmer/NotoSansKhmer-SemiCondensedBlack.woff") format("woff");
 }
 
 @font-face {
-    font-family: notoui-sans-khmer;
+    font-family: noto-sans-khmer;
     font-weight: 700;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-khmer/NotoSansKhmerUI-SemiCondensedBold.woff2") format("woff2"),
-         url("/notoui-sans-khmer/NotoSansKhmerUI-SemiCondensedBold.woff") format("woff");
-}
-
-.font-khmr {
-    font-family: notoui-sans-khmer;
+    src: url("noto-sans-khmer/NotoSansKhmer-SemiCondensedBold.woff2") format("woff2"),
+         url("noto-sans-khmer/NotoSansKhmer-SemiCondensedBold.woff") format("woff");
 }
 
 @font-face {
-    font-family: notoui-sans-khmer;
+    font-family: noto-sans-khmer;
     font-weight: 700;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-khmer/NotoSansKhmerUI-SemiCondensedExtraBold.woff2") format("woff2"),
-         url("/notoui-sans-khmer/NotoSansKhmerUI-SemiCondensedExtraBold.woff") format("woff");
-}
-
-.font-khmr {
-    font-family: notoui-sans-khmer;
+    src: url("noto-sans-khmer/NotoSansKhmer-SemiCondensedExtraBold.woff2") format("woff2"),
+         url("noto-sans-khmer/NotoSansKhmer-SemiCondensedExtraBold.woff") format("woff");
 }
 
 @font-face {
-    font-family: notoui-sans-khmer;
+    font-family: noto-sans-khmer;
     font-weight: 300;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-khmer/NotoSansKhmerUI-SemiCondensedExtraLight.woff2") format("woff2"),
-         url("/notoui-sans-khmer/NotoSansKhmerUI-SemiCondensedExtraLight.woff") format("woff");
-}
-
-.font-khmr {
-    font-family: notoui-sans-khmer;
+    src: url("noto-sans-khmer/NotoSansKhmer-SemiCondensedExtraLight.woff2") format("woff2"),
+         url("noto-sans-khmer/NotoSansKhmer-SemiCondensedExtraLight.woff") format("woff");
 }
 
 @font-face {
-    font-family: notoui-sans-khmer;
+    font-family: noto-sans-khmer;
     font-weight: 300;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-khmer/NotoSansKhmerUI-SemiCondensedLight.woff2") format("woff2"),
-         url("/notoui-sans-khmer/NotoSansKhmerUI-SemiCondensedLight.woff") format("woff");
-}
-
-.font-khmr {
-    font-family: notoui-sans-khmer;
+    src: url("noto-sans-khmer/NotoSansKhmer-SemiCondensedLight.woff2") format("woff2"),
+         url("noto-sans-khmer/NotoSansKhmer-SemiCondensedLight.woff") format("woff");
 }
 
 @font-face {
-    font-family: notoui-sans-khmer;
+    font-family: noto-sans-khmer;
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-khmer/NotoSansKhmerUI-SemiCondensedMedium.woff2") format("woff2"),
-         url("/notoui-sans-khmer/NotoSansKhmerUI-SemiCondensedMedium.woff") format("woff");
-}
-
-.font-khmr {
-    font-family: notoui-sans-khmer;
+    src: url("noto-sans-khmer/NotoSansKhmer-SemiCondensedMedium.woff2") format("woff2"),
+         url("noto-sans-khmer/NotoSansKhmer-SemiCondensedMedium.woff") format("woff");
 }
 
 @font-face {
-    font-family: notoui-sans-khmer;
+    font-family: noto-sans-khmer;
     font-weight: 600;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-khmer/NotoSansKhmerUI-SemiCondensedSemiBold.woff2") format("woff2"),
-         url("/notoui-sans-khmer/NotoSansKhmerUI-SemiCondensedSemiBold.woff") format("woff");
-}
-
-.font-khmr {
-    font-family: notoui-sans-khmer;
+    src: url("noto-sans-khmer/NotoSansKhmer-SemiCondensedSemiBold.woff2") format("woff2"),
+         url("noto-sans-khmer/NotoSansKhmer-SemiCondensedSemiBold.woff") format("woff");
 }
 
 @font-face {
-    font-family: notoui-sans-khmer;
+    font-family: noto-sans-khmer;
     font-weight: 100;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-khmer/NotoSansKhmerUI-SemiCondensedThin.woff2") format("woff2"),
-         url("/notoui-sans-khmer/NotoSansKhmerUI-SemiCondensedThin.woff") format("woff");
-}
-
-.font-khmr {
-    font-family: notoui-sans-khmer;
+    src: url("noto-sans-khmer/NotoSansKhmer-SemiCondensedThin.woff2") format("woff2"),
+         url("noto-sans-khmer/NotoSansKhmer-SemiCondensedThin.woff") format("woff");
 }
 
 @font-face {
-    font-family: notoui-sans-khmer;
+    font-family: noto-sans-khmer;
     font-weight: 100;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-khmer/NotoSansKhmerUI-Thin.woff2") format("woff2"),
-         url("/notoui-sans-khmer/NotoSansKhmerUI-Thin.woff") format("woff");
+    src: url("noto-sans-khmer/NotoSansKhmer-Thin.woff2") format("woff2"),
+         url("noto-sans-khmer/NotoSansKhmer-Thin.woff") format("woff");
 }
 
 .font-khmr {
-    font-family: notoui-sans-khmer;
+    font-family: noto-sans-khmer;
 }

@@ -4,8 +4,8 @@
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-sans-javanese/NotoSansJavanese-Regular.woff2") format("woff2"),
-         url("/noto-sans-javanese/NotoSansJavanese-Regular.woff") format("woff");
+    src: url("noto-sans-javanese/NotoSansJavanese-Regular.woff2") format("woff2"),
+         url("noto-sans-javanese/NotoSansJavanese-Regular.woff") format("woff");
 }
 
 .font-java {

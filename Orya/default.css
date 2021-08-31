@@ -1,26 +1,22 @@
 
 @font-face {
-    font-family: notoui-sans-oriya;
+    font-family: noto-sans-oriya;
     font-weight: 700;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-oriya/NotoSansOriyaUI-Bold.woff2") format("woff2"),
-         url("/notoui-sans-oriya/NotoSansOriyaUI-Bold.woff") format("woff");
-}
-
-.font-orya {
-    font-family: notoui-sans-oriya;
+    src: url("noto-sans-oriya/NotoSansOriya-Bold.woff2") format("woff2"),
+         url("noto-sans-oriya/NotoSansOriya-Bold.woff") format("woff");
 }
 
 @font-face {
-    font-family: notoui-sans-oriya;
+    font-family: noto-sans-oriya;
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-oriya/NotoSansOriyaUI-Regular.woff2") format("woff2"),
-         url("/notoui-sans-oriya/NotoSansOriyaUI-Regular.woff") format("woff");
+    src: url("noto-sans-oriya/NotoSansOriya-Regular.woff2") format("woff2"),
+         url("noto-sans-oriya/NotoSansOriya-Regular.woff") format("woff");
 }
 
 .font-orya {
-    font-family: notoui-sans-oriya;
+    font-family: noto-sans-oriya;
 }

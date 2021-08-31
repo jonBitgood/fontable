@@ -4,12 +4,8 @@
     font-weight: 900;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-sans-cham/NotoSansCham-Black.woff2") format("woff2"),
-         url("/noto-sans-cham/NotoSansCham-Black.woff") format("woff");
-}
-
-.font-cham {
-    font-family: noto-sans-cham;
+    src: url("noto-sans-cham/NotoSansCham-Black.woff2") format("woff2"),
+         url("noto-sans-cham/NotoSansCham-Black.woff") format("woff");
 }
 
 @font-face {
@@ -17,12 +13,8 @@
     font-weight: 700;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-sans-cham/NotoSansCham-Bold.woff2") format("woff2"),
-         url("/noto-sans-cham/NotoSansCham-Bold.woff") format("woff");
-}
-
-.font-cham {
-    font-family: noto-sans-cham;
+    src: url("noto-sans-cham/NotoSansCham-Bold.woff2") format("woff2"),
+         url("noto-sans-cham/NotoSansCham-Bold.woff") format("woff");
 }
 
 @font-face {
@@ -30,12 +22,8 @@
     font-weight: 700;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-sans-cham/NotoSansCham-ExtraBold.woff2") format("woff2"),
-         url("/noto-sans-cham/NotoSansCham-ExtraBold.woff") format("woff");
-}
-
-.font-cham {
-    font-family: noto-sans-cham;
+    src: url("noto-sans-cham/NotoSansCham-ExtraBold.woff2") format("woff2"),
+         url("noto-sans-cham/NotoSansCham-ExtraBold.woff") format("woff");
 }
 
 @font-face {
@@ -43,12 +31,8 @@
     font-weight: 300;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-sans-cham/NotoSansCham-ExtraLight.woff2") format("woff2"),
-         url("/noto-sans-cham/NotoSansCham-ExtraLight.woff") format("woff");
-}
-
-.font-cham {
-    font-family: noto-sans-cham;
+    src: url("noto-sans-cham/NotoSansCham-ExtraLight.woff2") format("woff2"),
+         url("noto-sans-cham/NotoSansCham-ExtraLight.woff") format("woff");
 }
 
 @font-face {
@@ -56,12 +40,8 @@
     font-weight: 300;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-sans-cham/NotoSansCham-Light.woff2") format("woff2"),
-         url("/noto-sans-cham/NotoSansCham-Light.woff") format("woff");
-}
-
-.font-cham {
-    font-family: noto-sans-cham;
+    src: url("noto-sans-cham/NotoSansCham-Light.woff2") format("woff2"),
+         url("noto-sans-cham/NotoSansCham-Light.woff") format("woff");
 }
 
 @font-face {
@@ -69,12 +49,8 @@
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-sans-cham/NotoSansCham-Medium.woff2") format("woff2"),
-         url("/noto-sans-cham/NotoSansCham-Medium.woff") format("woff");
-}
-
-.font-cham {
-    font-family: noto-sans-cham;
+    src: url("noto-sans-cham/NotoSansCham-Medium.woff2") format("woff2"),
+         url("noto-sans-cham/NotoSansCham-Medium.woff") format("woff");
 }
 
 @font-face {
@@ -82,12 +58,8 @@
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-sans-cham/NotoSansCham-Regular.woff2") format("woff2"),
-         url("/noto-sans-cham/NotoSansCham-Regular.woff") format("woff");
-}
-
-.font-cham {
-    font-family: noto-sans-cham;
+    src: url("noto-sans-cham/NotoSansCham-Regular.woff2") format("woff2"),
+         url("noto-sans-cham/NotoSansCham-Regular.woff") format("woff");
 }
 
 @font-face {
@@ -95,12 +67,8 @@
     font-weight: 600;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-sans-cham/NotoSansCham-SemiBold.woff2") format("woff2"),
-         url("/noto-sans-cham/NotoSansCham-SemiBold.woff") format("woff");
-}
-
-.font-cham {
-    font-family: noto-sans-cham;
+    src: url("noto-sans-cham/NotoSansCham-SemiBold.woff2") format("woff2"),
+         url("noto-sans-cham/NotoSansCham-SemiBold.woff") format("woff");
 }
 
 @font-face {
@@ -108,8 +76,8 @@
     font-weight: 100;
     font-style: normal;
     font-display: swap;
-    src: url("/noto-sans-cham/NotoSansCham-Thin.woff2") format("woff2"),
-         url("/noto-sans-cham/NotoSansCham-Thin.woff") format("woff");
+    src: url("noto-sans-cham/NotoSansCham-Thin.woff2") format("woff2"),
+         url("noto-sans-cham/NotoSansCham-Thin.woff") format("woff");
 }
 
 .font-cham {

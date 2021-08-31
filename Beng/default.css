@@ -1,117 +1,85 @@
 
 @font-face {
-    font-family: notoui-sans-bengali;
+    font-family: noto-sans-bengali;
     font-weight: 900;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-bengali/NotoSansBengaliUI-Black.woff2") format("woff2"),
-         url("/notoui-sans-bengali/NotoSansBengaliUI-Black.woff") format("woff");
-}
-
-.font-beng {
-    font-family: notoui-sans-bengali;
+    src: url("noto-sans-bengali/NotoSansBengali-Black.woff2") format("woff2"),
+         url("noto-sans-bengali/NotoSansBengali-Black.woff") format("woff");
 }
 
 @font-face {
-    font-family: notoui-sans-bengali;
+    font-family: noto-sans-bengali;
     font-weight: 700;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-bengali/NotoSansBengaliUI-Bold.woff2") format("woff2"),
-         url("/notoui-sans-bengali/NotoSansBengaliUI-Bold.woff") format("woff");
-}
-
-.font-beng {
-    font-family: notoui-sans-bengali;
+    src: url("noto-sans-bengali/NotoSansBengali-Bold.woff2") format("woff2"),
+         url("noto-sans-bengali/NotoSansBengali-Bold.woff") format("woff");
 }
 
 @font-face {
-    font-family: notoui-sans-bengali;
+    font-family: noto-sans-bengali;
     font-weight: 700;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-bengali/NotoSansBengaliUI-ExtraBold.woff2") format("woff2"),
-         url("/notoui-sans-bengali/NotoSansBengaliUI-ExtraBold.woff") format("woff");
-}
-
-.font-beng {
-    font-family: notoui-sans-bengali;
+    src: url("noto-sans-bengali/NotoSansBengali-ExtraBold.woff2") format("woff2"),
+         url("noto-sans-bengali/NotoSansBengali-ExtraBold.woff") format("woff");
 }
 
 @font-face {
-    font-family: notoui-sans-bengali;
+    font-family: noto-sans-bengali;
     font-weight: 300;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-bengali/NotoSansBengaliUI-ExtraLight.woff2") format("woff2"),
-         url("/notoui-sans-bengali/NotoSansBengaliUI-ExtraLight.woff") format("woff");
-}
-
-.font-beng {
-    font-family: notoui-sans-bengali;
+    src: url("noto-sans-bengali/NotoSansBengali-ExtraLight.woff2") format("woff2"),
+         url("noto-sans-bengali/NotoSansBengali-ExtraLight.woff") format("woff");
 }
 
 @font-face {
-    font-family: notoui-sans-bengali;
+    font-family: noto-sans-bengali;
     font-weight: 300;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-bengali/NotoSansBengaliUI-Light.woff2") format("woff2"),
-         url("/notoui-sans-bengali/NotoSansBengaliUI-Light.woff") format("woff");
-}
-
-.font-beng {
-    font-family: notoui-sans-bengali;
+    src: url("noto-sans-bengali/NotoSansBengali-Light.woff2") format("woff2"),
+         url("noto-sans-bengali/NotoSansBengali-Light.woff") format("woff");
 }
 
 @font-face {
-    font-family: notoui-sans-bengali;
+    font-family: noto-sans-bengali;
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-bengali/NotoSansBengaliUI-Medium.woff2") format("woff2"),
-         url("/notoui-sans-bengali/NotoSansBengaliUI-Medium.woff") format("woff");
-}
-
-.font-beng {
-    font-family: notoui-sans-bengali;
+    src: url("noto-sans-bengali/NotoSansBengali-Medium.woff2") format("woff2"),
+         url("noto-sans-bengali/NotoSansBengali-Medium.woff") format("woff");
 }
 
 @font-face {
-    font-family: notoui-sans-bengali;
+    font-family: noto-sans-bengali;
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-bengali/NotoSansBengaliUI-Regular.woff2") format("woff2"),
-         url("/notoui-sans-bengali/NotoSansBengaliUI-Regular.woff") format("woff");
-}
-
-.font-beng {
-    font-family: notoui-sans-bengali;
+    src: url("noto-sans-bengali/NotoSansBengali-Regular.woff2") format("woff2"),
+         url("noto-sans-bengali/NotoSansBengali-Regular.woff") format("woff");
 }
 
 @font-face {
-    font-family: notoui-sans-bengali;
+    font-family: noto-sans-bengali;
     font-weight: 600;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-bengali/NotoSansBengaliUI-SemiBold.woff2") format("woff2"),
-         url("/notoui-sans-bengali/NotoSansBengaliUI-SemiBold.woff") format("woff");
-}
-
-.font-beng {
-    font-family: notoui-sans-bengali;
+    src: url("noto-sans-bengali/NotoSansBengali-SemiBold.woff2") format("woff2"),
+         url("noto-sans-bengali/NotoSansBengali-SemiBold.woff") format("woff");
 }
 
 @font-face {
-    font-family: notoui-sans-bengali;
+    font-family: noto-sans-bengali;
     font-weight: 100;
     font-style: normal;
     font-display: swap;
-    src: url("/notoui-sans-bengali/NotoSansBengaliUI-Thin.woff2") format("woff2"),
-         url("/notoui-sans-bengali/NotoSansBengaliUI-Thin.woff") format("woff");
+    src: url("noto-sans-bengali/NotoSansBengali-Thin.woff2") format("woff2"),
+         url("noto-sans-bengali/NotoSansBengali-Thin.woff") format("woff");
 }
 
 .font-beng {
-    font-family: notoui-sans-bengali;
+    font-family: noto-sans-bengali;
 }
