@@ -1,0 +1,26 @@
+
+@font-face {
+    font-family: notoui-sans-kannada;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/notoui-sans-kannada/NotoSansKannadaUI-Bold.woff2") format("woff2"),
+         url("/notoui-sans-kannada/NotoSansKannadaUI-Bold.woff") format("woff");
+}
+
+.font-knda {
+    font-family: notoui-sans-kannada;
+}
+
+@font-face {
+    font-family: notoui-sans-kannada;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/notoui-sans-kannada/NotoSansKannadaUI-Regular.woff2") format("woff2"),
+         url("/notoui-sans-kannada/NotoSansKannadaUI-Regular.woff") format("woff");
+}
+
+.font-knda {
+    font-family: notoui-sans-kannada;
+}

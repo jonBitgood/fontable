@@ -1,0 +1,13 @@
+
+@font-face {
+    font-family: notoUnjoined-sans-adlam;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/notoUnjoined-sans-adlam/NotoSansAdlamUnjoined-Regular.woff2") format("woff2"),
+         url("/notoUnjoined-sans-adlam/NotoSansAdlamUnjoined-Regular.woff") format("woff");
+}
+
+.font-adlm {
+    font-family: notoUnjoined-sans-adlam;
+}

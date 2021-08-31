@@ -1,0 +1,13 @@
+
+@font-face {
+    font-family: noto-sans-gothic;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-gothic/NotoSansGothic-Regular.woff2") format("woff2"),
+         url("/noto-sans-gothic/NotoSansGothic-Regular.woff") format("woff");
+}
+
+.font-goth {
+    font-family: noto-sans-gothic;
+}

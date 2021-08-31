@@ -1,0 +1,13 @@
+
+@font-face {
+    font-family: noto-sans-egyptianHieroglyph;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-egyptianHieroglyph/NotoSansEgyptianHieroglyphs-Regular.woff2") format("woff2"),
+         url("/noto-sans-egyptianHieroglyph/NotoSansEgyptianHieroglyphs-Regular.woff") format("woff");
+}
+
+.font-egyp {
+    font-family: noto-sans-egyptianHieroglyph;
+}

@@ -1,0 +1,13 @@
+
+@font-face {
+    font-family: noto-sans-hanunoo;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-hanunoo/NotoSansHanunoo-Regular.woff2") format("woff2"),
+         url("/noto-sans-hanunoo/NotoSansHanunoo-Regular.woff") format("woff");
+}
+
+.font-hano {
+    font-family: noto-sans-hanunoo;
+}

@@ -1,0 +1,26 @@
+
+@font-face {
+    font-family: noto-sans-thaana;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-thaana/NotoSansThaana-Bold.woff2") format("woff2"),
+         url("/noto-sans-thaana/NotoSansThaana-Bold.woff") format("woff");
+}
+
+.font-thaa {
+    font-family: noto-sans-thaana;
+}
+
+@font-face {
+    font-family: noto-sans-thaana;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-thaana/NotoSansThaana-Regular.woff2") format("woff2"),
+         url("/noto-sans-thaana/NotoSansThaana-Regular.woff") format("woff");
+}
+
+.font-thaa {
+    font-family: noto-sans-thaana;
+}

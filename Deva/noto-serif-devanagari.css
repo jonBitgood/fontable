@@ -1,0 +1,26 @@
+
+@font-face {
+    font-family: noto-serif-devanagari;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-devanagari/NotoSerifDevanagari-Bold.woff2") format("woff2"),
+         url("/noto-serif-devanagari/NotoSerifDevanagari-Bold.woff") format("woff");
+}
+
+.font-deva {
+    font-family: noto-serif-devanagari;
+}
+
+@font-face {
+    font-family: noto-serif-devanagari;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-devanagari/NotoSerifDevanagari-Regular.woff2") format("woff2"),
+         url("/noto-serif-devanagari/NotoSerifDevanagari-Regular.woff") format("woff");
+}
+
+.font-deva {
+    font-family: noto-serif-devanagari;
+}

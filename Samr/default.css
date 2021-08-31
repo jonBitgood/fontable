@@ -1,0 +1,13 @@
+
+@font-face {
+    font-family: noto-sans-samaritan;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-samaritan/NotoSansSamaritan-Regular.woff2") format("woff2"),
+         url("/noto-sans-samaritan/NotoSansSamaritan-Regular.woff") format("woff");
+}
+
+.font-samr {
+    font-family: noto-sans-samaritan;
+}

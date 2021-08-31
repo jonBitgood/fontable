@@ -1,0 +1,468 @@
+
+@font-face {
+    font-family: noto-serif-thai;
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-thai/NotoSerifThai-Black.woff2") format("woff2"),
+         url("/noto-serif-thai/NotoSerifThai-Black.woff") format("woff");
+}
+
+.font-thai {
+    font-family: noto-serif-thai;
+}
+
+@font-face {
+    font-family: noto-serif-thai;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-thai/NotoSerifThai-Bold.woff2") format("woff2"),
+         url("/noto-serif-thai/NotoSerifThai-Bold.woff") format("woff");
+}
+
+.font-thai {
+    font-family: noto-serif-thai;
+}
+
+@font-face {
+    font-family: noto-serif-thai;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-thai/NotoSerifThai-Condensed.woff2") format("woff2"),
+         url("/noto-serif-thai/NotoSerifThai-Condensed.woff") format("woff");
+}
+
+.font-thai {
+    font-family: noto-serif-thai;
+}
+
+@font-face {
+    font-family: noto-serif-thai;
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-thai/NotoSerifThai-CondensedBlack.woff2") format("woff2"),
+         url("/noto-serif-thai/NotoSerifThai-CondensedBlack.woff") format("woff");
+}
+
+.font-thai {
+    font-family: noto-serif-thai;
+}
+
+@font-face {
+    font-family: noto-serif-thai;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-thai/NotoSerifThai-CondensedBold.woff2") format("woff2"),
+         url("/noto-serif-thai/NotoSerifThai-CondensedBold.woff") format("woff");
+}
+
+.font-thai {
+    font-family: noto-serif-thai;
+}
+
+@font-face {
+    font-family: noto-serif-thai;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-thai/NotoSerifThai-CondensedExtraBold.woff2") format("woff2"),
+         url("/noto-serif-thai/NotoSerifThai-CondensedExtraBold.woff") format("woff");
+}
+
+.font-thai {
+    font-family: noto-serif-thai;
+}
+
+@font-face {
+    font-family: noto-serif-thai;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-thai/NotoSerifThai-CondensedExtraLight.woff2") format("woff2"),
+         url("/noto-serif-thai/NotoSerifThai-CondensedExtraLight.woff") format("woff");
+}
+
+.font-thai {
+    font-family: noto-serif-thai;
+}
+
+@font-face {
+    font-family: noto-serif-thai;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-thai/NotoSerifThai-CondensedLight.woff2") format("woff2"),
+         url("/noto-serif-thai/NotoSerifThai-CondensedLight.woff") format("woff");
+}
+
+.font-thai {
+    font-family: noto-serif-thai;
+}
+
+@font-face {
+    font-family: noto-serif-thai;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-thai/NotoSerifThai-CondensedMedium.woff2") format("woff2"),
+         url("/noto-serif-thai/NotoSerifThai-CondensedMedium.woff") format("woff");
+}
+
+.font-thai {
+    font-family: noto-serif-thai;
+}
+
+@font-face {
+    font-family: noto-serif-thai;
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-thai/NotoSerifThai-CondensedSemiBold.woff2") format("woff2"),
+         url("/noto-serif-thai/NotoSerifThai-CondensedSemiBold.woff") format("woff");
+}
+
+.font-thai {
+    font-family: noto-serif-thai;
+}
+
+@font-face {
+    font-family: noto-serif-thai;
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-thai/NotoSerifThai-CondensedThin.woff2") format("woff2"),
+         url("/noto-serif-thai/NotoSerifThai-CondensedThin.woff") format("woff");
+}
+
+.font-thai {
+    font-family: noto-serif-thai;
+}
+
+@font-face {
+    font-family: noto-serif-thai;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-thai/NotoSerifThai-ExtraBold.woff2") format("woff2"),
+         url("/noto-serif-thai/NotoSerifThai-ExtraBold.woff") format("woff");
+}
+
+.font-thai {
+    font-family: noto-serif-thai;
+}
+
+@font-face {
+    font-family: noto-serif-thai;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-thai/NotoSerifThai-ExtraCondensed.woff2") format("woff2"),
+         url("/noto-serif-thai/NotoSerifThai-ExtraCondensed.woff") format("woff");
+}
+
+.font-thai {
+    font-family: noto-serif-thai;
+}
+
+@font-face {
+    font-family: noto-serif-thai;
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-thai/NotoSerifThai-ExtraCondensedBlack.woff2") format("woff2"),
+         url("/noto-serif-thai/NotoSerifThai-ExtraCondensedBlack.woff") format("woff");
+}
+
+.font-thai {
+    font-family: noto-serif-thai;
+}
+
+@font-face {
+    font-family: noto-serif-thai;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-thai/NotoSerifThai-ExtraCondensedBold.woff2") format("woff2"),
+         url("/noto-serif-thai/NotoSerifThai-ExtraCondensedBold.woff") format("woff");
+}
+
+.font-thai {
+    font-family: noto-serif-thai;
+}
+
+@font-face {
+    font-family: noto-serif-thai;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-thai/NotoSerifThai-ExtraCondensedExtraBold.woff2") format("woff2"),
+         url("/noto-serif-thai/NotoSerifThai-ExtraCondensedExtraBold.woff") format("woff");
+}
+
+.font-thai {
+    font-family: noto-serif-thai;
+}
+
+@font-face {
+    font-family: noto-serif-thai;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-thai/NotoSerifThai-ExtraCondensedExtraLight.woff2") format("woff2"),
+         url("/noto-serif-thai/NotoSerifThai-ExtraCondensedExtraLight.woff") format("woff");
+}
+
+.font-thai {
+    font-family: noto-serif-thai;
+}
+
+@font-face {
+    font-family: noto-serif-thai;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-thai/NotoSerifThai-ExtraCondensedLight.woff2") format("woff2"),
+         url("/noto-serif-thai/NotoSerifThai-ExtraCondensedLight.woff") format("woff");
+}
+
+.font-thai {
+    font-family: noto-serif-thai;
+}
+
+@font-face {
+    font-family: noto-serif-thai;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-thai/NotoSerifThai-ExtraCondensedMedium.woff2") format("woff2"),
+         url("/noto-serif-thai/NotoSerifThai-ExtraCondensedMedium.woff") format("woff");
+}
+
+.font-thai {
+    font-family: noto-serif-thai;
+}
+
+@font-face {
+    font-family: noto-serif-thai;
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-thai/NotoSerifThai-ExtraCondensedSemiBold.woff2") format("woff2"),
+         url("/noto-serif-thai/NotoSerifThai-ExtraCondensedSemiBold.woff") format("woff");
+}
+
+.font-thai {
+    font-family: noto-serif-thai;
+}
+
+@font-face {
+    font-family: noto-serif-thai;
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-thai/NotoSerifThai-ExtraCondensedThin.woff2") format("woff2"),
+         url("/noto-serif-thai/NotoSerifThai-ExtraCondensedThin.woff") format("woff");
+}
+
+.font-thai {
+    font-family: noto-serif-thai;
+}
+
+@font-face {
+    font-family: noto-serif-thai;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-thai/NotoSerifThai-ExtraLight.woff2") format("woff2"),
+         url("/noto-serif-thai/NotoSerifThai-ExtraLight.woff") format("woff");
+}
+
+.font-thai {
+    font-family: noto-serif-thai;
+}
+
+@font-face {
+    font-family: noto-serif-thai;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-thai/NotoSerifThai-Light.woff2") format("woff2"),
+         url("/noto-serif-thai/NotoSerifThai-Light.woff") format("woff");
+}
+
+.font-thai {
+    font-family: noto-serif-thai;
+}
+
+@font-face {
+    font-family: noto-serif-thai;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-thai/NotoSerifThai-Medium.woff2") format("woff2"),
+         url("/noto-serif-thai/NotoSerifThai-Medium.woff") format("woff");
+}
+
+.font-thai {
+    font-family: noto-serif-thai;
+}
+
+@font-face {
+    font-family: noto-serif-thai;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-thai/NotoSerifThai-Regular.woff2") format("woff2"),
+         url("/noto-serif-thai/NotoSerifThai-Regular.woff") format("woff");
+}
+
+.font-thai {
+    font-family: noto-serif-thai;
+}
+
+@font-face {
+    font-family: noto-serif-thai;
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-thai/NotoSerifThai-SemiBold.woff2") format("woff2"),
+         url("/noto-serif-thai/NotoSerifThai-SemiBold.woff") format("woff");
+}
+
+.font-thai {
+    font-family: noto-serif-thai;
+}
+
+@font-face {
+    font-family: noto-serif-thai;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-thai/NotoSerifThai-SemiCondensed.woff2") format("woff2"),
+         url("/noto-serif-thai/NotoSerifThai-SemiCondensed.woff") format("woff");
+}
+
+.font-thai {
+    font-family: noto-serif-thai;
+}
+
+@font-face {
+    font-family: noto-serif-thai;
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-thai/NotoSerifThai-SemiCondensedBlack.woff2") format("woff2"),
+         url("/noto-serif-thai/NotoSerifThai-SemiCondensedBlack.woff") format("woff");
+}
+
+.font-thai {
+    font-family: noto-serif-thai;
+}
+
+@font-face {
+    font-family: noto-serif-thai;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-thai/NotoSerifThai-SemiCondensedBold.woff2") format("woff2"),
+         url("/noto-serif-thai/NotoSerifThai-SemiCondensedBold.woff") format("woff");
+}
+
+.font-thai {
+    font-family: noto-serif-thai;
+}
+
+@font-face {
+    font-family: noto-serif-thai;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-thai/NotoSerifThai-SemiCondensedExtraBold.woff2") format("woff2"),
+         url("/noto-serif-thai/NotoSerifThai-SemiCondensedExtraBold.woff") format("woff");
+}
+
+.font-thai {
+    font-family: noto-serif-thai;
+}
+
+@font-face {
+    font-family: noto-serif-thai;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-thai/NotoSerifThai-SemiCondensedExtraLight.woff2") format("woff2"),
+         url("/noto-serif-thai/NotoSerifThai-SemiCondensedExtraLight.woff") format("woff");
+}
+
+.font-thai {
+    font-family: noto-serif-thai;
+}
+
+@font-face {
+    font-family: noto-serif-thai;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-thai/NotoSerifThai-SemiCondensedLight.woff2") format("woff2"),
+         url("/noto-serif-thai/NotoSerifThai-SemiCondensedLight.woff") format("woff");
+}
+
+.font-thai {
+    font-family: noto-serif-thai;
+}
+
+@font-face {
+    font-family: noto-serif-thai;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-thai/NotoSerifThai-SemiCondensedMedium.woff2") format("woff2"),
+         url("/noto-serif-thai/NotoSerifThai-SemiCondensedMedium.woff") format("woff");
+}
+
+.font-thai {
+    font-family: noto-serif-thai;
+}
+
+@font-face {
+    font-family: noto-serif-thai;
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-thai/NotoSerifThai-SemiCondensedSemiBold.woff2") format("woff2"),
+         url("/noto-serif-thai/NotoSerifThai-SemiCondensedSemiBold.woff") format("woff");
+}
+
+.font-thai {
+    font-family: noto-serif-thai;
+}
+
+@font-face {
+    font-family: noto-serif-thai;
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-thai/NotoSerifThai-SemiCondensedThin.woff2") format("woff2"),
+         url("/noto-serif-thai/NotoSerifThai-SemiCondensedThin.woff") format("woff");
+}
+
+.font-thai {
+    font-family: noto-serif-thai;
+}
+
+@font-face {
+    font-family: noto-serif-thai;
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-thai/NotoSerifThai-Thin.woff2") format("woff2"),
+         url("/noto-serif-thai/NotoSerifThai-Thin.woff") format("woff");
+}
+
+.font-thai {
+    font-family: noto-serif-thai;
+}

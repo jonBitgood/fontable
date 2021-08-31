@@ -1,0 +1,13 @@
+
+@font-face {
+    font-family: noto-sans-oldTurkic;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-oldTurkic/NotoSansOldTurkic-Regular.woff2") format("woff2"),
+         url("/noto-sans-oldTurkic/NotoSansOldTurkic-Regular.woff") format("woff");
+}
+
+.font-orkh {
+    font-family: noto-sans-oldTurkic;
+}

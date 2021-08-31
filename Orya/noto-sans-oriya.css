@@ -1,0 +1,26 @@
+
+@font-face {
+    font-family: noto-sans-oriya;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-oriya/NotoSansOriya-Bold.woff2") format("woff2"),
+         url("/noto-sans-oriya/NotoSansOriya-Bold.woff") format("woff");
+}
+
+.font-orya {
+    font-family: noto-sans-oriya;
+}
+
+@font-face {
+    font-family: noto-sans-oriya;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-oriya/NotoSansOriya-Regular.woff2") format("woff2"),
+         url("/noto-sans-oriya/NotoSansOriya-Regular.woff") format("woff");
+}
+
+.font-orya {
+    font-family: noto-sans-oriya;
+}

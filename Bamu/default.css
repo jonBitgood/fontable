@@ -1,0 +1,13 @@
+
+@font-face {
+    font-family: noto-sans-bamum;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-bamum/NotoSansBamum-Regular.woff2") format("woff2"),
+         url("/noto-sans-bamum/NotoSansBamum-Regular.woff") format("woff");
+}
+
+.font-bamu {
+    font-family: noto-sans-bamum;
+}

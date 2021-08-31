@@ -1,0 +1,468 @@
+
+@font-face {
+    font-family: noto-sans-hebrew;
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-hebrew/NotoSansHebrew-Black.woff2") format("woff2"),
+         url("/noto-sans-hebrew/NotoSansHebrew-Black.woff") format("woff");
+}
+
+.font-hebr {
+    font-family: noto-sans-hebrew;
+}
+
+@font-face {
+    font-family: noto-sans-hebrew;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-hebrew/NotoSansHebrew-Bold.woff2") format("woff2"),
+         url("/noto-sans-hebrew/NotoSansHebrew-Bold.woff") format("woff");
+}
+
+.font-hebr {
+    font-family: noto-sans-hebrew;
+}
+
+@font-face {
+    font-family: noto-sans-hebrew;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-hebrew/NotoSansHebrew-Condensed.woff2") format("woff2"),
+         url("/noto-sans-hebrew/NotoSansHebrew-Condensed.woff") format("woff");
+}
+
+.font-hebr {
+    font-family: noto-sans-hebrew;
+}
+
+@font-face {
+    font-family: noto-sans-hebrew;
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-hebrew/NotoSansHebrew-CondensedBlack.woff2") format("woff2"),
+         url("/noto-sans-hebrew/NotoSansHebrew-CondensedBlack.woff") format("woff");
+}
+
+.font-hebr {
+    font-family: noto-sans-hebrew;
+}
+
+@font-face {
+    font-family: noto-sans-hebrew;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-hebrew/NotoSansHebrew-CondensedBold.woff2") format("woff2"),
+         url("/noto-sans-hebrew/NotoSansHebrew-CondensedBold.woff") format("woff");
+}
+
+.font-hebr {
+    font-family: noto-sans-hebrew;
+}
+
+@font-face {
+    font-family: noto-sans-hebrew;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-hebrew/NotoSansHebrew-CondensedExtraBold.woff2") format("woff2"),
+         url("/noto-sans-hebrew/NotoSansHebrew-CondensedExtraBold.woff") format("woff");
+}
+
+.font-hebr {
+    font-family: noto-sans-hebrew;
+}
+
+@font-face {
+    font-family: noto-sans-hebrew;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-hebrew/NotoSansHebrew-CondensedExtraLight.woff2") format("woff2"),
+         url("/noto-sans-hebrew/NotoSansHebrew-CondensedExtraLight.woff") format("woff");
+}
+
+.font-hebr {
+    font-family: noto-sans-hebrew;
+}
+
+@font-face {
+    font-family: noto-sans-hebrew;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-hebrew/NotoSansHebrew-CondensedLight.woff2") format("woff2"),
+         url("/noto-sans-hebrew/NotoSansHebrew-CondensedLight.woff") format("woff");
+}
+
+.font-hebr {
+    font-family: noto-sans-hebrew;
+}
+
+@font-face {
+    font-family: noto-sans-hebrew;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-hebrew/NotoSansHebrew-CondensedMedium.woff2") format("woff2"),
+         url("/noto-sans-hebrew/NotoSansHebrew-CondensedMedium.woff") format("woff");
+}
+
+.font-hebr {
+    font-family: noto-sans-hebrew;
+}
+
+@font-face {
+    font-family: noto-sans-hebrew;
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-hebrew/NotoSansHebrew-CondensedSemiBold.woff2") format("woff2"),
+         url("/noto-sans-hebrew/NotoSansHebrew-CondensedSemiBold.woff") format("woff");
+}
+
+.font-hebr {
+    font-family: noto-sans-hebrew;
+}
+
+@font-face {
+    font-family: noto-sans-hebrew;
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-hebrew/NotoSansHebrew-CondensedThin.woff2") format("woff2"),
+         url("/noto-sans-hebrew/NotoSansHebrew-CondensedThin.woff") format("woff");
+}
+
+.font-hebr {
+    font-family: noto-sans-hebrew;
+}
+
+@font-face {
+    font-family: noto-sans-hebrew;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-hebrew/NotoSansHebrew-ExtraBold.woff2") format("woff2"),
+         url("/noto-sans-hebrew/NotoSansHebrew-ExtraBold.woff") format("woff");
+}
+
+.font-hebr {
+    font-family: noto-sans-hebrew;
+}
+
+@font-face {
+    font-family: noto-sans-hebrew;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-hebrew/NotoSansHebrew-ExtraCondensed.woff2") format("woff2"),
+         url("/noto-sans-hebrew/NotoSansHebrew-ExtraCondensed.woff") format("woff");
+}
+
+.font-hebr {
+    font-family: noto-sans-hebrew;
+}
+
+@font-face {
+    font-family: noto-sans-hebrew;
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-hebrew/NotoSansHebrew-ExtraCondensedBlack.woff2") format("woff2"),
+         url("/noto-sans-hebrew/NotoSansHebrew-ExtraCondensedBlack.woff") format("woff");
+}
+
+.font-hebr {
+    font-family: noto-sans-hebrew;
+}
+
+@font-face {
+    font-family: noto-sans-hebrew;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-hebrew/NotoSansHebrew-ExtraCondensedBold.woff2") format("woff2"),
+         url("/noto-sans-hebrew/NotoSansHebrew-ExtraCondensedBold.woff") format("woff");
+}
+
+.font-hebr {
+    font-family: noto-sans-hebrew;
+}
+
+@font-face {
+    font-family: noto-sans-hebrew;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-hebrew/NotoSansHebrew-ExtraCondensedExtraBold.woff2") format("woff2"),
+         url("/noto-sans-hebrew/NotoSansHebrew-ExtraCondensedExtraBold.woff") format("woff");
+}
+
+.font-hebr {
+    font-family: noto-sans-hebrew;
+}
+
+@font-face {
+    font-family: noto-sans-hebrew;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-hebrew/NotoSansHebrew-ExtraCondensedExtraLight.woff2") format("woff2"),
+         url("/noto-sans-hebrew/NotoSansHebrew-ExtraCondensedExtraLight.woff") format("woff");
+}
+
+.font-hebr {
+    font-family: noto-sans-hebrew;
+}
+
+@font-face {
+    font-family: noto-sans-hebrew;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-hebrew/NotoSansHebrew-ExtraCondensedLight.woff2") format("woff2"),
+         url("/noto-sans-hebrew/NotoSansHebrew-ExtraCondensedLight.woff") format("woff");
+}
+
+.font-hebr {
+    font-family: noto-sans-hebrew;
+}
+
+@font-face {
+    font-family: noto-sans-hebrew;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-hebrew/NotoSansHebrew-ExtraCondensedMedium.woff2") format("woff2"),
+         url("/noto-sans-hebrew/NotoSansHebrew-ExtraCondensedMedium.woff") format("woff");
+}
+
+.font-hebr {
+    font-family: noto-sans-hebrew;
+}
+
+@font-face {
+    font-family: noto-sans-hebrew;
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-hebrew/NotoSansHebrew-ExtraCondensedSemiBold.woff2") format("woff2"),
+         url("/noto-sans-hebrew/NotoSansHebrew-ExtraCondensedSemiBold.woff") format("woff");
+}
+
+.font-hebr {
+    font-family: noto-sans-hebrew;
+}
+
+@font-face {
+    font-family: noto-sans-hebrew;
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-hebrew/NotoSansHebrew-ExtraCondensedThin.woff2") format("woff2"),
+         url("/noto-sans-hebrew/NotoSansHebrew-ExtraCondensedThin.woff") format("woff");
+}
+
+.font-hebr {
+    font-family: noto-sans-hebrew;
+}
+
+@font-face {
+    font-family: noto-sans-hebrew;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-hebrew/NotoSansHebrew-ExtraLight.woff2") format("woff2"),
+         url("/noto-sans-hebrew/NotoSansHebrew-ExtraLight.woff") format("woff");
+}
+
+.font-hebr {
+    font-family: noto-sans-hebrew;
+}
+
+@font-face {
+    font-family: noto-sans-hebrew;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-hebrew/NotoSansHebrew-Light.woff2") format("woff2"),
+         url("/noto-sans-hebrew/NotoSansHebrew-Light.woff") format("woff");
+}
+
+.font-hebr {
+    font-family: noto-sans-hebrew;
+}
+
+@font-face {
+    font-family: noto-sans-hebrew;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-hebrew/NotoSansHebrew-Medium.woff2") format("woff2"),
+         url("/noto-sans-hebrew/NotoSansHebrew-Medium.woff") format("woff");
+}
+
+.font-hebr {
+    font-family: noto-sans-hebrew;
+}
+
+@font-face {
+    font-family: noto-sans-hebrew;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-hebrew/NotoSansHebrew-Regular.woff2") format("woff2"),
+         url("/noto-sans-hebrew/NotoSansHebrew-Regular.woff") format("woff");
+}
+
+.font-hebr {
+    font-family: noto-sans-hebrew;
+}
+
+@font-face {
+    font-family: noto-sans-hebrew;
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-hebrew/NotoSansHebrew-SemiBold.woff2") format("woff2"),
+         url("/noto-sans-hebrew/NotoSansHebrew-SemiBold.woff") format("woff");
+}
+
+.font-hebr {
+    font-family: noto-sans-hebrew;
+}
+
+@font-face {
+    font-family: noto-sans-hebrew;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-hebrew/NotoSansHebrew-SemiCondensed.woff2") format("woff2"),
+         url("/noto-sans-hebrew/NotoSansHebrew-SemiCondensed.woff") format("woff");
+}
+
+.font-hebr {
+    font-family: noto-sans-hebrew;
+}
+
+@font-face {
+    font-family: noto-sans-hebrew;
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-hebrew/NotoSansHebrew-SemiCondensedBlack.woff2") format("woff2"),
+         url("/noto-sans-hebrew/NotoSansHebrew-SemiCondensedBlack.woff") format("woff");
+}
+
+.font-hebr {
+    font-family: noto-sans-hebrew;
+}
+
+@font-face {
+    font-family: noto-sans-hebrew;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-hebrew/NotoSansHebrew-SemiCondensedBold.woff2") format("woff2"),
+         url("/noto-sans-hebrew/NotoSansHebrew-SemiCondensedBold.woff") format("woff");
+}
+
+.font-hebr {
+    font-family: noto-sans-hebrew;
+}
+
+@font-face {
+    font-family: noto-sans-hebrew;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-hebrew/NotoSansHebrew-SemiCondensedExtraBold.woff2") format("woff2"),
+         url("/noto-sans-hebrew/NotoSansHebrew-SemiCondensedExtraBold.woff") format("woff");
+}
+
+.font-hebr {
+    font-family: noto-sans-hebrew;
+}
+
+@font-face {
+    font-family: noto-sans-hebrew;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-hebrew/NotoSansHebrew-SemiCondensedExtraLight.woff2") format("woff2"),
+         url("/noto-sans-hebrew/NotoSansHebrew-SemiCondensedExtraLight.woff") format("woff");
+}
+
+.font-hebr {
+    font-family: noto-sans-hebrew;
+}
+
+@font-face {
+    font-family: noto-sans-hebrew;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-hebrew/NotoSansHebrew-SemiCondensedLight.woff2") format("woff2"),
+         url("/noto-sans-hebrew/NotoSansHebrew-SemiCondensedLight.woff") format("woff");
+}
+
+.font-hebr {
+    font-family: noto-sans-hebrew;
+}
+
+@font-face {
+    font-family: noto-sans-hebrew;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-hebrew/NotoSansHebrew-SemiCondensedMedium.woff2") format("woff2"),
+         url("/noto-sans-hebrew/NotoSansHebrew-SemiCondensedMedium.woff") format("woff");
+}
+
+.font-hebr {
+    font-family: noto-sans-hebrew;
+}
+
+@font-face {
+    font-family: noto-sans-hebrew;
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-hebrew/NotoSansHebrew-SemiCondensedSemiBold.woff2") format("woff2"),
+         url("/noto-sans-hebrew/NotoSansHebrew-SemiCondensedSemiBold.woff") format("woff");
+}
+
+.font-hebr {
+    font-family: noto-sans-hebrew;
+}
+
+@font-face {
+    font-family: noto-sans-hebrew;
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-hebrew/NotoSansHebrew-SemiCondensedThin.woff2") format("woff2"),
+         url("/noto-sans-hebrew/NotoSansHebrew-SemiCondensedThin.woff") format("woff");
+}
+
+.font-hebr {
+    font-family: noto-sans-hebrew;
+}
+
+@font-face {
+    font-family: noto-sans-hebrew;
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-hebrew/NotoSansHebrew-Thin.woff2") format("woff2"),
+         url("/noto-sans-hebrew/NotoSansHebrew-Thin.woff") format("woff");
+}
+
+.font-hebr {
+    font-family: noto-sans-hebrew;
+}

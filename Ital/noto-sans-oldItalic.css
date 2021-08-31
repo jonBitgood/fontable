@@ -1,0 +1,13 @@
+
+@font-face {
+    font-family: noto-sans-oldItalic;
+    font-weight: 400;
+    font-style: 100;
+    font-display: swap;
+    src: url("/noto-sans-oldItalic/NotoSansOldItalic-Regular.woff2") format("woff2"),
+         url("/noto-sans-oldItalic/NotoSansOldItalic-Regular.woff") format("woff");
+}
+
+.font-ital {
+    font-family: noto-sans-oldItalic;
+}

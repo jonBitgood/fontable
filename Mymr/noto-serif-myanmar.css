@@ -1,0 +1,468 @@
+
+@font-face {
+    font-family: noto-serif-myanmar;
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-myanmar/NotoSerifMyanmar-Black.woff2") format("woff2"),
+         url("/noto-serif-myanmar/NotoSerifMyanmar-Black.woff") format("woff");
+}
+
+.font-mymr {
+    font-family: noto-serif-myanmar;
+}
+
+@font-face {
+    font-family: noto-serif-myanmar;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-myanmar/NotoSerifMyanmar-Bold.woff2") format("woff2"),
+         url("/noto-serif-myanmar/NotoSerifMyanmar-Bold.woff") format("woff");
+}
+
+.font-mymr {
+    font-family: noto-serif-myanmar;
+}
+
+@font-face {
+    font-family: noto-serif-myanmar;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-myanmar/NotoSerifMyanmar-Condensed.woff2") format("woff2"),
+         url("/noto-serif-myanmar/NotoSerifMyanmar-Condensed.woff") format("woff");
+}
+
+.font-mymr {
+    font-family: noto-serif-myanmar;
+}
+
+@font-face {
+    font-family: noto-serif-myanmar;
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-myanmar/NotoSerifMyanmar-CondensedBlack.woff2") format("woff2"),
+         url("/noto-serif-myanmar/NotoSerifMyanmar-CondensedBlack.woff") format("woff");
+}
+
+.font-mymr {
+    font-family: noto-serif-myanmar;
+}
+
+@font-face {
+    font-family: noto-serif-myanmar;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-myanmar/NotoSerifMyanmar-CondensedBold.woff2") format("woff2"),
+         url("/noto-serif-myanmar/NotoSerifMyanmar-CondensedBold.woff") format("woff");
+}
+
+.font-mymr {
+    font-family: noto-serif-myanmar;
+}
+
+@font-face {
+    font-family: noto-serif-myanmar;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-myanmar/NotoSerifMyanmar-CondensedExtraBold.woff2") format("woff2"),
+         url("/noto-serif-myanmar/NotoSerifMyanmar-CondensedExtraBold.woff") format("woff");
+}
+
+.font-mymr {
+    font-family: noto-serif-myanmar;
+}
+
+@font-face {
+    font-family: noto-serif-myanmar;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-myanmar/NotoSerifMyanmar-CondensedExtraLight.woff2") format("woff2"),
+         url("/noto-serif-myanmar/NotoSerifMyanmar-CondensedExtraLight.woff") format("woff");
+}
+
+.font-mymr {
+    font-family: noto-serif-myanmar;
+}
+
+@font-face {
+    font-family: noto-serif-myanmar;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-myanmar/NotoSerifMyanmar-CondensedLight.woff2") format("woff2"),
+         url("/noto-serif-myanmar/NotoSerifMyanmar-CondensedLight.woff") format("woff");
+}
+
+.font-mymr {
+    font-family: noto-serif-myanmar;
+}
+
+@font-face {
+    font-family: noto-serif-myanmar;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-myanmar/NotoSerifMyanmar-CondensedMedium.woff2") format("woff2"),
+         url("/noto-serif-myanmar/NotoSerifMyanmar-CondensedMedium.woff") format("woff");
+}
+
+.font-mymr {
+    font-family: noto-serif-myanmar;
+}
+
+@font-face {
+    font-family: noto-serif-myanmar;
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-myanmar/NotoSerifMyanmar-CondensedSemiBold.woff2") format("woff2"),
+         url("/noto-serif-myanmar/NotoSerifMyanmar-CondensedSemiBold.woff") format("woff");
+}
+
+.font-mymr {
+    font-family: noto-serif-myanmar;
+}
+
+@font-face {
+    font-family: noto-serif-myanmar;
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-myanmar/NotoSerifMyanmar-CondensedThin.woff2") format("woff2"),
+         url("/noto-serif-myanmar/NotoSerifMyanmar-CondensedThin.woff") format("woff");
+}
+
+.font-mymr {
+    font-family: noto-serif-myanmar;
+}
+
+@font-face {
+    font-family: noto-serif-myanmar;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-myanmar/NotoSerifMyanmar-ExtraBold.woff2") format("woff2"),
+         url("/noto-serif-myanmar/NotoSerifMyanmar-ExtraBold.woff") format("woff");
+}
+
+.font-mymr {
+    font-family: noto-serif-myanmar;
+}
+
+@font-face {
+    font-family: noto-serif-myanmar;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-myanmar/NotoSerifMyanmar-ExtraCondensed.woff2") format("woff2"),
+         url("/noto-serif-myanmar/NotoSerifMyanmar-ExtraCondensed.woff") format("woff");
+}
+
+.font-mymr {
+    font-family: noto-serif-myanmar;
+}
+
+@font-face {
+    font-family: noto-serif-myanmar;
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-myanmar/NotoSerifMyanmar-ExtraCondensedBlack.woff2") format("woff2"),
+         url("/noto-serif-myanmar/NotoSerifMyanmar-ExtraCondensedBlack.woff") format("woff");
+}
+
+.font-mymr {
+    font-family: noto-serif-myanmar;
+}
+
+@font-face {
+    font-family: noto-serif-myanmar;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-myanmar/NotoSerifMyanmar-ExtraCondensedBold.woff2") format("woff2"),
+         url("/noto-serif-myanmar/NotoSerifMyanmar-ExtraCondensedBold.woff") format("woff");
+}
+
+.font-mymr {
+    font-family: noto-serif-myanmar;
+}
+
+@font-face {
+    font-family: noto-serif-myanmar;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-myanmar/NotoSerifMyanmar-ExtraCondensedExtraBold.woff2") format("woff2"),
+         url("/noto-serif-myanmar/NotoSerifMyanmar-ExtraCondensedExtraBold.woff") format("woff");
+}
+
+.font-mymr {
+    font-family: noto-serif-myanmar;
+}
+
+@font-face {
+    font-family: noto-serif-myanmar;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-myanmar/NotoSerifMyanmar-ExtraCondensedExtraLight.woff2") format("woff2"),
+         url("/noto-serif-myanmar/NotoSerifMyanmar-ExtraCondensedExtraLight.woff") format("woff");
+}
+
+.font-mymr {
+    font-family: noto-serif-myanmar;
+}
+
+@font-face {
+    font-family: noto-serif-myanmar;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-myanmar/NotoSerifMyanmar-ExtraCondensedLight.woff2") format("woff2"),
+         url("/noto-serif-myanmar/NotoSerifMyanmar-ExtraCondensedLight.woff") format("woff");
+}
+
+.font-mymr {
+    font-family: noto-serif-myanmar;
+}
+
+@font-face {
+    font-family: noto-serif-myanmar;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-myanmar/NotoSerifMyanmar-ExtraCondensedMedium.woff2") format("woff2"),
+         url("/noto-serif-myanmar/NotoSerifMyanmar-ExtraCondensedMedium.woff") format("woff");
+}
+
+.font-mymr {
+    font-family: noto-serif-myanmar;
+}
+
+@font-face {
+    font-family: noto-serif-myanmar;
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-myanmar/NotoSerifMyanmar-ExtraCondensedSemiBold.woff2") format("woff2"),
+         url("/noto-serif-myanmar/NotoSerifMyanmar-ExtraCondensedSemiBold.woff") format("woff");
+}
+
+.font-mymr {
+    font-family: noto-serif-myanmar;
+}
+
+@font-face {
+    font-family: noto-serif-myanmar;
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-myanmar/NotoSerifMyanmar-ExtraCondensedThin.woff2") format("woff2"),
+         url("/noto-serif-myanmar/NotoSerifMyanmar-ExtraCondensedThin.woff") format("woff");
+}
+
+.font-mymr {
+    font-family: noto-serif-myanmar;
+}
+
+@font-face {
+    font-family: noto-serif-myanmar;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-myanmar/NotoSerifMyanmar-ExtraLight.woff2") format("woff2"),
+         url("/noto-serif-myanmar/NotoSerifMyanmar-ExtraLight.woff") format("woff");
+}
+
+.font-mymr {
+    font-family: noto-serif-myanmar;
+}
+
+@font-face {
+    font-family: noto-serif-myanmar;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-myanmar/NotoSerifMyanmar-Light.woff2") format("woff2"),
+         url("/noto-serif-myanmar/NotoSerifMyanmar-Light.woff") format("woff");
+}
+
+.font-mymr {
+    font-family: noto-serif-myanmar;
+}
+
+@font-face {
+    font-family: noto-serif-myanmar;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-myanmar/NotoSerifMyanmar-Medium.woff2") format("woff2"),
+         url("/noto-serif-myanmar/NotoSerifMyanmar-Medium.woff") format("woff");
+}
+
+.font-mymr {
+    font-family: noto-serif-myanmar;
+}
+
+@font-face {
+    font-family: noto-serif-myanmar;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-myanmar/NotoSerifMyanmar-Regular.woff2") format("woff2"),
+         url("/noto-serif-myanmar/NotoSerifMyanmar-Regular.woff") format("woff");
+}
+
+.font-mymr {
+    font-family: noto-serif-myanmar;
+}
+
+@font-face {
+    font-family: noto-serif-myanmar;
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-myanmar/NotoSerifMyanmar-SemiBold.woff2") format("woff2"),
+         url("/noto-serif-myanmar/NotoSerifMyanmar-SemiBold.woff") format("woff");
+}
+
+.font-mymr {
+    font-family: noto-serif-myanmar;
+}
+
+@font-face {
+    font-family: noto-serif-myanmar;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-myanmar/NotoSerifMyanmar-SemiCondensed.woff2") format("woff2"),
+         url("/noto-serif-myanmar/NotoSerifMyanmar-SemiCondensed.woff") format("woff");
+}
+
+.font-mymr {
+    font-family: noto-serif-myanmar;
+}
+
+@font-face {
+    font-family: noto-serif-myanmar;
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-myanmar/NotoSerifMyanmar-SemiCondensedBlack.woff2") format("woff2"),
+         url("/noto-serif-myanmar/NotoSerifMyanmar-SemiCondensedBlack.woff") format("woff");
+}
+
+.font-mymr {
+    font-family: noto-serif-myanmar;
+}
+
+@font-face {
+    font-family: noto-serif-myanmar;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-myanmar/NotoSerifMyanmar-SemiCondensedBold.woff2") format("woff2"),
+         url("/noto-serif-myanmar/NotoSerifMyanmar-SemiCondensedBold.woff") format("woff");
+}
+
+.font-mymr {
+    font-family: noto-serif-myanmar;
+}
+
+@font-face {
+    font-family: noto-serif-myanmar;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-myanmar/NotoSerifMyanmar-SemiCondensedExtraBold.woff2") format("woff2"),
+         url("/noto-serif-myanmar/NotoSerifMyanmar-SemiCondensedExtraBold.woff") format("woff");
+}
+
+.font-mymr {
+    font-family: noto-serif-myanmar;
+}
+
+@font-face {
+    font-family: noto-serif-myanmar;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-myanmar/NotoSerifMyanmar-SemiCondensedExtraLight.woff2") format("woff2"),
+         url("/noto-serif-myanmar/NotoSerifMyanmar-SemiCondensedExtraLight.woff") format("woff");
+}
+
+.font-mymr {
+    font-family: noto-serif-myanmar;
+}
+
+@font-face {
+    font-family: noto-serif-myanmar;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-myanmar/NotoSerifMyanmar-SemiCondensedLight.woff2") format("woff2"),
+         url("/noto-serif-myanmar/NotoSerifMyanmar-SemiCondensedLight.woff") format("woff");
+}
+
+.font-mymr {
+    font-family: noto-serif-myanmar;
+}
+
+@font-face {
+    font-family: noto-serif-myanmar;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-myanmar/NotoSerifMyanmar-SemiCondensedMedium.woff2") format("woff2"),
+         url("/noto-serif-myanmar/NotoSerifMyanmar-SemiCondensedMedium.woff") format("woff");
+}
+
+.font-mymr {
+    font-family: noto-serif-myanmar;
+}
+
+@font-face {
+    font-family: noto-serif-myanmar;
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-myanmar/NotoSerifMyanmar-SemiCondensedSemiBold.woff2") format("woff2"),
+         url("/noto-serif-myanmar/NotoSerifMyanmar-SemiCondensedSemiBold.woff") format("woff");
+}
+
+.font-mymr {
+    font-family: noto-serif-myanmar;
+}
+
+@font-face {
+    font-family: noto-serif-myanmar;
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-myanmar/NotoSerifMyanmar-SemiCondensedThin.woff2") format("woff2"),
+         url("/noto-serif-myanmar/NotoSerifMyanmar-SemiCondensedThin.woff") format("woff");
+}
+
+.font-mymr {
+    font-family: noto-serif-myanmar;
+}
+
+@font-face {
+    font-family: noto-serif-myanmar;
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-myanmar/NotoSerifMyanmar-Thin.woff2") format("woff2"),
+         url("/noto-serif-myanmar/NotoSerifMyanmar-Thin.woff") format("woff");
+}
+
+.font-mymr {
+    font-family: noto-serif-myanmar;
+}

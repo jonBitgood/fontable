@@ -1,0 +1,13 @@
+
+@font-face {
+    font-family: noto-sans-brahmi;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-brahmi/NotoSansBrahmi-Regular.woff2") format("woff2"),
+         url("/noto-sans-brahmi/NotoSansBrahmi-Regular.woff") format("woff");
+}
+
+.font-brah {
+    font-family: noto-sans-brahmi;
+}

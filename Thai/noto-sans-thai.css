@@ -1,0 +1,468 @@
+
+@font-face {
+    font-family: noto-sans-thai;
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-thai/NotoSansThai-Black.woff2") format("woff2"),
+         url("/noto-sans-thai/NotoSansThai-Black.woff") format("woff");
+}
+
+.font-thai {
+    font-family: noto-sans-thai;
+}
+
+@font-face {
+    font-family: noto-sans-thai;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-thai/NotoSansThai-Bold.woff2") format("woff2"),
+         url("/noto-sans-thai/NotoSansThai-Bold.woff") format("woff");
+}
+
+.font-thai {
+    font-family: noto-sans-thai;
+}
+
+@font-face {
+    font-family: noto-sans-thai;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-thai/NotoSansThai-Condensed.woff2") format("woff2"),
+         url("/noto-sans-thai/NotoSansThai-Condensed.woff") format("woff");
+}
+
+.font-thai {
+    font-family: noto-sans-thai;
+}
+
+@font-face {
+    font-family: noto-sans-thai;
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-thai/NotoSansThai-CondensedBlack.woff2") format("woff2"),
+         url("/noto-sans-thai/NotoSansThai-CondensedBlack.woff") format("woff");
+}
+
+.font-thai {
+    font-family: noto-sans-thai;
+}
+
+@font-face {
+    font-family: noto-sans-thai;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-thai/NotoSansThai-CondensedBold.woff2") format("woff2"),
+         url("/noto-sans-thai/NotoSansThai-CondensedBold.woff") format("woff");
+}
+
+.font-thai {
+    font-family: noto-sans-thai;
+}
+
+@font-face {
+    font-family: noto-sans-thai;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-thai/NotoSansThai-CondensedExtraBold.woff2") format("woff2"),
+         url("/noto-sans-thai/NotoSansThai-CondensedExtraBold.woff") format("woff");
+}
+
+.font-thai {
+    font-family: noto-sans-thai;
+}
+
+@font-face {
+    font-family: noto-sans-thai;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-thai/NotoSansThai-CondensedExtraLight.woff2") format("woff2"),
+         url("/noto-sans-thai/NotoSansThai-CondensedExtraLight.woff") format("woff");
+}
+
+.font-thai {
+    font-family: noto-sans-thai;
+}
+
+@font-face {
+    font-family: noto-sans-thai;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-thai/NotoSansThai-CondensedLight.woff2") format("woff2"),
+         url("/noto-sans-thai/NotoSansThai-CondensedLight.woff") format("woff");
+}
+
+.font-thai {
+    font-family: noto-sans-thai;
+}
+
+@font-face {
+    font-family: noto-sans-thai;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-thai/NotoSansThai-CondensedMedium.woff2") format("woff2"),
+         url("/noto-sans-thai/NotoSansThai-CondensedMedium.woff") format("woff");
+}
+
+.font-thai {
+    font-family: noto-sans-thai;
+}
+
+@font-face {
+    font-family: noto-sans-thai;
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-thai/NotoSansThai-CondensedSemiBold.woff2") format("woff2"),
+         url("/noto-sans-thai/NotoSansThai-CondensedSemiBold.woff") format("woff");
+}
+
+.font-thai {
+    font-family: noto-sans-thai;
+}
+
+@font-face {
+    font-family: noto-sans-thai;
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-thai/NotoSansThai-CondensedThin.woff2") format("woff2"),
+         url("/noto-sans-thai/NotoSansThai-CondensedThin.woff") format("woff");
+}
+
+.font-thai {
+    font-family: noto-sans-thai;
+}
+
+@font-face {
+    font-family: noto-sans-thai;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-thai/NotoSansThai-ExtraBold.woff2") format("woff2"),
+         url("/noto-sans-thai/NotoSansThai-ExtraBold.woff") format("woff");
+}
+
+.font-thai {
+    font-family: noto-sans-thai;
+}
+
+@font-face {
+    font-family: noto-sans-thai;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-thai/NotoSansThai-ExtraCondensed.woff2") format("woff2"),
+         url("/noto-sans-thai/NotoSansThai-ExtraCondensed.woff") format("woff");
+}
+
+.font-thai {
+    font-family: noto-sans-thai;
+}
+
+@font-face {
+    font-family: noto-sans-thai;
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-thai/NotoSansThai-ExtraCondensedBlack.woff2") format("woff2"),
+         url("/noto-sans-thai/NotoSansThai-ExtraCondensedBlack.woff") format("woff");
+}
+
+.font-thai {
+    font-family: noto-sans-thai;
+}
+
+@font-face {
+    font-family: noto-sans-thai;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-thai/NotoSansThai-ExtraCondensedBold.woff2") format("woff2"),
+         url("/noto-sans-thai/NotoSansThai-ExtraCondensedBold.woff") format("woff");
+}
+
+.font-thai {
+    font-family: noto-sans-thai;
+}
+
+@font-face {
+    font-family: noto-sans-thai;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-thai/NotoSansThai-ExtraCondensedExtraBold.woff2") format("woff2"),
+         url("/noto-sans-thai/NotoSansThai-ExtraCondensedExtraBold.woff") format("woff");
+}
+
+.font-thai {
+    font-family: noto-sans-thai;
+}
+
+@font-face {
+    font-family: noto-sans-thai;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-thai/NotoSansThai-ExtraCondensedExtraLight.woff2") format("woff2"),
+         url("/noto-sans-thai/NotoSansThai-ExtraCondensedExtraLight.woff") format("woff");
+}
+
+.font-thai {
+    font-family: noto-sans-thai;
+}
+
+@font-face {
+    font-family: noto-sans-thai;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-thai/NotoSansThai-ExtraCondensedLight.woff2") format("woff2"),
+         url("/noto-sans-thai/NotoSansThai-ExtraCondensedLight.woff") format("woff");
+}
+
+.font-thai {
+    font-family: noto-sans-thai;
+}
+
+@font-face {
+    font-family: noto-sans-thai;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-thai/NotoSansThai-ExtraCondensedMedium.woff2") format("woff2"),
+         url("/noto-sans-thai/NotoSansThai-ExtraCondensedMedium.woff") format("woff");
+}
+
+.font-thai {
+    font-family: noto-sans-thai;
+}
+
+@font-face {
+    font-family: noto-sans-thai;
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-thai/NotoSansThai-ExtraCondensedSemiBold.woff2") format("woff2"),
+         url("/noto-sans-thai/NotoSansThai-ExtraCondensedSemiBold.woff") format("woff");
+}
+
+.font-thai {
+    font-family: noto-sans-thai;
+}
+
+@font-face {
+    font-family: noto-sans-thai;
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-thai/NotoSansThai-ExtraCondensedThin.woff2") format("woff2"),
+         url("/noto-sans-thai/NotoSansThai-ExtraCondensedThin.woff") format("woff");
+}
+
+.font-thai {
+    font-family: noto-sans-thai;
+}
+
+@font-face {
+    font-family: noto-sans-thai;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-thai/NotoSansThai-ExtraLight.woff2") format("woff2"),
+         url("/noto-sans-thai/NotoSansThai-ExtraLight.woff") format("woff");
+}
+
+.font-thai {
+    font-family: noto-sans-thai;
+}
+
+@font-face {
+    font-family: noto-sans-thai;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-thai/NotoSansThai-Light.woff2") format("woff2"),
+         url("/noto-sans-thai/NotoSansThai-Light.woff") format("woff");
+}
+
+.font-thai {
+    font-family: noto-sans-thai;
+}
+
+@font-face {
+    font-family: noto-sans-thai;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-thai/NotoSansThai-Medium.woff2") format("woff2"),
+         url("/noto-sans-thai/NotoSansThai-Medium.woff") format("woff");
+}
+
+.font-thai {
+    font-family: noto-sans-thai;
+}
+
+@font-face {
+    font-family: noto-sans-thai;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-thai/NotoSansThai-Regular.woff2") format("woff2"),
+         url("/noto-sans-thai/NotoSansThai-Regular.woff") format("woff");
+}
+
+.font-thai {
+    font-family: noto-sans-thai;
+}
+
+@font-face {
+    font-family: noto-sans-thai;
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-thai/NotoSansThai-SemiBold.woff2") format("woff2"),
+         url("/noto-sans-thai/NotoSansThai-SemiBold.woff") format("woff");
+}
+
+.font-thai {
+    font-family: noto-sans-thai;
+}
+
+@font-face {
+    font-family: noto-sans-thai;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-thai/NotoSansThai-SemiCondensed.woff2") format("woff2"),
+         url("/noto-sans-thai/NotoSansThai-SemiCondensed.woff") format("woff");
+}
+
+.font-thai {
+    font-family: noto-sans-thai;
+}
+
+@font-face {
+    font-family: noto-sans-thai;
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-thai/NotoSansThai-SemiCondensedBlack.woff2") format("woff2"),
+         url("/noto-sans-thai/NotoSansThai-SemiCondensedBlack.woff") format("woff");
+}
+
+.font-thai {
+    font-family: noto-sans-thai;
+}
+
+@font-face {
+    font-family: noto-sans-thai;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-thai/NotoSansThai-SemiCondensedBold.woff2") format("woff2"),
+         url("/noto-sans-thai/NotoSansThai-SemiCondensedBold.woff") format("woff");
+}
+
+.font-thai {
+    font-family: noto-sans-thai;
+}
+
+@font-face {
+    font-family: noto-sans-thai;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-thai/NotoSansThai-SemiCondensedExtraBold.woff2") format("woff2"),
+         url("/noto-sans-thai/NotoSansThai-SemiCondensedExtraBold.woff") format("woff");
+}
+
+.font-thai {
+    font-family: noto-sans-thai;
+}
+
+@font-face {
+    font-family: noto-sans-thai;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-thai/NotoSansThai-SemiCondensedExtraLight.woff2") format("woff2"),
+         url("/noto-sans-thai/NotoSansThai-SemiCondensedExtraLight.woff") format("woff");
+}
+
+.font-thai {
+    font-family: noto-sans-thai;
+}
+
+@font-face {
+    font-family: noto-sans-thai;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-thai/NotoSansThai-SemiCondensedLight.woff2") format("woff2"),
+         url("/noto-sans-thai/NotoSansThai-SemiCondensedLight.woff") format("woff");
+}
+
+.font-thai {
+    font-family: noto-sans-thai;
+}
+
+@font-face {
+    font-family: noto-sans-thai;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-thai/NotoSansThai-SemiCondensedMedium.woff2") format("woff2"),
+         url("/noto-sans-thai/NotoSansThai-SemiCondensedMedium.woff") format("woff");
+}
+
+.font-thai {
+    font-family: noto-sans-thai;
+}
+
+@font-face {
+    font-family: noto-sans-thai;
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-thai/NotoSansThai-SemiCondensedSemiBold.woff2") format("woff2"),
+         url("/noto-sans-thai/NotoSansThai-SemiCondensedSemiBold.woff") format("woff");
+}
+
+.font-thai {
+    font-family: noto-sans-thai;
+}
+
+@font-face {
+    font-family: noto-sans-thai;
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-thai/NotoSansThai-SemiCondensedThin.woff2") format("woff2"),
+         url("/noto-sans-thai/NotoSansThai-SemiCondensedThin.woff") format("woff");
+}
+
+.font-thai {
+    font-family: noto-sans-thai;
+}
+
+@font-face {
+    font-family: noto-sans-thai;
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-thai/NotoSansThai-Thin.woff2") format("woff2"),
+         url("/noto-sans-thai/NotoSansThai-Thin.woff") format("woff");
+}
+
+.font-thai {
+    font-family: noto-sans-thai;
+}

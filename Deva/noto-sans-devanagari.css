@@ -1,0 +1,468 @@
+
+@font-face {
+    font-family: noto-sans-devanagari;
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-devanagari/NotoSansDevanagari-Black.woff2") format("woff2"),
+         url("/noto-sans-devanagari/NotoSansDevanagari-Black.woff") format("woff");
+}
+
+.font-deva {
+    font-family: noto-sans-devanagari;
+}
+
+@font-face {
+    font-family: noto-sans-devanagari;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-devanagari/NotoSansDevanagari-Bold.woff2") format("woff2"),
+         url("/noto-sans-devanagari/NotoSansDevanagari-Bold.woff") format("woff");
+}
+
+.font-deva {
+    font-family: noto-sans-devanagari;
+}
+
+@font-face {
+    font-family: noto-sans-devanagari;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-devanagari/NotoSansDevanagari-Condensed.woff2") format("woff2"),
+         url("/noto-sans-devanagari/NotoSansDevanagari-Condensed.woff") format("woff");
+}
+
+.font-deva {
+    font-family: noto-sans-devanagari;
+}
+
+@font-face {
+    font-family: noto-sans-devanagari;
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-devanagari/NotoSansDevanagari-CondensedBlack.woff2") format("woff2"),
+         url("/noto-sans-devanagari/NotoSansDevanagari-CondensedBlack.woff") format("woff");
+}
+
+.font-deva {
+    font-family: noto-sans-devanagari;
+}
+
+@font-face {
+    font-family: noto-sans-devanagari;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-devanagari/NotoSansDevanagari-CondensedBold.woff2") format("woff2"),
+         url("/noto-sans-devanagari/NotoSansDevanagari-CondensedBold.woff") format("woff");
+}
+
+.font-deva {
+    font-family: noto-sans-devanagari;
+}
+
+@font-face {
+    font-family: noto-sans-devanagari;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-devanagari/NotoSansDevanagari-CondensedExtraBold.woff2") format("woff2"),
+         url("/noto-sans-devanagari/NotoSansDevanagari-CondensedExtraBold.woff") format("woff");
+}
+
+.font-deva {
+    font-family: noto-sans-devanagari;
+}
+
+@font-face {
+    font-family: noto-sans-devanagari;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-devanagari/NotoSansDevanagari-CondensedExtraLight.woff2") format("woff2"),
+         url("/noto-sans-devanagari/NotoSansDevanagari-CondensedExtraLight.woff") format("woff");
+}
+
+.font-deva {
+    font-family: noto-sans-devanagari;
+}
+
+@font-face {
+    font-family: noto-sans-devanagari;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-devanagari/NotoSansDevanagari-CondensedLight.woff2") format("woff2"),
+         url("/noto-sans-devanagari/NotoSansDevanagari-CondensedLight.woff") format("woff");
+}
+
+.font-deva {
+    font-family: noto-sans-devanagari;
+}
+
+@font-face {
+    font-family: noto-sans-devanagari;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-devanagari/NotoSansDevanagari-CondensedMedium.woff2") format("woff2"),
+         url("/noto-sans-devanagari/NotoSansDevanagari-CondensedMedium.woff") format("woff");
+}
+
+.font-deva {
+    font-family: noto-sans-devanagari;
+}
+
+@font-face {
+    font-family: noto-sans-devanagari;
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-devanagari/NotoSansDevanagari-CondensedSemiBold.woff2") format("woff2"),
+         url("/noto-sans-devanagari/NotoSansDevanagari-CondensedSemiBold.woff") format("woff");
+}
+
+.font-deva {
+    font-family: noto-sans-devanagari;
+}
+
+@font-face {
+    font-family: noto-sans-devanagari;
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-devanagari/NotoSansDevanagari-CondensedThin.woff2") format("woff2"),
+         url("/noto-sans-devanagari/NotoSansDevanagari-CondensedThin.woff") format("woff");
+}
+
+.font-deva {
+    font-family: noto-sans-devanagari;
+}
+
+@font-face {
+    font-family: noto-sans-devanagari;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-devanagari/NotoSansDevanagari-ExtraBold.woff2") format("woff2"),
+         url("/noto-sans-devanagari/NotoSansDevanagari-ExtraBold.woff") format("woff");
+}
+
+.font-deva {
+    font-family: noto-sans-devanagari;
+}
+
+@font-face {
+    font-family: noto-sans-devanagari;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-devanagari/NotoSansDevanagari-ExtraCondensed.woff2") format("woff2"),
+         url("/noto-sans-devanagari/NotoSansDevanagari-ExtraCondensed.woff") format("woff");
+}
+
+.font-deva {
+    font-family: noto-sans-devanagari;
+}
+
+@font-face {
+    font-family: noto-sans-devanagari;
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-devanagari/NotoSansDevanagari-ExtraCondensedBlack.woff2") format("woff2"),
+         url("/noto-sans-devanagari/NotoSansDevanagari-ExtraCondensedBlack.woff") format("woff");
+}
+
+.font-deva {
+    font-family: noto-sans-devanagari;
+}
+
+@font-face {
+    font-family: noto-sans-devanagari;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-devanagari/NotoSansDevanagari-ExtraCondensedBold.woff2") format("woff2"),
+         url("/noto-sans-devanagari/NotoSansDevanagari-ExtraCondensedBold.woff") format("woff");
+}
+
+.font-deva {
+    font-family: noto-sans-devanagari;
+}
+
+@font-face {
+    font-family: noto-sans-devanagari;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-devanagari/NotoSansDevanagari-ExtraCondensedExtraBold.woff2") format("woff2"),
+         url("/noto-sans-devanagari/NotoSansDevanagari-ExtraCondensedExtraBold.woff") format("woff");
+}
+
+.font-deva {
+    font-family: noto-sans-devanagari;
+}
+
+@font-face {
+    font-family: noto-sans-devanagari;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-devanagari/NotoSansDevanagari-ExtraCondensedExtraLight.woff2") format("woff2"),
+         url("/noto-sans-devanagari/NotoSansDevanagari-ExtraCondensedExtraLight.woff") format("woff");
+}
+
+.font-deva {
+    font-family: noto-sans-devanagari;
+}
+
+@font-face {
+    font-family: noto-sans-devanagari;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-devanagari/NotoSansDevanagari-ExtraCondensedLight.woff2") format("woff2"),
+         url("/noto-sans-devanagari/NotoSansDevanagari-ExtraCondensedLight.woff") format("woff");
+}
+
+.font-deva {
+    font-family: noto-sans-devanagari;
+}
+
+@font-face {
+    font-family: noto-sans-devanagari;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-devanagari/NotoSansDevanagari-ExtraCondensedMedium.woff2") format("woff2"),
+         url("/noto-sans-devanagari/NotoSansDevanagari-ExtraCondensedMedium.woff") format("woff");
+}
+
+.font-deva {
+    font-family: noto-sans-devanagari;
+}
+
+@font-face {
+    font-family: noto-sans-devanagari;
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-devanagari/NotoSansDevanagari-ExtraCondensedSemiBold.woff2") format("woff2"),
+         url("/noto-sans-devanagari/NotoSansDevanagari-ExtraCondensedSemiBold.woff") format("woff");
+}
+
+.font-deva {
+    font-family: noto-sans-devanagari;
+}
+
+@font-face {
+    font-family: noto-sans-devanagari;
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-devanagari/NotoSansDevanagari-ExtraCondensedThin.woff2") format("woff2"),
+         url("/noto-sans-devanagari/NotoSansDevanagari-ExtraCondensedThin.woff") format("woff");
+}
+
+.font-deva {
+    font-family: noto-sans-devanagari;
+}
+
+@font-face {
+    font-family: noto-sans-devanagari;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-devanagari/NotoSansDevanagari-ExtraLight.woff2") format("woff2"),
+         url("/noto-sans-devanagari/NotoSansDevanagari-ExtraLight.woff") format("woff");
+}
+
+.font-deva {
+    font-family: noto-sans-devanagari;
+}
+
+@font-face {
+    font-family: noto-sans-devanagari;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-devanagari/NotoSansDevanagari-Light.woff2") format("woff2"),
+         url("/noto-sans-devanagari/NotoSansDevanagari-Light.woff") format("woff");
+}
+
+.font-deva {
+    font-family: noto-sans-devanagari;
+}
+
+@font-face {
+    font-family: noto-sans-devanagari;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-devanagari/NotoSansDevanagari-Medium.woff2") format("woff2"),
+         url("/noto-sans-devanagari/NotoSansDevanagari-Medium.woff") format("woff");
+}
+
+.font-deva {
+    font-family: noto-sans-devanagari;
+}
+
+@font-face {
+    font-family: noto-sans-devanagari;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-devanagari/NotoSansDevanagari-Regular.woff2") format("woff2"),
+         url("/noto-sans-devanagari/NotoSansDevanagari-Regular.woff") format("woff");
+}
+
+.font-deva {
+    font-family: noto-sans-devanagari;
+}
+
+@font-face {
+    font-family: noto-sans-devanagari;
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-devanagari/NotoSansDevanagari-SemiBold.woff2") format("woff2"),
+         url("/noto-sans-devanagari/NotoSansDevanagari-SemiBold.woff") format("woff");
+}
+
+.font-deva {
+    font-family: noto-sans-devanagari;
+}
+
+@font-face {
+    font-family: noto-sans-devanagari;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-devanagari/NotoSansDevanagari-SemiCondensed.woff2") format("woff2"),
+         url("/noto-sans-devanagari/NotoSansDevanagari-SemiCondensed.woff") format("woff");
+}
+
+.font-deva {
+    font-family: noto-sans-devanagari;
+}
+
+@font-face {
+    font-family: noto-sans-devanagari;
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-devanagari/NotoSansDevanagari-SemiCondensedBlack.woff2") format("woff2"),
+         url("/noto-sans-devanagari/NotoSansDevanagari-SemiCondensedBlack.woff") format("woff");
+}
+
+.font-deva {
+    font-family: noto-sans-devanagari;
+}
+
+@font-face {
+    font-family: noto-sans-devanagari;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-devanagari/NotoSansDevanagari-SemiCondensedBold.woff2") format("woff2"),
+         url("/noto-sans-devanagari/NotoSansDevanagari-SemiCondensedBold.woff") format("woff");
+}
+
+.font-deva {
+    font-family: noto-sans-devanagari;
+}
+
+@font-face {
+    font-family: noto-sans-devanagari;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-devanagari/NotoSansDevanagari-SemiCondensedExtraBold.woff2") format("woff2"),
+         url("/noto-sans-devanagari/NotoSansDevanagari-SemiCondensedExtraBold.woff") format("woff");
+}
+
+.font-deva {
+    font-family: noto-sans-devanagari;
+}
+
+@font-face {
+    font-family: noto-sans-devanagari;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-devanagari/NotoSansDevanagari-SemiCondensedExtraLight.woff2") format("woff2"),
+         url("/noto-sans-devanagari/NotoSansDevanagari-SemiCondensedExtraLight.woff") format("woff");
+}
+
+.font-deva {
+    font-family: noto-sans-devanagari;
+}
+
+@font-face {
+    font-family: noto-sans-devanagari;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-devanagari/NotoSansDevanagari-SemiCondensedLight.woff2") format("woff2"),
+         url("/noto-sans-devanagari/NotoSansDevanagari-SemiCondensedLight.woff") format("woff");
+}
+
+.font-deva {
+    font-family: noto-sans-devanagari;
+}
+
+@font-face {
+    font-family: noto-sans-devanagari;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-devanagari/NotoSansDevanagari-SemiCondensedMedium.woff2") format("woff2"),
+         url("/noto-sans-devanagari/NotoSansDevanagari-SemiCondensedMedium.woff") format("woff");
+}
+
+.font-deva {
+    font-family: noto-sans-devanagari;
+}
+
+@font-face {
+    font-family: noto-sans-devanagari;
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-devanagari/NotoSansDevanagari-SemiCondensedSemiBold.woff2") format("woff2"),
+         url("/noto-sans-devanagari/NotoSansDevanagari-SemiCondensedSemiBold.woff") format("woff");
+}
+
+.font-deva {
+    font-family: noto-sans-devanagari;
+}
+
+@font-face {
+    font-family: noto-sans-devanagari;
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-devanagari/NotoSansDevanagari-SemiCondensedThin.woff2") format("woff2"),
+         url("/noto-sans-devanagari/NotoSansDevanagari-SemiCondensedThin.woff") format("woff");
+}
+
+.font-deva {
+    font-family: noto-sans-devanagari;
+}
+
+@font-face {
+    font-family: noto-sans-devanagari;
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-devanagari/NotoSansDevanagari-Thin.woff2") format("woff2"),
+         url("/noto-sans-devanagari/NotoSansDevanagari-Thin.woff") format("woff");
+}
+
+.font-deva {
+    font-family: noto-sans-devanagari;
+}

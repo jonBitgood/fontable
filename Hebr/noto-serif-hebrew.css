@@ -1,0 +1,468 @@
+
+@font-face {
+    font-family: noto-serif-hebrew;
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-hebrew/NotoSerifHebrew-Black.woff2") format("woff2"),
+         url("/noto-serif-hebrew/NotoSerifHebrew-Black.woff") format("woff");
+}
+
+.font-hebr {
+    font-family: noto-serif-hebrew;
+}
+
+@font-face {
+    font-family: noto-serif-hebrew;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-hebrew/NotoSerifHebrew-Bold.woff2") format("woff2"),
+         url("/noto-serif-hebrew/NotoSerifHebrew-Bold.woff") format("woff");
+}
+
+.font-hebr {
+    font-family: noto-serif-hebrew;
+}
+
+@font-face {
+    font-family: noto-serif-hebrew;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-hebrew/NotoSerifHebrew-Condensed.woff2") format("woff2"),
+         url("/noto-serif-hebrew/NotoSerifHebrew-Condensed.woff") format("woff");
+}
+
+.font-hebr {
+    font-family: noto-serif-hebrew;
+}
+
+@font-face {
+    font-family: noto-serif-hebrew;
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-hebrew/NotoSerifHebrew-CondensedBlack.woff2") format("woff2"),
+         url("/noto-serif-hebrew/NotoSerifHebrew-CondensedBlack.woff") format("woff");
+}
+
+.font-hebr {
+    font-family: noto-serif-hebrew;
+}
+
+@font-face {
+    font-family: noto-serif-hebrew;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-hebrew/NotoSerifHebrew-CondensedBold.woff2") format("woff2"),
+         url("/noto-serif-hebrew/NotoSerifHebrew-CondensedBold.woff") format("woff");
+}
+
+.font-hebr {
+    font-family: noto-serif-hebrew;
+}
+
+@font-face {
+    font-family: noto-serif-hebrew;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-hebrew/NotoSerifHebrew-CondensedExtraBold.woff2") format("woff2"),
+         url("/noto-serif-hebrew/NotoSerifHebrew-CondensedExtraBold.woff") format("woff");
+}
+
+.font-hebr {
+    font-family: noto-serif-hebrew;
+}
+
+@font-face {
+    font-family: noto-serif-hebrew;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-hebrew/NotoSerifHebrew-CondensedExtraLight.woff2") format("woff2"),
+         url("/noto-serif-hebrew/NotoSerifHebrew-CondensedExtraLight.woff") format("woff");
+}
+
+.font-hebr {
+    font-family: noto-serif-hebrew;
+}
+
+@font-face {
+    font-family: noto-serif-hebrew;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-hebrew/NotoSerifHebrew-CondensedLight.woff2") format("woff2"),
+         url("/noto-serif-hebrew/NotoSerifHebrew-CondensedLight.woff") format("woff");
+}
+
+.font-hebr {
+    font-family: noto-serif-hebrew;
+}
+
+@font-face {
+    font-family: noto-serif-hebrew;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-hebrew/NotoSerifHebrew-CondensedMedium.woff2") format("woff2"),
+         url("/noto-serif-hebrew/NotoSerifHebrew-CondensedMedium.woff") format("woff");
+}
+
+.font-hebr {
+    font-family: noto-serif-hebrew;
+}
+
+@font-face {
+    font-family: noto-serif-hebrew;
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-hebrew/NotoSerifHebrew-CondensedSemiBold.woff2") format("woff2"),
+         url("/noto-serif-hebrew/NotoSerifHebrew-CondensedSemiBold.woff") format("woff");
+}
+
+.font-hebr {
+    font-family: noto-serif-hebrew;
+}
+
+@font-face {
+    font-family: noto-serif-hebrew;
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-hebrew/NotoSerifHebrew-CondensedThin.woff2") format("woff2"),
+         url("/noto-serif-hebrew/NotoSerifHebrew-CondensedThin.woff") format("woff");
+}
+
+.font-hebr {
+    font-family: noto-serif-hebrew;
+}
+
+@font-face {
+    font-family: noto-serif-hebrew;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-hebrew/NotoSerifHebrew-ExtraBold.woff2") format("woff2"),
+         url("/noto-serif-hebrew/NotoSerifHebrew-ExtraBold.woff") format("woff");
+}
+
+.font-hebr {
+    font-family: noto-serif-hebrew;
+}
+
+@font-face {
+    font-family: noto-serif-hebrew;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-hebrew/NotoSerifHebrew-ExtraCondensed.woff2") format("woff2"),
+         url("/noto-serif-hebrew/NotoSerifHebrew-ExtraCondensed.woff") format("woff");
+}
+
+.font-hebr {
+    font-family: noto-serif-hebrew;
+}
+
+@font-face {
+    font-family: noto-serif-hebrew;
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-hebrew/NotoSerifHebrew-ExtraCondensedBlack.woff2") format("woff2"),
+         url("/noto-serif-hebrew/NotoSerifHebrew-ExtraCondensedBlack.woff") format("woff");
+}
+
+.font-hebr {
+    font-family: noto-serif-hebrew;
+}
+
+@font-face {
+    font-family: noto-serif-hebrew;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-hebrew/NotoSerifHebrew-ExtraCondensedBold.woff2") format("woff2"),
+         url("/noto-serif-hebrew/NotoSerifHebrew-ExtraCondensedBold.woff") format("woff");
+}
+
+.font-hebr {
+    font-family: noto-serif-hebrew;
+}
+
+@font-face {
+    font-family: noto-serif-hebrew;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-hebrew/NotoSerifHebrew-ExtraCondensedExtraBold.woff2") format("woff2"),
+         url("/noto-serif-hebrew/NotoSerifHebrew-ExtraCondensedExtraBold.woff") format("woff");
+}
+
+.font-hebr {
+    font-family: noto-serif-hebrew;
+}
+
+@font-face {
+    font-family: noto-serif-hebrew;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-hebrew/NotoSerifHebrew-ExtraCondensedExtraLight.woff2") format("woff2"),
+         url("/noto-serif-hebrew/NotoSerifHebrew-ExtraCondensedExtraLight.woff") format("woff");
+}
+
+.font-hebr {
+    font-family: noto-serif-hebrew;
+}
+
+@font-face {
+    font-family: noto-serif-hebrew;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-hebrew/NotoSerifHebrew-ExtraCondensedLight.woff2") format("woff2"),
+         url("/noto-serif-hebrew/NotoSerifHebrew-ExtraCondensedLight.woff") format("woff");
+}
+
+.font-hebr {
+    font-family: noto-serif-hebrew;
+}
+
+@font-face {
+    font-family: noto-serif-hebrew;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-hebrew/NotoSerifHebrew-ExtraCondensedMedium.woff2") format("woff2"),
+         url("/noto-serif-hebrew/NotoSerifHebrew-ExtraCondensedMedium.woff") format("woff");
+}
+
+.font-hebr {
+    font-family: noto-serif-hebrew;
+}
+
+@font-face {
+    font-family: noto-serif-hebrew;
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-hebrew/NotoSerifHebrew-ExtraCondensedSemiBold.woff2") format("woff2"),
+         url("/noto-serif-hebrew/NotoSerifHebrew-ExtraCondensedSemiBold.woff") format("woff");
+}
+
+.font-hebr {
+    font-family: noto-serif-hebrew;
+}
+
+@font-face {
+    font-family: noto-serif-hebrew;
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-hebrew/NotoSerifHebrew-ExtraCondensedThin.woff2") format("woff2"),
+         url("/noto-serif-hebrew/NotoSerifHebrew-ExtraCondensedThin.woff") format("woff");
+}
+
+.font-hebr {
+    font-family: noto-serif-hebrew;
+}
+
+@font-face {
+    font-family: noto-serif-hebrew;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-hebrew/NotoSerifHebrew-ExtraLight.woff2") format("woff2"),
+         url("/noto-serif-hebrew/NotoSerifHebrew-ExtraLight.woff") format("woff");
+}
+
+.font-hebr {
+    font-family: noto-serif-hebrew;
+}
+
+@font-face {
+    font-family: noto-serif-hebrew;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-hebrew/NotoSerifHebrew-Light.woff2") format("woff2"),
+         url("/noto-serif-hebrew/NotoSerifHebrew-Light.woff") format("woff");
+}
+
+.font-hebr {
+    font-family: noto-serif-hebrew;
+}
+
+@font-face {
+    font-family: noto-serif-hebrew;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-hebrew/NotoSerifHebrew-Medium.woff2") format("woff2"),
+         url("/noto-serif-hebrew/NotoSerifHebrew-Medium.woff") format("woff");
+}
+
+.font-hebr {
+    font-family: noto-serif-hebrew;
+}
+
+@font-face {
+    font-family: noto-serif-hebrew;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-hebrew/NotoSerifHebrew-Regular.woff2") format("woff2"),
+         url("/noto-serif-hebrew/NotoSerifHebrew-Regular.woff") format("woff");
+}
+
+.font-hebr {
+    font-family: noto-serif-hebrew;
+}
+
+@font-face {
+    font-family: noto-serif-hebrew;
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-hebrew/NotoSerifHebrew-SemiBold.woff2") format("woff2"),
+         url("/noto-serif-hebrew/NotoSerifHebrew-SemiBold.woff") format("woff");
+}
+
+.font-hebr {
+    font-family: noto-serif-hebrew;
+}
+
+@font-face {
+    font-family: noto-serif-hebrew;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-hebrew/NotoSerifHebrew-SemiCondensed.woff2") format("woff2"),
+         url("/noto-serif-hebrew/NotoSerifHebrew-SemiCondensed.woff") format("woff");
+}
+
+.font-hebr {
+    font-family: noto-serif-hebrew;
+}
+
+@font-face {
+    font-family: noto-serif-hebrew;
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-hebrew/NotoSerifHebrew-SemiCondensedBlack.woff2") format("woff2"),
+         url("/noto-serif-hebrew/NotoSerifHebrew-SemiCondensedBlack.woff") format("woff");
+}
+
+.font-hebr {
+    font-family: noto-serif-hebrew;
+}
+
+@font-face {
+    font-family: noto-serif-hebrew;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-hebrew/NotoSerifHebrew-SemiCondensedBold.woff2") format("woff2"),
+         url("/noto-serif-hebrew/NotoSerifHebrew-SemiCondensedBold.woff") format("woff");
+}
+
+.font-hebr {
+    font-family: noto-serif-hebrew;
+}
+
+@font-face {
+    font-family: noto-serif-hebrew;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-hebrew/NotoSerifHebrew-SemiCondensedExtraBold.woff2") format("woff2"),
+         url("/noto-serif-hebrew/NotoSerifHebrew-SemiCondensedExtraBold.woff") format("woff");
+}
+
+.font-hebr {
+    font-family: noto-serif-hebrew;
+}
+
+@font-face {
+    font-family: noto-serif-hebrew;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-hebrew/NotoSerifHebrew-SemiCondensedExtraLight.woff2") format("woff2"),
+         url("/noto-serif-hebrew/NotoSerifHebrew-SemiCondensedExtraLight.woff") format("woff");
+}
+
+.font-hebr {
+    font-family: noto-serif-hebrew;
+}
+
+@font-face {
+    font-family: noto-serif-hebrew;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-hebrew/NotoSerifHebrew-SemiCondensedLight.woff2") format("woff2"),
+         url("/noto-serif-hebrew/NotoSerifHebrew-SemiCondensedLight.woff") format("woff");
+}
+
+.font-hebr {
+    font-family: noto-serif-hebrew;
+}
+
+@font-face {
+    font-family: noto-serif-hebrew;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-hebrew/NotoSerifHebrew-SemiCondensedMedium.woff2") format("woff2"),
+         url("/noto-serif-hebrew/NotoSerifHebrew-SemiCondensedMedium.woff") format("woff");
+}
+
+.font-hebr {
+    font-family: noto-serif-hebrew;
+}
+
+@font-face {
+    font-family: noto-serif-hebrew;
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-hebrew/NotoSerifHebrew-SemiCondensedSemiBold.woff2") format("woff2"),
+         url("/noto-serif-hebrew/NotoSerifHebrew-SemiCondensedSemiBold.woff") format("woff");
+}
+
+.font-hebr {
+    font-family: noto-serif-hebrew;
+}
+
+@font-face {
+    font-family: noto-serif-hebrew;
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-hebrew/NotoSerifHebrew-SemiCondensedThin.woff2") format("woff2"),
+         url("/noto-serif-hebrew/NotoSerifHebrew-SemiCondensedThin.woff") format("woff");
+}
+
+.font-hebr {
+    font-family: noto-serif-hebrew;
+}
+
+@font-face {
+    font-family: noto-serif-hebrew;
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-hebrew/NotoSerifHebrew-Thin.woff2") format("woff2"),
+         url("/noto-serif-hebrew/NotoSerifHebrew-Thin.woff") format("woff");
+}
+
+.font-hebr {
+    font-family: noto-serif-hebrew;
+}

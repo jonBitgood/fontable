@@ -1,0 +1,13 @@
+
+@font-face {
+    font-family: noto-sans-cuneiform;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-cuneiform/NotoSansCuneiform-Regular.woff2") format("woff2"),
+         url("/noto-sans-cuneiform/NotoSansCuneiform-Regular.woff") format("woff");
+}
+
+.font-xsux {
+    font-family: noto-sans-cuneiform;
+}

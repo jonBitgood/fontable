@@ -1,0 +1,13 @@
+
+@font-face {
+    font-family: noto-sans-kaithi;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-kaithi/NotoSansKaithi-Regular.woff2") format("woff2"),
+         url("/noto-sans-kaithi/NotoSansKaithi-Regular.woff") format("woff");
+}
+
+.font-kthi {
+    font-family: noto-sans-kaithi;
+}

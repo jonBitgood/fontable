@@ -1,0 +1,26 @@
+
+@font-face {
+    font-family: notoui-sans-malayalam;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/notoui-sans-malayalam/NotoSansMalayalamUI-Bold.woff2") format("woff2"),
+         url("/notoui-sans-malayalam/NotoSansMalayalamUI-Bold.woff") format("woff");
+}
+
+.font-mlym {
+    font-family: notoui-sans-malayalam;
+}
+
+@font-face {
+    font-family: notoui-sans-malayalam;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/notoui-sans-malayalam/NotoSansMalayalamUI-Regular.woff2") format("woff2"),
+         url("/notoui-sans-malayalam/NotoSansMalayalamUI-Regular.woff") format("woff");
+}
+
+.font-mlym {
+    font-family: notoui-sans-malayalam;
+}

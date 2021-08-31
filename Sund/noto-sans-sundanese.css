@@ -1,0 +1,13 @@
+
+@font-face {
+    font-family: noto-sans-sundanese;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-sundanese/NotoSansSundanese-Regular.woff2") format("woff2"),
+         url("/noto-sans-sundanese/NotoSansSundanese-Regular.woff") format("woff");
+}
+
+.font-sund {
+    font-family: noto-sans-sundanese;
+}

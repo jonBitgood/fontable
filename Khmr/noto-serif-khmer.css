@@ -1,0 +1,468 @@
+
+@font-face {
+    font-family: noto-serif-khmer;
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-khmer/NotoSerifKhmer-Black.woff2") format("woff2"),
+         url("/noto-serif-khmer/NotoSerifKhmer-Black.woff") format("woff");
+}
+
+.font-khmr {
+    font-family: noto-serif-khmer;
+}
+
+@font-face {
+    font-family: noto-serif-khmer;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-khmer/NotoSerifKhmer-Bold.woff2") format("woff2"),
+         url("/noto-serif-khmer/NotoSerifKhmer-Bold.woff") format("woff");
+}
+
+.font-khmr {
+    font-family: noto-serif-khmer;
+}
+
+@font-face {
+    font-family: noto-serif-khmer;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-khmer/NotoSerifKhmer-Condensed.woff2") format("woff2"),
+         url("/noto-serif-khmer/NotoSerifKhmer-Condensed.woff") format("woff");
+}
+
+.font-khmr {
+    font-family: noto-serif-khmer;
+}
+
+@font-face {
+    font-family: noto-serif-khmer;
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-khmer/NotoSerifKhmer-CondensedBlack.woff2") format("woff2"),
+         url("/noto-serif-khmer/NotoSerifKhmer-CondensedBlack.woff") format("woff");
+}
+
+.font-khmr {
+    font-family: noto-serif-khmer;
+}
+
+@font-face {
+    font-family: noto-serif-khmer;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-khmer/NotoSerifKhmer-CondensedBold.woff2") format("woff2"),
+         url("/noto-serif-khmer/NotoSerifKhmer-CondensedBold.woff") format("woff");
+}
+
+.font-khmr {
+    font-family: noto-serif-khmer;
+}
+
+@font-face {
+    font-family: noto-serif-khmer;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-khmer/NotoSerifKhmer-CondensedExtraBold.woff2") format("woff2"),
+         url("/noto-serif-khmer/NotoSerifKhmer-CondensedExtraBold.woff") format("woff");
+}
+
+.font-khmr {
+    font-family: noto-serif-khmer;
+}
+
+@font-face {
+    font-family: noto-serif-khmer;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-khmer/NotoSerifKhmer-CondensedExtraLight.woff2") format("woff2"),
+         url("/noto-serif-khmer/NotoSerifKhmer-CondensedExtraLight.woff") format("woff");
+}
+
+.font-khmr {
+    font-family: noto-serif-khmer;
+}
+
+@font-face {
+    font-family: noto-serif-khmer;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-khmer/NotoSerifKhmer-CondensedLight.woff2") format("woff2"),
+         url("/noto-serif-khmer/NotoSerifKhmer-CondensedLight.woff") format("woff");
+}
+
+.font-khmr {
+    font-family: noto-serif-khmer;
+}
+
+@font-face {
+    font-family: noto-serif-khmer;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-khmer/NotoSerifKhmer-CondensedMedium.woff2") format("woff2"),
+         url("/noto-serif-khmer/NotoSerifKhmer-CondensedMedium.woff") format("woff");
+}
+
+.font-khmr {
+    font-family: noto-serif-khmer;
+}
+
+@font-face {
+    font-family: noto-serif-khmer;
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-khmer/NotoSerifKhmer-CondensedSemiBold.woff2") format("woff2"),
+         url("/noto-serif-khmer/NotoSerifKhmer-CondensedSemiBold.woff") format("woff");
+}
+
+.font-khmr {
+    font-family: noto-serif-khmer;
+}
+
+@font-face {
+    font-family: noto-serif-khmer;
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-khmer/NotoSerifKhmer-CondensedThin.woff2") format("woff2"),
+         url("/noto-serif-khmer/NotoSerifKhmer-CondensedThin.woff") format("woff");
+}
+
+.font-khmr {
+    font-family: noto-serif-khmer;
+}
+
+@font-face {
+    font-family: noto-serif-khmer;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-khmer/NotoSerifKhmer-ExtraBold.woff2") format("woff2"),
+         url("/noto-serif-khmer/NotoSerifKhmer-ExtraBold.woff") format("woff");
+}
+
+.font-khmr {
+    font-family: noto-serif-khmer;
+}
+
+@font-face {
+    font-family: noto-serif-khmer;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-khmer/NotoSerifKhmer-ExtraCondensed.woff2") format("woff2"),
+         url("/noto-serif-khmer/NotoSerifKhmer-ExtraCondensed.woff") format("woff");
+}
+
+.font-khmr {
+    font-family: noto-serif-khmer;
+}
+
+@font-face {
+    font-family: noto-serif-khmer;
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-khmer/NotoSerifKhmer-ExtraCondensedBlack.woff2") format("woff2"),
+         url("/noto-serif-khmer/NotoSerifKhmer-ExtraCondensedBlack.woff") format("woff");
+}
+
+.font-khmr {
+    font-family: noto-serif-khmer;
+}
+
+@font-face {
+    font-family: noto-serif-khmer;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-khmer/NotoSerifKhmer-ExtraCondensedBold.woff2") format("woff2"),
+         url("/noto-serif-khmer/NotoSerifKhmer-ExtraCondensedBold.woff") format("woff");
+}
+
+.font-khmr {
+    font-family: noto-serif-khmer;
+}
+
+@font-face {
+    font-family: noto-serif-khmer;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-khmer/NotoSerifKhmer-ExtraCondensedExtraBold.woff2") format("woff2"),
+         url("/noto-serif-khmer/NotoSerifKhmer-ExtraCondensedExtraBold.woff") format("woff");
+}
+
+.font-khmr {
+    font-family: noto-serif-khmer;
+}
+
+@font-face {
+    font-family: noto-serif-khmer;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-khmer/NotoSerifKhmer-ExtraCondensedExtraLight.woff2") format("woff2"),
+         url("/noto-serif-khmer/NotoSerifKhmer-ExtraCondensedExtraLight.woff") format("woff");
+}
+
+.font-khmr {
+    font-family: noto-serif-khmer;
+}
+
+@font-face {
+    font-family: noto-serif-khmer;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-khmer/NotoSerifKhmer-ExtraCondensedLight.woff2") format("woff2"),
+         url("/noto-serif-khmer/NotoSerifKhmer-ExtraCondensedLight.woff") format("woff");
+}
+
+.font-khmr {
+    font-family: noto-serif-khmer;
+}
+
+@font-face {
+    font-family: noto-serif-khmer;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-khmer/NotoSerifKhmer-ExtraCondensedMedium.woff2") format("woff2"),
+         url("/noto-serif-khmer/NotoSerifKhmer-ExtraCondensedMedium.woff") format("woff");
+}
+
+.font-khmr {
+    font-family: noto-serif-khmer;
+}
+
+@font-face {
+    font-family: noto-serif-khmer;
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-khmer/NotoSerifKhmer-ExtraCondensedSemiBold.woff2") format("woff2"),
+         url("/noto-serif-khmer/NotoSerifKhmer-ExtraCondensedSemiBold.woff") format("woff");
+}
+
+.font-khmr {
+    font-family: noto-serif-khmer;
+}
+
+@font-face {
+    font-family: noto-serif-khmer;
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-khmer/NotoSerifKhmer-ExtraCondensedThin.woff2") format("woff2"),
+         url("/noto-serif-khmer/NotoSerifKhmer-ExtraCondensedThin.woff") format("woff");
+}
+
+.font-khmr {
+    font-family: noto-serif-khmer;
+}
+
+@font-face {
+    font-family: noto-serif-khmer;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-khmer/NotoSerifKhmer-ExtraLight.woff2") format("woff2"),
+         url("/noto-serif-khmer/NotoSerifKhmer-ExtraLight.woff") format("woff");
+}
+
+.font-khmr {
+    font-family: noto-serif-khmer;
+}
+
+@font-face {
+    font-family: noto-serif-khmer;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-khmer/NotoSerifKhmer-Light.woff2") format("woff2"),
+         url("/noto-serif-khmer/NotoSerifKhmer-Light.woff") format("woff");
+}
+
+.font-khmr {
+    font-family: noto-serif-khmer;
+}
+
+@font-face {
+    font-family: noto-serif-khmer;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-khmer/NotoSerifKhmer-Medium.woff2") format("woff2"),
+         url("/noto-serif-khmer/NotoSerifKhmer-Medium.woff") format("woff");
+}
+
+.font-khmr {
+    font-family: noto-serif-khmer;
+}
+
+@font-face {
+    font-family: noto-serif-khmer;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-khmer/NotoSerifKhmer-Regular.woff2") format("woff2"),
+         url("/noto-serif-khmer/NotoSerifKhmer-Regular.woff") format("woff");
+}
+
+.font-khmr {
+    font-family: noto-serif-khmer;
+}
+
+@font-face {
+    font-family: noto-serif-khmer;
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-khmer/NotoSerifKhmer-SemiBold.woff2") format("woff2"),
+         url("/noto-serif-khmer/NotoSerifKhmer-SemiBold.woff") format("woff");
+}
+
+.font-khmr {
+    font-family: noto-serif-khmer;
+}
+
+@font-face {
+    font-family: noto-serif-khmer;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-khmer/NotoSerifKhmer-SemiCondensed.woff2") format("woff2"),
+         url("/noto-serif-khmer/NotoSerifKhmer-SemiCondensed.woff") format("woff");
+}
+
+.font-khmr {
+    font-family: noto-serif-khmer;
+}
+
+@font-face {
+    font-family: noto-serif-khmer;
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-khmer/NotoSerifKhmer-SemiCondensedBlack.woff2") format("woff2"),
+         url("/noto-serif-khmer/NotoSerifKhmer-SemiCondensedBlack.woff") format("woff");
+}
+
+.font-khmr {
+    font-family: noto-serif-khmer;
+}
+
+@font-face {
+    font-family: noto-serif-khmer;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-khmer/NotoSerifKhmer-SemiCondensedBold.woff2") format("woff2"),
+         url("/noto-serif-khmer/NotoSerifKhmer-SemiCondensedBold.woff") format("woff");
+}
+
+.font-khmr {
+    font-family: noto-serif-khmer;
+}
+
+@font-face {
+    font-family: noto-serif-khmer;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-khmer/NotoSerifKhmer-SemiCondensedExtraBold.woff2") format("woff2"),
+         url("/noto-serif-khmer/NotoSerifKhmer-SemiCondensedExtraBold.woff") format("woff");
+}
+
+.font-khmr {
+    font-family: noto-serif-khmer;
+}
+
+@font-face {
+    font-family: noto-serif-khmer;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-khmer/NotoSerifKhmer-SemiCondensedExtraLight.woff2") format("woff2"),
+         url("/noto-serif-khmer/NotoSerifKhmer-SemiCondensedExtraLight.woff") format("woff");
+}
+
+.font-khmr {
+    font-family: noto-serif-khmer;
+}
+
+@font-face {
+    font-family: noto-serif-khmer;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-khmer/NotoSerifKhmer-SemiCondensedLight.woff2") format("woff2"),
+         url("/noto-serif-khmer/NotoSerifKhmer-SemiCondensedLight.woff") format("woff");
+}
+
+.font-khmr {
+    font-family: noto-serif-khmer;
+}
+
+@font-face {
+    font-family: noto-serif-khmer;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-khmer/NotoSerifKhmer-SemiCondensedMedium.woff2") format("woff2"),
+         url("/noto-serif-khmer/NotoSerifKhmer-SemiCondensedMedium.woff") format("woff");
+}
+
+.font-khmr {
+    font-family: noto-serif-khmer;
+}
+
+@font-face {
+    font-family: noto-serif-khmer;
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-khmer/NotoSerifKhmer-SemiCondensedSemiBold.woff2") format("woff2"),
+         url("/noto-serif-khmer/NotoSerifKhmer-SemiCondensedSemiBold.woff") format("woff");
+}
+
+.font-khmr {
+    font-family: noto-serif-khmer;
+}
+
+@font-face {
+    font-family: noto-serif-khmer;
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-khmer/NotoSerifKhmer-SemiCondensedThin.woff2") format("woff2"),
+         url("/noto-serif-khmer/NotoSerifKhmer-SemiCondensedThin.woff") format("woff");
+}
+
+.font-khmr {
+    font-family: noto-serif-khmer;
+}
+
+@font-face {
+    font-family: noto-serif-khmer;
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-khmer/NotoSerifKhmer-Thin.woff2") format("woff2"),
+         url("/noto-serif-khmer/NotoSerifKhmer-Thin.woff") format("woff");
+}
+
+.font-khmr {
+    font-family: noto-serif-khmer;
+}

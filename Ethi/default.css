@@ -1,0 +1,468 @@
+
+@font-face {
+    font-family: noto-sans-ethiopic;
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-ethiopic/NotoSansEthiopic-Black.woff2") format("woff2"),
+         url("/noto-sans-ethiopic/NotoSansEthiopic-Black.woff") format("woff");
+}
+
+.font-ethi {
+    font-family: noto-sans-ethiopic;
+}
+
+@font-face {
+    font-family: noto-sans-ethiopic;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-ethiopic/NotoSansEthiopic-Bold.woff2") format("woff2"),
+         url("/noto-sans-ethiopic/NotoSansEthiopic-Bold.woff") format("woff");
+}
+
+.font-ethi {
+    font-family: noto-sans-ethiopic;
+}
+
+@font-face {
+    font-family: noto-sans-ethiopic;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-ethiopic/NotoSansEthiopic-Condensed.woff2") format("woff2"),
+         url("/noto-sans-ethiopic/NotoSansEthiopic-Condensed.woff") format("woff");
+}
+
+.font-ethi {
+    font-family: noto-sans-ethiopic;
+}
+
+@font-face {
+    font-family: noto-sans-ethiopic;
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-ethiopic/NotoSansEthiopic-CondensedBlack.woff2") format("woff2"),
+         url("/noto-sans-ethiopic/NotoSansEthiopic-CondensedBlack.woff") format("woff");
+}
+
+.font-ethi {
+    font-family: noto-sans-ethiopic;
+}
+
+@font-face {
+    font-family: noto-sans-ethiopic;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-ethiopic/NotoSansEthiopic-CondensedBold.woff2") format("woff2"),
+         url("/noto-sans-ethiopic/NotoSansEthiopic-CondensedBold.woff") format("woff");
+}
+
+.font-ethi {
+    font-family: noto-sans-ethiopic;
+}
+
+@font-face {
+    font-family: noto-sans-ethiopic;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-ethiopic/NotoSansEthiopic-CondensedExtraBold.woff2") format("woff2"),
+         url("/noto-sans-ethiopic/NotoSansEthiopic-CondensedExtraBold.woff") format("woff");
+}
+
+.font-ethi {
+    font-family: noto-sans-ethiopic;
+}
+
+@font-face {
+    font-family: noto-sans-ethiopic;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-ethiopic/NotoSansEthiopic-CondensedExtraLight.woff2") format("woff2"),
+         url("/noto-sans-ethiopic/NotoSansEthiopic-CondensedExtraLight.woff") format("woff");
+}
+
+.font-ethi {
+    font-family: noto-sans-ethiopic;
+}
+
+@font-face {
+    font-family: noto-sans-ethiopic;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-ethiopic/NotoSansEthiopic-CondensedLight.woff2") format("woff2"),
+         url("/noto-sans-ethiopic/NotoSansEthiopic-CondensedLight.woff") format("woff");
+}
+
+.font-ethi {
+    font-family: noto-sans-ethiopic;
+}
+
+@font-face {
+    font-family: noto-sans-ethiopic;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-ethiopic/NotoSansEthiopic-CondensedMedium.woff2") format("woff2"),
+         url("/noto-sans-ethiopic/NotoSansEthiopic-CondensedMedium.woff") format("woff");
+}
+
+.font-ethi {
+    font-family: noto-sans-ethiopic;
+}
+
+@font-face {
+    font-family: noto-sans-ethiopic;
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-ethiopic/NotoSansEthiopic-CondensedSemiBold.woff2") format("woff2"),
+         url("/noto-sans-ethiopic/NotoSansEthiopic-CondensedSemiBold.woff") format("woff");
+}
+
+.font-ethi {
+    font-family: noto-sans-ethiopic;
+}
+
+@font-face {
+    font-family: noto-sans-ethiopic;
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-ethiopic/NotoSansEthiopic-CondensedThin.woff2") format("woff2"),
+         url("/noto-sans-ethiopic/NotoSansEthiopic-CondensedThin.woff") format("woff");
+}
+
+.font-ethi {
+    font-family: noto-sans-ethiopic;
+}
+
+@font-face {
+    font-family: noto-sans-ethiopic;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-ethiopic/NotoSansEthiopic-ExtraBold.woff2") format("woff2"),
+         url("/noto-sans-ethiopic/NotoSansEthiopic-ExtraBold.woff") format("woff");
+}
+
+.font-ethi {
+    font-family: noto-sans-ethiopic;
+}
+
+@font-face {
+    font-family: noto-sans-ethiopic;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-ethiopic/NotoSansEthiopic-ExtraCondensed.woff2") format("woff2"),
+         url("/noto-sans-ethiopic/NotoSansEthiopic-ExtraCondensed.woff") format("woff");
+}
+
+.font-ethi {
+    font-family: noto-sans-ethiopic;
+}
+
+@font-face {
+    font-family: noto-sans-ethiopic;
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-ethiopic/NotoSansEthiopic-ExtraCondensedBlack.woff2") format("woff2"),
+         url("/noto-sans-ethiopic/NotoSansEthiopic-ExtraCondensedBlack.woff") format("woff");
+}
+
+.font-ethi {
+    font-family: noto-sans-ethiopic;
+}
+
+@font-face {
+    font-family: noto-sans-ethiopic;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-ethiopic/NotoSansEthiopic-ExtraCondensedBold.woff2") format("woff2"),
+         url("/noto-sans-ethiopic/NotoSansEthiopic-ExtraCondensedBold.woff") format("woff");
+}
+
+.font-ethi {
+    font-family: noto-sans-ethiopic;
+}
+
+@font-face {
+    font-family: noto-sans-ethiopic;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-ethiopic/NotoSansEthiopic-ExtraCondensedExtraBold.woff2") format("woff2"),
+         url("/noto-sans-ethiopic/NotoSansEthiopic-ExtraCondensedExtraBold.woff") format("woff");
+}
+
+.font-ethi {
+    font-family: noto-sans-ethiopic;
+}
+
+@font-face {
+    font-family: noto-sans-ethiopic;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-ethiopic/NotoSansEthiopic-ExtraCondensedExtraLight.woff2") format("woff2"),
+         url("/noto-sans-ethiopic/NotoSansEthiopic-ExtraCondensedExtraLight.woff") format("woff");
+}
+
+.font-ethi {
+    font-family: noto-sans-ethiopic;
+}
+
+@font-face {
+    font-family: noto-sans-ethiopic;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-ethiopic/NotoSansEthiopic-ExtraCondensedLight.woff2") format("woff2"),
+         url("/noto-sans-ethiopic/NotoSansEthiopic-ExtraCondensedLight.woff") format("woff");
+}
+
+.font-ethi {
+    font-family: noto-sans-ethiopic;
+}
+
+@font-face {
+    font-family: noto-sans-ethiopic;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-ethiopic/NotoSansEthiopic-ExtraCondensedMedium.woff2") format("woff2"),
+         url("/noto-sans-ethiopic/NotoSansEthiopic-ExtraCondensedMedium.woff") format("woff");
+}
+
+.font-ethi {
+    font-family: noto-sans-ethiopic;
+}
+
+@font-face {
+    font-family: noto-sans-ethiopic;
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-ethiopic/NotoSansEthiopic-ExtraCondensedSemiBold.woff2") format("woff2"),
+         url("/noto-sans-ethiopic/NotoSansEthiopic-ExtraCondensedSemiBold.woff") format("woff");
+}
+
+.font-ethi {
+    font-family: noto-sans-ethiopic;
+}
+
+@font-face {
+    font-family: noto-sans-ethiopic;
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-ethiopic/NotoSansEthiopic-ExtraCondensedThin.woff2") format("woff2"),
+         url("/noto-sans-ethiopic/NotoSansEthiopic-ExtraCondensedThin.woff") format("woff");
+}
+
+.font-ethi {
+    font-family: noto-sans-ethiopic;
+}
+
+@font-face {
+    font-family: noto-sans-ethiopic;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-ethiopic/NotoSansEthiopic-ExtraLight.woff2") format("woff2"),
+         url("/noto-sans-ethiopic/NotoSansEthiopic-ExtraLight.woff") format("woff");
+}
+
+.font-ethi {
+    font-family: noto-sans-ethiopic;
+}
+
+@font-face {
+    font-family: noto-sans-ethiopic;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-ethiopic/NotoSansEthiopic-Light.woff2") format("woff2"),
+         url("/noto-sans-ethiopic/NotoSansEthiopic-Light.woff") format("woff");
+}
+
+.font-ethi {
+    font-family: noto-sans-ethiopic;
+}
+
+@font-face {
+    font-family: noto-sans-ethiopic;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-ethiopic/NotoSansEthiopic-Medium.woff2") format("woff2"),
+         url("/noto-sans-ethiopic/NotoSansEthiopic-Medium.woff") format("woff");
+}
+
+.font-ethi {
+    font-family: noto-sans-ethiopic;
+}
+
+@font-face {
+    font-family: noto-sans-ethiopic;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-ethiopic/NotoSansEthiopic-Regular.woff2") format("woff2"),
+         url("/noto-sans-ethiopic/NotoSansEthiopic-Regular.woff") format("woff");
+}
+
+.font-ethi {
+    font-family: noto-sans-ethiopic;
+}
+
+@font-face {
+    font-family: noto-sans-ethiopic;
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-ethiopic/NotoSansEthiopic-SemiBold.woff2") format("woff2"),
+         url("/noto-sans-ethiopic/NotoSansEthiopic-SemiBold.woff") format("woff");
+}
+
+.font-ethi {
+    font-family: noto-sans-ethiopic;
+}
+
+@font-face {
+    font-family: noto-sans-ethiopic;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-ethiopic/NotoSansEthiopic-SemiCondensed.woff2") format("woff2"),
+         url("/noto-sans-ethiopic/NotoSansEthiopic-SemiCondensed.woff") format("woff");
+}
+
+.font-ethi {
+    font-family: noto-sans-ethiopic;
+}
+
+@font-face {
+    font-family: noto-sans-ethiopic;
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-ethiopic/NotoSansEthiopic-SemiCondensedBlack.woff2") format("woff2"),
+         url("/noto-sans-ethiopic/NotoSansEthiopic-SemiCondensedBlack.woff") format("woff");
+}
+
+.font-ethi {
+    font-family: noto-sans-ethiopic;
+}
+
+@font-face {
+    font-family: noto-sans-ethiopic;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-ethiopic/NotoSansEthiopic-SemiCondensedBold.woff2") format("woff2"),
+         url("/noto-sans-ethiopic/NotoSansEthiopic-SemiCondensedBold.woff") format("woff");
+}
+
+.font-ethi {
+    font-family: noto-sans-ethiopic;
+}
+
+@font-face {
+    font-family: noto-sans-ethiopic;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-ethiopic/NotoSansEthiopic-SemiCondensedExtraBold.woff2") format("woff2"),
+         url("/noto-sans-ethiopic/NotoSansEthiopic-SemiCondensedExtraBold.woff") format("woff");
+}
+
+.font-ethi {
+    font-family: noto-sans-ethiopic;
+}
+
+@font-face {
+    font-family: noto-sans-ethiopic;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-ethiopic/NotoSansEthiopic-SemiCondensedExtraLight.woff2") format("woff2"),
+         url("/noto-sans-ethiopic/NotoSansEthiopic-SemiCondensedExtraLight.woff") format("woff");
+}
+
+.font-ethi {
+    font-family: noto-sans-ethiopic;
+}
+
+@font-face {
+    font-family: noto-sans-ethiopic;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-ethiopic/NotoSansEthiopic-SemiCondensedLight.woff2") format("woff2"),
+         url("/noto-sans-ethiopic/NotoSansEthiopic-SemiCondensedLight.woff") format("woff");
+}
+
+.font-ethi {
+    font-family: noto-sans-ethiopic;
+}
+
+@font-face {
+    font-family: noto-sans-ethiopic;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-ethiopic/NotoSansEthiopic-SemiCondensedMedium.woff2") format("woff2"),
+         url("/noto-sans-ethiopic/NotoSansEthiopic-SemiCondensedMedium.woff") format("woff");
+}
+
+.font-ethi {
+    font-family: noto-sans-ethiopic;
+}
+
+@font-face {
+    font-family: noto-sans-ethiopic;
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-ethiopic/NotoSansEthiopic-SemiCondensedSemiBold.woff2") format("woff2"),
+         url("/noto-sans-ethiopic/NotoSansEthiopic-SemiCondensedSemiBold.woff") format("woff");
+}
+
+.font-ethi {
+    font-family: noto-sans-ethiopic;
+}
+
+@font-face {
+    font-family: noto-sans-ethiopic;
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-ethiopic/NotoSansEthiopic-SemiCondensedThin.woff2") format("woff2"),
+         url("/noto-sans-ethiopic/NotoSansEthiopic-SemiCondensedThin.woff") format("woff");
+}
+
+.font-ethi {
+    font-family: noto-sans-ethiopic;
+}
+
+@font-face {
+    font-family: noto-sans-ethiopic;
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-ethiopic/NotoSansEthiopic-Thin.woff2") format("woff2"),
+         url("/noto-sans-ethiopic/NotoSansEthiopic-Thin.woff") format("woff");
+}
+
+.font-ethi {
+    font-family: noto-sans-ethiopic;
+}

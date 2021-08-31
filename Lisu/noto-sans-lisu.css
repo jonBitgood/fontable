@@ -1,0 +1,13 @@
+
+@font-face {
+    font-family: noto-sans-lisu;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-lisu/NotoSansLisu-Regular.woff2") format("woff2"),
+         url("/noto-sans-lisu/NotoSansLisu-Regular.woff") format("woff");
+}
+
+.font-lisu {
+    font-family: noto-sans-lisu;
+}

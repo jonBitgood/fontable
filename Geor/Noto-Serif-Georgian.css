@@ -1,0 +1,468 @@
+
+@font-face {
+    font-family: Noto-Serif-Georgian;
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+    src: url("/Noto-Serif-Georgian/NotoSerifGeorgian-Black.woff2") format("woff2"),
+         url("/Noto-Serif-Georgian/NotoSerifGeorgian-Black.woff") format("woff");
+}
+
+.font-geor {
+    font-family: Noto-Serif-Georgian;
+}
+
+@font-face {
+    font-family: Noto-Serif-Georgian;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/Noto-Serif-Georgian/NotoSerifGeorgian-Bold.woff2") format("woff2"),
+         url("/Noto-Serif-Georgian/NotoSerifGeorgian-Bold.woff") format("woff");
+}
+
+.font-geor {
+    font-family: Noto-Serif-Georgian;
+}
+
+@font-face {
+    font-family: Noto-Serif-Georgian;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/Noto-Serif-Georgian/NotoSerifGeorgian-Condensed.woff2") format("woff2"),
+         url("/Noto-Serif-Georgian/NotoSerifGeorgian-Condensed.woff") format("woff");
+}
+
+.font-geor {
+    font-family: Noto-Serif-Georgian;
+}
+
+@font-face {
+    font-family: Noto-Serif-Georgian;
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+    src: url("/Noto-Serif-Georgian/NotoSerifGeorgian-CondensedBlack.woff2") format("woff2"),
+         url("/Noto-Serif-Georgian/NotoSerifGeorgian-CondensedBlack.woff") format("woff");
+}
+
+.font-geor {
+    font-family: Noto-Serif-Georgian;
+}
+
+@font-face {
+    font-family: Noto-Serif-Georgian;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/Noto-Serif-Georgian/NotoSerifGeorgian-CondensedBold.woff2") format("woff2"),
+         url("/Noto-Serif-Georgian/NotoSerifGeorgian-CondensedBold.woff") format("woff");
+}
+
+.font-geor {
+    font-family: Noto-Serif-Georgian;
+}
+
+@font-face {
+    font-family: Noto-Serif-Georgian;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/Noto-Serif-Georgian/NotoSerifGeorgian-CondensedExtraBold.woff2") format("woff2"),
+         url("/Noto-Serif-Georgian/NotoSerifGeorgian-CondensedExtraBold.woff") format("woff");
+}
+
+.font-geor {
+    font-family: Noto-Serif-Georgian;
+}
+
+@font-face {
+    font-family: Noto-Serif-Georgian;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/Noto-Serif-Georgian/NotoSerifGeorgian-CondensedExtraLight.woff2") format("woff2"),
+         url("/Noto-Serif-Georgian/NotoSerifGeorgian-CondensedExtraLight.woff") format("woff");
+}
+
+.font-geor {
+    font-family: Noto-Serif-Georgian;
+}
+
+@font-face {
+    font-family: Noto-Serif-Georgian;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/Noto-Serif-Georgian/NotoSerifGeorgian-CondensedLight.woff2") format("woff2"),
+         url("/Noto-Serif-Georgian/NotoSerifGeorgian-CondensedLight.woff") format("woff");
+}
+
+.font-geor {
+    font-family: Noto-Serif-Georgian;
+}
+
+@font-face {
+    font-family: Noto-Serif-Georgian;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/Noto-Serif-Georgian/NotoSerifGeorgian-CondensedMedium.woff2") format("woff2"),
+         url("/Noto-Serif-Georgian/NotoSerifGeorgian-CondensedMedium.woff") format("woff");
+}
+
+.font-geor {
+    font-family: Noto-Serif-Georgian;
+}
+
+@font-face {
+    font-family: Noto-Serif-Georgian;
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+    src: url("/Noto-Serif-Georgian/NotoSerifGeorgian-CondensedSemiBold.woff2") format("woff2"),
+         url("/Noto-Serif-Georgian/NotoSerifGeorgian-CondensedSemiBold.woff") format("woff");
+}
+
+.font-geor {
+    font-family: Noto-Serif-Georgian;
+}
+
+@font-face {
+    font-family: Noto-Serif-Georgian;
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+    src: url("/Noto-Serif-Georgian/NotoSerifGeorgian-CondensedThin.woff2") format("woff2"),
+         url("/Noto-Serif-Georgian/NotoSerifGeorgian-CondensedThin.woff") format("woff");
+}
+
+.font-geor {
+    font-family: Noto-Serif-Georgian;
+}
+
+@font-face {
+    font-family: Noto-Serif-Georgian;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/Noto-Serif-Georgian/NotoSerifGeorgian-ExtraBold.woff2") format("woff2"),
+         url("/Noto-Serif-Georgian/NotoSerifGeorgian-ExtraBold.woff") format("woff");
+}
+
+.font-geor {
+    font-family: Noto-Serif-Georgian;
+}
+
+@font-face {
+    font-family: Noto-Serif-Georgian;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/Noto-Serif-Georgian/NotoSerifGeorgian-ExtraCondensed.woff2") format("woff2"),
+         url("/Noto-Serif-Georgian/NotoSerifGeorgian-ExtraCondensed.woff") format("woff");
+}
+
+.font-geor {
+    font-family: Noto-Serif-Georgian;
+}
+
+@font-face {
+    font-family: Noto-Serif-Georgian;
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+    src: url("/Noto-Serif-Georgian/NotoSerifGeorgian-ExtraCondensedBlack.woff2") format("woff2"),
+         url("/Noto-Serif-Georgian/NotoSerifGeorgian-ExtraCondensedBlack.woff") format("woff");
+}
+
+.font-geor {
+    font-family: Noto-Serif-Georgian;
+}
+
+@font-face {
+    font-family: Noto-Serif-Georgian;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/Noto-Serif-Georgian/NotoSerifGeorgian-ExtraCondensedBold.woff2") format("woff2"),
+         url("/Noto-Serif-Georgian/NotoSerifGeorgian-ExtraCondensedBold.woff") format("woff");
+}
+
+.font-geor {
+    font-family: Noto-Serif-Georgian;
+}
+
+@font-face {
+    font-family: Noto-Serif-Georgian;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/Noto-Serif-Georgian/NotoSerifGeorgian-ExtraCondensedExtraBold.woff2") format("woff2"),
+         url("/Noto-Serif-Georgian/NotoSerifGeorgian-ExtraCondensedExtraBold.woff") format("woff");
+}
+
+.font-geor {
+    font-family: Noto-Serif-Georgian;
+}
+
+@font-face {
+    font-family: Noto-Serif-Georgian;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/Noto-Serif-Georgian/NotoSerifGeorgian-ExtraCondensedExtraLight.woff2") format("woff2"),
+         url("/Noto-Serif-Georgian/NotoSerifGeorgian-ExtraCondensedExtraLight.woff") format("woff");
+}
+
+.font-geor {
+    font-family: Noto-Serif-Georgian;
+}
+
+@font-face {
+    font-family: Noto-Serif-Georgian;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/Noto-Serif-Georgian/NotoSerifGeorgian-ExtraCondensedLight.woff2") format("woff2"),
+         url("/Noto-Serif-Georgian/NotoSerifGeorgian-ExtraCondensedLight.woff") format("woff");
+}
+
+.font-geor {
+    font-family: Noto-Serif-Georgian;
+}
+
+@font-face {
+    font-family: Noto-Serif-Georgian;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/Noto-Serif-Georgian/NotoSerifGeorgian-ExtraCondensedMedium.woff2") format("woff2"),
+         url("/Noto-Serif-Georgian/NotoSerifGeorgian-ExtraCondensedMedium.woff") format("woff");
+}
+
+.font-geor {
+    font-family: Noto-Serif-Georgian;
+}
+
+@font-face {
+    font-family: Noto-Serif-Georgian;
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+    src: url("/Noto-Serif-Georgian/NotoSerifGeorgian-ExtraCondensedSemiBold.woff2") format("woff2"),
+         url("/Noto-Serif-Georgian/NotoSerifGeorgian-ExtraCondensedSemiBold.woff") format("woff");
+}
+
+.font-geor {
+    font-family: Noto-Serif-Georgian;
+}
+
+@font-face {
+    font-family: Noto-Serif-Georgian;
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+    src: url("/Noto-Serif-Georgian/NotoSerifGeorgian-ExtraCondensedThin.woff2") format("woff2"),
+         url("/Noto-Serif-Georgian/NotoSerifGeorgian-ExtraCondensedThin.woff") format("woff");
+}
+
+.font-geor {
+    font-family: Noto-Serif-Georgian;
+}
+
+@font-face {
+    font-family: Noto-Serif-Georgian;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/Noto-Serif-Georgian/NotoSerifGeorgian-ExtraLight.woff2") format("woff2"),
+         url("/Noto-Serif-Georgian/NotoSerifGeorgian-ExtraLight.woff") format("woff");
+}
+
+.font-geor {
+    font-family: Noto-Serif-Georgian;
+}
+
+@font-face {
+    font-family: Noto-Serif-Georgian;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/Noto-Serif-Georgian/NotoSerifGeorgian-Light.woff2") format("woff2"),
+         url("/Noto-Serif-Georgian/NotoSerifGeorgian-Light.woff") format("woff");
+}
+
+.font-geor {
+    font-family: Noto-Serif-Georgian;
+}
+
+@font-face {
+    font-family: Noto-Serif-Georgian;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/Noto-Serif-Georgian/NotoSerifGeorgian-Medium.woff2") format("woff2"),
+         url("/Noto-Serif-Georgian/NotoSerifGeorgian-Medium.woff") format("woff");
+}
+
+.font-geor {
+    font-family: Noto-Serif-Georgian;
+}
+
+@font-face {
+    font-family: Noto-Serif-Georgian;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/Noto-Serif-Georgian/NotoSerifGeorgian-Regular.woff2") format("woff2"),
+         url("/Noto-Serif-Georgian/NotoSerifGeorgian-Regular.woff") format("woff");
+}
+
+.font-geor {
+    font-family: Noto-Serif-Georgian;
+}
+
+@font-face {
+    font-family: Noto-Serif-Georgian;
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+    src: url("/Noto-Serif-Georgian/NotoSerifGeorgian-SemiBold.woff2") format("woff2"),
+         url("/Noto-Serif-Georgian/NotoSerifGeorgian-SemiBold.woff") format("woff");
+}
+
+.font-geor {
+    font-family: Noto-Serif-Georgian;
+}
+
+@font-face {
+    font-family: Noto-Serif-Georgian;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/Noto-Serif-Georgian/NotoSerifGeorgian-SemiCondensed.woff2") format("woff2"),
+         url("/Noto-Serif-Georgian/NotoSerifGeorgian-SemiCondensed.woff") format("woff");
+}
+
+.font-geor {
+    font-family: Noto-Serif-Georgian;
+}
+
+@font-face {
+    font-family: Noto-Serif-Georgian;
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+    src: url("/Noto-Serif-Georgian/NotoSerifGeorgian-SemiCondensedBlack.woff2") format("woff2"),
+         url("/Noto-Serif-Georgian/NotoSerifGeorgian-SemiCondensedBlack.woff") format("woff");
+}
+
+.font-geor {
+    font-family: Noto-Serif-Georgian;
+}
+
+@font-face {
+    font-family: Noto-Serif-Georgian;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/Noto-Serif-Georgian/NotoSerifGeorgian-SemiCondensedBold.woff2") format("woff2"),
+         url("/Noto-Serif-Georgian/NotoSerifGeorgian-SemiCondensedBold.woff") format("woff");
+}
+
+.font-geor {
+    font-family: Noto-Serif-Georgian;
+}
+
+@font-face {
+    font-family: Noto-Serif-Georgian;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/Noto-Serif-Georgian/NotoSerifGeorgian-SemiCondensedExtraBold.woff2") format("woff2"),
+         url("/Noto-Serif-Georgian/NotoSerifGeorgian-SemiCondensedExtraBold.woff") format("woff");
+}
+
+.font-geor {
+    font-family: Noto-Serif-Georgian;
+}
+
+@font-face {
+    font-family: Noto-Serif-Georgian;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/Noto-Serif-Georgian/NotoSerifGeorgian-SemiCondensedExtraLight.woff2") format("woff2"),
+         url("/Noto-Serif-Georgian/NotoSerifGeorgian-SemiCondensedExtraLight.woff") format("woff");
+}
+
+.font-geor {
+    font-family: Noto-Serif-Georgian;
+}
+
+@font-face {
+    font-family: Noto-Serif-Georgian;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/Noto-Serif-Georgian/NotoSerifGeorgian-SemiCondensedLight.woff2") format("woff2"),
+         url("/Noto-Serif-Georgian/NotoSerifGeorgian-SemiCondensedLight.woff") format("woff");
+}
+
+.font-geor {
+    font-family: Noto-Serif-Georgian;
+}
+
+@font-face {
+    font-family: Noto-Serif-Georgian;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/Noto-Serif-Georgian/NotoSerifGeorgian-SemiCondensedMedium.woff2") format("woff2"),
+         url("/Noto-Serif-Georgian/NotoSerifGeorgian-SemiCondensedMedium.woff") format("woff");
+}
+
+.font-geor {
+    font-family: Noto-Serif-Georgian;
+}
+
+@font-face {
+    font-family: Noto-Serif-Georgian;
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+    src: url("/Noto-Serif-Georgian/NotoSerifGeorgian-SemiCondensedSemiBold.woff2") format("woff2"),
+         url("/Noto-Serif-Georgian/NotoSerifGeorgian-SemiCondensedSemiBold.woff") format("woff");
+}
+
+.font-geor {
+    font-family: Noto-Serif-Georgian;
+}
+
+@font-face {
+    font-family: Noto-Serif-Georgian;
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+    src: url("/Noto-Serif-Georgian/NotoSerifGeorgian-SemiCondensedThin.woff2") format("woff2"),
+         url("/Noto-Serif-Georgian/NotoSerifGeorgian-SemiCondensedThin.woff") format("woff");
+}
+
+.font-geor {
+    font-family: Noto-Serif-Georgian;
+}
+
+@font-face {
+    font-family: Noto-Serif-Georgian;
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+    src: url("/Noto-Serif-Georgian/NotoSerifGeorgian-Thin.woff2") format("woff2"),
+         url("/Noto-Serif-Georgian/NotoSerifGeorgian-Thin.woff") format("woff");
+}
+
+.font-geor {
+    font-family: Noto-Serif-Georgian;
+}

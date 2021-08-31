@@ -1,0 +1,13 @@
+
+@font-face {
+    font-family: noto-sans-taiViet;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-taiViet/NotoSansTaiViet-Regular.woff2") format("woff2"),
+         url("/noto-sans-taiViet/NotoSansTaiViet-Regular.woff") format("woff");
+}
+
+.font-tavt {
+    font-family: noto-sans-taiViet;
+}

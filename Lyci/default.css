@@ -1,0 +1,26 @@
+
+@font-face {
+    font-family: noto-sans-lydian;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-lydian/NotoSansLycian-Regular.woff2") format("woff2"),
+         url("/noto-sans-lydian/NotoSansLycian-Regular.woff") format("woff");
+}
+
+.font-lyci {
+    font-family: noto-sans-lydian;
+}
+
+@font-face {
+    font-family: noto-sans-lydian;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-sans-lydian/NotoSansLydian-Regular.woff2") format("woff2"),
+         url("/noto-sans-lydian/NotoSansLydian-Regular.woff") format("woff");
+}
+
+.font-lyci {
+    font-family: noto-sans-lydian;
+}

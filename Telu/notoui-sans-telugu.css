@@ -1,0 +1,26 @@
+
+@font-face {
+    font-family: notoui-sans-telugu;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/notoui-sans-telugu/NotoSansTeluguUI-Bold.woff2") format("woff2"),
+         url("/notoui-sans-telugu/NotoSansTeluguUI-Bold.woff") format("woff");
+}
+
+.font-telu {
+    font-family: notoui-sans-telugu;
+}
+
+@font-face {
+    font-family: notoui-sans-telugu;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/notoui-sans-telugu/NotoSansTeluguUI-Regular.woff2") format("woff2"),
+         url("/notoui-sans-telugu/NotoSansTeluguUI-Regular.woff") format("woff");
+}
+
+.font-telu {
+    font-family: notoui-sans-telugu;
+}

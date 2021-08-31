@@ -1,0 +1,936 @@
+
+@font-face {
+    font-family: NotoSerif-Display;
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+    src: url("/NotoSerif-Display/NotoSerifDisplay-Black.woff2") format("woff2"),
+         url("/NotoSerif-Display/NotoSerifDisplay-Black.woff") format("woff");
+}
+
+.font-latn {
+    font-family: NotoSerif-Display;
+}
+
+@font-face {
+    font-family: NotoSerif-Display;
+    font-weight: 900;
+    font-style: 100;
+    font-display: swap;
+    src: url("/NotoSerif-Display/NotoSerifDisplay-BlackItalic.woff2") format("woff2"),
+         url("/NotoSerif-Display/NotoSerifDisplay-BlackItalic.woff") format("woff");
+}
+
+.font-latn {
+    font-family: NotoSerif-Display;
+}
+
+@font-face {
+    font-family: NotoSerif-Display;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/NotoSerif-Display/NotoSerifDisplay-Bold.woff2") format("woff2"),
+         url("/NotoSerif-Display/NotoSerifDisplay-Bold.woff") format("woff");
+}
+
+.font-latn {
+    font-family: NotoSerif-Display;
+}
+
+@font-face {
+    font-family: NotoSerif-Display;
+    font-weight: 700;
+    font-style: 100;
+    font-display: swap;
+    src: url("/NotoSerif-Display/NotoSerifDisplay-BoldItalic.woff2") format("woff2"),
+         url("/NotoSerif-Display/NotoSerifDisplay-BoldItalic.woff") format("woff");
+}
+
+.font-latn {
+    font-family: NotoSerif-Display;
+}
+
+@font-face {
+    font-family: NotoSerif-Display;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/NotoSerif-Display/NotoSerifDisplay-Condensed.woff2") format("woff2"),
+         url("/NotoSerif-Display/NotoSerifDisplay-Condensed.woff") format("woff");
+}
+
+.font-latn {
+    font-family: NotoSerif-Display;
+}
+
+@font-face {
+    font-family: NotoSerif-Display;
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+    src: url("/NotoSerif-Display/NotoSerifDisplay-CondensedBlack.woff2") format("woff2"),
+         url("/NotoSerif-Display/NotoSerifDisplay-CondensedBlack.woff") format("woff");
+}
+
+.font-latn {
+    font-family: NotoSerif-Display;
+}
+
+@font-face {
+    font-family: NotoSerif-Display;
+    font-weight: 900;
+    font-style: 100;
+    font-display: swap;
+    src: url("/NotoSerif-Display/NotoSerifDisplay-CondensedBlackItalic.woff2") format("woff2"),
+         url("/NotoSerif-Display/NotoSerifDisplay-CondensedBlackItalic.woff") format("woff");
+}
+
+.font-latn {
+    font-family: NotoSerif-Display;
+}
+
+@font-face {
+    font-family: NotoSerif-Display;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/NotoSerif-Display/NotoSerifDisplay-CondensedBold.woff2") format("woff2"),
+         url("/NotoSerif-Display/NotoSerifDisplay-CondensedBold.woff") format("woff");
+}
+
+.font-latn {
+    font-family: NotoSerif-Display;
+}
+
+@font-face {
+    font-family: NotoSerif-Display;
+    font-weight: 700;
+    font-style: 100;
+    font-display: swap;
+    src: url("/NotoSerif-Display/NotoSerifDisplay-CondensedBoldItalic.woff2") format("woff2"),
+         url("/NotoSerif-Display/NotoSerifDisplay-CondensedBoldItalic.woff") format("woff");
+}
+
+.font-latn {
+    font-family: NotoSerif-Display;
+}
+
+@font-face {
+    font-family: NotoSerif-Display;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/NotoSerif-Display/NotoSerifDisplay-CondensedExtraBold.woff2") format("woff2"),
+         url("/NotoSerif-Display/NotoSerifDisplay-CondensedExtraBold.woff") format("woff");
+}
+
+.font-latn {
+    font-family: NotoSerif-Display;
+}
+
+@font-face {
+    font-family: NotoSerif-Display;
+    font-weight: 700;
+    font-style: 100;
+    font-display: swap;
+    src: url("/NotoSerif-Display/NotoSerifDisplay-CondensedExtraBoldItalic.woff2") format("woff2"),
+         url("/NotoSerif-Display/NotoSerifDisplay-CondensedExtraBoldItalic.woff") format("woff");
+}
+
+.font-latn {
+    font-family: NotoSerif-Display;
+}
+
+@font-face {
+    font-family: NotoSerif-Display;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/NotoSerif-Display/NotoSerifDisplay-CondensedExtraLight.woff2") format("woff2"),
+         url("/NotoSerif-Display/NotoSerifDisplay-CondensedExtraLight.woff") format("woff");
+}
+
+.font-latn {
+    font-family: NotoSerif-Display;
+}
+
+@font-face {
+    font-family: NotoSerif-Display;
+    font-weight: 300;
+    font-style: 100;
+    font-display: swap;
+    src: url("/NotoSerif-Display/NotoSerifDisplay-CondensedExtraLightItalic.woff2") format("woff2"),
+         url("/NotoSerif-Display/NotoSerifDisplay-CondensedExtraLightItalic.woff") format("woff");
+}
+
+.font-latn {
+    font-family: NotoSerif-Display;
+}
+
+@font-face {
+    font-family: NotoSerif-Display;
+    font-weight: 400;
+    font-style: 100;
+    font-display: swap;
+    src: url("/NotoSerif-Display/NotoSerifDisplay-CondensedItalic.woff2") format("woff2"),
+         url("/NotoSerif-Display/NotoSerifDisplay-CondensedItalic.woff") format("woff");
+}
+
+.font-latn {
+    font-family: NotoSerif-Display;
+}
+
+@font-face {
+    font-family: NotoSerif-Display;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/NotoSerif-Display/NotoSerifDisplay-CondensedLight.woff2") format("woff2"),
+         url("/NotoSerif-Display/NotoSerifDisplay-CondensedLight.woff") format("woff");
+}
+
+.font-latn {
+    font-family: NotoSerif-Display;
+}
+
+@font-face {
+    font-family: NotoSerif-Display;
+    font-weight: 300;
+    font-style: 100;
+    font-display: swap;
+    src: url("/NotoSerif-Display/NotoSerifDisplay-CondensedLightItalic.woff2") format("woff2"),
+         url("/NotoSerif-Display/NotoSerifDisplay-CondensedLightItalic.woff") format("woff");
+}
+
+.font-latn {
+    font-family: NotoSerif-Display;
+}
+
+@font-face {
+    font-family: NotoSerif-Display;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/NotoSerif-Display/NotoSerifDisplay-CondensedMedium.woff2") format("woff2"),
+         url("/NotoSerif-Display/NotoSerifDisplay-CondensedMedium.woff") format("woff");
+}
+
+.font-latn {
+    font-family: NotoSerif-Display;
+}
+
+@font-face {
+    font-family: NotoSerif-Display;
+    font-weight: 400;
+    font-style: 100;
+    font-display: swap;
+    src: url("/NotoSerif-Display/NotoSerifDisplay-CondensedMediumItalic.woff2") format("woff2"),
+         url("/NotoSerif-Display/NotoSerifDisplay-CondensedMediumItalic.woff") format("woff");
+}
+
+.font-latn {
+    font-family: NotoSerif-Display;
+}
+
+@font-face {
+    font-family: NotoSerif-Display;
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+    src: url("/NotoSerif-Display/NotoSerifDisplay-CondensedSemiBold.woff2") format("woff2"),
+         url("/NotoSerif-Display/NotoSerifDisplay-CondensedSemiBold.woff") format("woff");
+}
+
+.font-latn {
+    font-family: NotoSerif-Display;
+}
+
+@font-face {
+    font-family: NotoSerif-Display;
+    font-weight: 600;
+    font-style: 100;
+    font-display: swap;
+    src: url("/NotoSerif-Display/NotoSerifDisplay-CondensedSemiBoldItalic.woff2") format("woff2"),
+         url("/NotoSerif-Display/NotoSerifDisplay-CondensedSemiBoldItalic.woff") format("woff");
+}
+
+.font-latn {
+    font-family: NotoSerif-Display;
+}
+
+@font-face {
+    font-family: NotoSerif-Display;
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+    src: url("/NotoSerif-Display/NotoSerifDisplay-CondensedThin.woff2") format("woff2"),
+         url("/NotoSerif-Display/NotoSerifDisplay-CondensedThin.woff") format("woff");
+}
+
+.font-latn {
+    font-family: NotoSerif-Display;
+}
+
+@font-face {
+    font-family: NotoSerif-Display;
+    font-weight: 100;
+    font-style: 100;
+    font-display: swap;
+    src: url("/NotoSerif-Display/NotoSerifDisplay-CondensedThinItalic.woff2") format("woff2"),
+         url("/NotoSerif-Display/NotoSerifDisplay-CondensedThinItalic.woff") format("woff");
+}
+
+.font-latn {
+    font-family: NotoSerif-Display;
+}
+
+@font-face {
+    font-family: NotoSerif-Display;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/NotoSerif-Display/NotoSerifDisplay-ExtraBold.woff2") format("woff2"),
+         url("/NotoSerif-Display/NotoSerifDisplay-ExtraBold.woff") format("woff");
+}
+
+.font-latn {
+    font-family: NotoSerif-Display;
+}
+
+@font-face {
+    font-family: NotoSerif-Display;
+    font-weight: 700;
+    font-style: 100;
+    font-display: swap;
+    src: url("/NotoSerif-Display/NotoSerifDisplay-ExtraBoldItalic.woff2") format("woff2"),
+         url("/NotoSerif-Display/NotoSerifDisplay-ExtraBoldItalic.woff") format("woff");
+}
+
+.font-latn {
+    font-family: NotoSerif-Display;
+}
+
+@font-face {
+    font-family: NotoSerif-Display;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/NotoSerif-Display/NotoSerifDisplay-ExtraCondensed.woff2") format("woff2"),
+         url("/NotoSerif-Display/NotoSerifDisplay-ExtraCondensed.woff") format("woff");
+}
+
+.font-latn {
+    font-family: NotoSerif-Display;
+}
+
+@font-face {
+    font-family: NotoSerif-Display;
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+    src: url("/NotoSerif-Display/NotoSerifDisplay-ExtraCondensedBlack.woff2") format("woff2"),
+         url("/NotoSerif-Display/NotoSerifDisplay-ExtraCondensedBlack.woff") format("woff");
+}
+
+.font-latn {
+    font-family: NotoSerif-Display;
+}
+
+@font-face {
+    font-family: NotoSerif-Display;
+    font-weight: 900;
+    font-style: 100;
+    font-display: swap;
+    src: url("/NotoSerif-Display/NotoSerifDisplay-ExtraCondensedBlackItalic.woff2") format("woff2"),
+         url("/NotoSerif-Display/NotoSerifDisplay-ExtraCondensedBlackItalic.woff") format("woff");
+}
+
+.font-latn {
+    font-family: NotoSerif-Display;
+}
+
+@font-face {
+    font-family: NotoSerif-Display;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/NotoSerif-Display/NotoSerifDisplay-ExtraCondensedBold.woff2") format("woff2"),
+         url("/NotoSerif-Display/NotoSerifDisplay-ExtraCondensedBold.woff") format("woff");
+}
+
+.font-latn {
+    font-family: NotoSerif-Display;
+}
+
+@font-face {
+    font-family: NotoSerif-Display;
+    font-weight: 700;
+    font-style: 100;
+    font-display: swap;
+    src: url("/NotoSerif-Display/NotoSerifDisplay-ExtraCondensedBoldItalic.woff2") format("woff2"),
+         url("/NotoSerif-Display/NotoSerifDisplay-ExtraCondensedBoldItalic.woff") format("woff");
+}
+
+.font-latn {
+    font-family: NotoSerif-Display;
+}
+
+@font-face {
+    font-family: NotoSerif-Display;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/NotoSerif-Display/NotoSerifDisplay-ExtraCondensedExtraBold.woff2") format("woff2"),
+         url("/NotoSerif-Display/NotoSerifDisplay-ExtraCondensedExtraBold.woff") format("woff");
+}
+
+.font-latn {
+    font-family: NotoSerif-Display;
+}
+
+@font-face {
+    font-family: NotoSerif-Display;
+    font-weight: 700;
+    font-style: 100;
+    font-display: swap;
+    src: url("/NotoSerif-Display/NotoSerifDisplay-ExtraCondensedExtraBoldItalic.woff2") format("woff2"),
+         url("/NotoSerif-Display/NotoSerifDisplay-ExtraCondensedExtraBoldItalic.woff") format("woff");
+}
+
+.font-latn {
+    font-family: NotoSerif-Display;
+}
+
+@font-face {
+    font-family: NotoSerif-Display;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/NotoSerif-Display/NotoSerifDisplay-ExtraCondensedExtraLight.woff2") format("woff2"),
+         url("/NotoSerif-Display/NotoSerifDisplay-ExtraCondensedExtraLight.woff") format("woff");
+}
+
+.font-latn {
+    font-family: NotoSerif-Display;
+}
+
+@font-face {
+    font-family: NotoSerif-Display;
+    font-weight: 300;
+    font-style: 100;
+    font-display: swap;
+    src: url("/NotoSerif-Display/NotoSerifDisplay-ExtraCondensedExtraLightItalic.woff2") format("woff2"),
+         url("/NotoSerif-Display/NotoSerifDisplay-ExtraCondensedExtraLightItalic.woff") format("woff");
+}
+
+.font-latn {
+    font-family: NotoSerif-Display;
+}
+
+@font-face {
+    font-family: NotoSerif-Display;
+    font-weight: 400;
+    font-style: 100;
+    font-display: swap;
+    src: url("/NotoSerif-Display/NotoSerifDisplay-ExtraCondensedItalic.woff2") format("woff2"),
+         url("/NotoSerif-Display/NotoSerifDisplay-ExtraCondensedItalic.woff") format("woff");
+}
+
+.font-latn {
+    font-family: NotoSerif-Display;
+}
+
+@font-face {
+    font-family: NotoSerif-Display;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/NotoSerif-Display/NotoSerifDisplay-ExtraCondensedLight.woff2") format("woff2"),
+         url("/NotoSerif-Display/NotoSerifDisplay-ExtraCondensedLight.woff") format("woff");
+}
+
+.font-latn {
+    font-family: NotoSerif-Display;
+}
+
+@font-face {
+    font-family: NotoSerif-Display;
+    font-weight: 300;
+    font-style: 100;
+    font-display: swap;
+    src: url("/NotoSerif-Display/NotoSerifDisplay-ExtraCondensedLightItalic.woff2") format("woff2"),
+         url("/NotoSerif-Display/NotoSerifDisplay-ExtraCondensedLightItalic.woff") format("woff");
+}
+
+.font-latn {
+    font-family: NotoSerif-Display;
+}
+
+@font-face {
+    font-family: NotoSerif-Display;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/NotoSerif-Display/NotoSerifDisplay-ExtraCondensedMedium.woff2") format("woff2"),
+         url("/NotoSerif-Display/NotoSerifDisplay-ExtraCondensedMedium.woff") format("woff");
+}
+
+.font-latn {
+    font-family: NotoSerif-Display;
+}
+
+@font-face {
+    font-family: NotoSerif-Display;
+    font-weight: 400;
+    font-style: 100;
+    font-display: swap;
+    src: url("/NotoSerif-Display/NotoSerifDisplay-ExtraCondensedMediumItalic.woff2") format("woff2"),
+         url("/NotoSerif-Display/NotoSerifDisplay-ExtraCondensedMediumItalic.woff") format("woff");
+}
+
+.font-latn {
+    font-family: NotoSerif-Display;
+}
+
+@font-face {
+    font-family: NotoSerif-Display;
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+    src: url("/NotoSerif-Display/NotoSerifDisplay-ExtraCondensedSemiBold.woff2") format("woff2"),
+         url("/NotoSerif-Display/NotoSerifDisplay-ExtraCondensedSemiBold.woff") format("woff");
+}
+
+.font-latn {
+    font-family: NotoSerif-Display;
+}
+
+@font-face {
+    font-family: NotoSerif-Display;
+    font-weight: 600;
+    font-style: 100;
+    font-display: swap;
+    src: url("/NotoSerif-Display/NotoSerifDisplay-ExtraCondensedSemiBoldItalic.woff2") format("woff2"),
+         url("/NotoSerif-Display/NotoSerifDisplay-ExtraCondensedSemiBoldItalic.woff") format("woff");
+}
+
+.font-latn {
+    font-family: NotoSerif-Display;
+}
+
+@font-face {
+    font-family: NotoSerif-Display;
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+    src: url("/NotoSerif-Display/NotoSerifDisplay-ExtraCondensedThin.woff2") format("woff2"),
+         url("/NotoSerif-Display/NotoSerifDisplay-ExtraCondensedThin.woff") format("woff");
+}
+
+.font-latn {
+    font-family: NotoSerif-Display;
+}
+
+@font-face {
+    font-family: NotoSerif-Display;
+    font-weight: 100;
+    font-style: 100;
+    font-display: swap;
+    src: url("/NotoSerif-Display/NotoSerifDisplay-ExtraCondensedThinItalic.woff2") format("woff2"),
+         url("/NotoSerif-Display/NotoSerifDisplay-ExtraCondensedThinItalic.woff") format("woff");
+}
+
+.font-latn {
+    font-family: NotoSerif-Display;
+}
+
+@font-face {
+    font-family: NotoSerif-Display;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/NotoSerif-Display/NotoSerifDisplay-ExtraLight.woff2") format("woff2"),
+         url("/NotoSerif-Display/NotoSerifDisplay-ExtraLight.woff") format("woff");
+}
+
+.font-latn {
+    font-family: NotoSerif-Display;
+}
+
+@font-face {
+    font-family: NotoSerif-Display;
+    font-weight: 300;
+    font-style: 100;
+    font-display: swap;
+    src: url("/NotoSerif-Display/NotoSerifDisplay-ExtraLightItalic.woff2") format("woff2"),
+         url("/NotoSerif-Display/NotoSerifDisplay-ExtraLightItalic.woff") format("woff");
+}
+
+.font-latn {
+    font-family: NotoSerif-Display;
+}
+
+@font-face {
+    font-family: NotoSerif-Display;
+    font-weight: 400;
+    font-style: 100;
+    font-display: swap;
+    src: url("/NotoSerif-Display/NotoSerifDisplay-Italic.woff2") format("woff2"),
+         url("/NotoSerif-Display/NotoSerifDisplay-Italic.woff") format("woff");
+}
+
+.font-latn {
+    font-family: NotoSerif-Display;
+}
+
+@font-face {
+    font-family: NotoSerif-Display;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/NotoSerif-Display/NotoSerifDisplay-Light.woff2") format("woff2"),
+         url("/NotoSerif-Display/NotoSerifDisplay-Light.woff") format("woff");
+}
+
+.font-latn {
+    font-family: NotoSerif-Display;
+}
+
+@font-face {
+    font-family: NotoSerif-Display;
+    font-weight: 300;
+    font-style: 100;
+    font-display: swap;
+    src: url("/NotoSerif-Display/NotoSerifDisplay-LightItalic.woff2") format("woff2"),
+         url("/NotoSerif-Display/NotoSerifDisplay-LightItalic.woff") format("woff");
+}
+
+.font-latn {
+    font-family: NotoSerif-Display;
+}
+
+@font-face {
+    font-family: NotoSerif-Display;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/NotoSerif-Display/NotoSerifDisplay-Medium.woff2") format("woff2"),
+         url("/NotoSerif-Display/NotoSerifDisplay-Medium.woff") format("woff");
+}
+
+.font-latn {
+    font-family: NotoSerif-Display;
+}
+
+@font-face {
+    font-family: NotoSerif-Display;
+    font-weight: 400;
+    font-style: 100;
+    font-display: swap;
+    src: url("/NotoSerif-Display/NotoSerifDisplay-MediumItalic.woff2") format("woff2"),
+         url("/NotoSerif-Display/NotoSerifDisplay-MediumItalic.woff") format("woff");
+}
+
+.font-latn {
+    font-family: NotoSerif-Display;
+}
+
+@font-face {
+    font-family: NotoSerif-Display;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/NotoSerif-Display/NotoSerifDisplay-Regular.woff2") format("woff2"),
+         url("/NotoSerif-Display/NotoSerifDisplay-Regular.woff") format("woff");
+}
+
+.font-latn {
+    font-family: NotoSerif-Display;
+}
+
+@font-face {
+    font-family: NotoSerif-Display;
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+    src: url("/NotoSerif-Display/NotoSerifDisplay-SemiBold.woff2") format("woff2"),
+         url("/NotoSerif-Display/NotoSerifDisplay-SemiBold.woff") format("woff");
+}
+
+.font-latn {
+    font-family: NotoSerif-Display;
+}
+
+@font-face {
+    font-family: NotoSerif-Display;
+    font-weight: 600;
+    font-style: 100;
+    font-display: swap;
+    src: url("/NotoSerif-Display/NotoSerifDisplay-SemiBoldItalic.woff2") format("woff2"),
+         url("/NotoSerif-Display/NotoSerifDisplay-SemiBoldItalic.woff") format("woff");
+}
+
+.font-latn {
+    font-family: NotoSerif-Display;
+}
+
+@font-face {
+    font-family: NotoSerif-Display;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/NotoSerif-Display/NotoSerifDisplay-SemiCondensed.woff2") format("woff2"),
+         url("/NotoSerif-Display/NotoSerifDisplay-SemiCondensed.woff") format("woff");
+}
+
+.font-latn {
+    font-family: NotoSerif-Display;
+}
+
+@font-face {
+    font-family: NotoSerif-Display;
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+    src: url("/NotoSerif-Display/NotoSerifDisplay-SemiCondensedBlack.woff2") format("woff2"),
+         url("/NotoSerif-Display/NotoSerifDisplay-SemiCondensedBlack.woff") format("woff");
+}
+
+.font-latn {
+    font-family: NotoSerif-Display;
+}
+
+@font-face {
+    font-family: NotoSerif-Display;
+    font-weight: 900;
+    font-style: 100;
+    font-display: swap;
+    src: url("/NotoSerif-Display/NotoSerifDisplay-SemiCondensedBlackItalic.woff2") format("woff2"),
+         url("/NotoSerif-Display/NotoSerifDisplay-SemiCondensedBlackItalic.woff") format("woff");
+}
+
+.font-latn {
+    font-family: NotoSerif-Display;
+}
+
+@font-face {
+    font-family: NotoSerif-Display;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/NotoSerif-Display/NotoSerifDisplay-SemiCondensedBold.woff2") format("woff2"),
+         url("/NotoSerif-Display/NotoSerifDisplay-SemiCondensedBold.woff") format("woff");
+}
+
+.font-latn {
+    font-family: NotoSerif-Display;
+}
+
+@font-face {
+    font-family: NotoSerif-Display;
+    font-weight: 700;
+    font-style: 100;
+    font-display: swap;
+    src: url("/NotoSerif-Display/NotoSerifDisplay-SemiCondensedBoldItalic.woff2") format("woff2"),
+         url("/NotoSerif-Display/NotoSerifDisplay-SemiCondensedBoldItalic.woff") format("woff");
+}
+
+.font-latn {
+    font-family: NotoSerif-Display;
+}
+
+@font-face {
+    font-family: NotoSerif-Display;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/NotoSerif-Display/NotoSerifDisplay-SemiCondensedExtraBold.woff2") format("woff2"),
+         url("/NotoSerif-Display/NotoSerifDisplay-SemiCondensedExtraBold.woff") format("woff");
+}
+
+.font-latn {
+    font-family: NotoSerif-Display;
+}
+
+@font-face {
+    font-family: NotoSerif-Display;
+    font-weight: 700;
+    font-style: 100;
+    font-display: swap;
+    src: url("/NotoSerif-Display/NotoSerifDisplay-SemiCondensedExtraBoldItalic.woff2") format("woff2"),
+         url("/NotoSerif-Display/NotoSerifDisplay-SemiCondensedExtraBoldItalic.woff") format("woff");
+}
+
+.font-latn {
+    font-family: NotoSerif-Display;
+}
+
+@font-face {
+    font-family: NotoSerif-Display;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/NotoSerif-Display/NotoSerifDisplay-SemiCondensedExtraLight.woff2") format("woff2"),
+         url("/NotoSerif-Display/NotoSerifDisplay-SemiCondensedExtraLight.woff") format("woff");
+}
+
+.font-latn {
+    font-family: NotoSerif-Display;
+}
+
+@font-face {
+    font-family: NotoSerif-Display;
+    font-weight: 300;
+    font-style: 100;
+    font-display: swap;
+    src: url("/NotoSerif-Display/NotoSerifDisplay-SemiCondensedExtraLightItalic.woff2") format("woff2"),
+         url("/NotoSerif-Display/NotoSerifDisplay-SemiCondensedExtraLightItalic.woff") format("woff");
+}
+
+.font-latn {
+    font-family: NotoSerif-Display;
+}
+
+@font-face {
+    font-family: NotoSerif-Display;
+    font-weight: 400;
+    font-style: 100;
+    font-display: swap;
+    src: url("/NotoSerif-Display/NotoSerifDisplay-SemiCondensedItalic.woff2") format("woff2"),
+         url("/NotoSerif-Display/NotoSerifDisplay-SemiCondensedItalic.woff") format("woff");
+}
+
+.font-latn {
+    font-family: NotoSerif-Display;
+}
+
+@font-face {
+    font-family: NotoSerif-Display;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/NotoSerif-Display/NotoSerifDisplay-SemiCondensedLight.woff2") format("woff2"),
+         url("/NotoSerif-Display/NotoSerifDisplay-SemiCondensedLight.woff") format("woff");
+}
+
+.font-latn {
+    font-family: NotoSerif-Display;
+}
+
+@font-face {
+    font-family: NotoSerif-Display;
+    font-weight: 300;
+    font-style: 100;
+    font-display: swap;
+    src: url("/NotoSerif-Display/NotoSerifDisplay-SemiCondensedLightItalic.woff2") format("woff2"),
+         url("/NotoSerif-Display/NotoSerifDisplay-SemiCondensedLightItalic.woff") format("woff");
+}
+
+.font-latn {
+    font-family: NotoSerif-Display;
+}
+
+@font-face {
+    font-family: NotoSerif-Display;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/NotoSerif-Display/NotoSerifDisplay-SemiCondensedMedium.woff2") format("woff2"),
+         url("/NotoSerif-Display/NotoSerifDisplay-SemiCondensedMedium.woff") format("woff");
+}
+
+.font-latn {
+    font-family: NotoSerif-Display;
+}
+
+@font-face {
+    font-family: NotoSerif-Display;
+    font-weight: 400;
+    font-style: 100;
+    font-display: swap;
+    src: url("/NotoSerif-Display/NotoSerifDisplay-SemiCondensedMediumItalic.woff2") format("woff2"),
+         url("/NotoSerif-Display/NotoSerifDisplay-SemiCondensedMediumItalic.woff") format("woff");
+}
+
+.font-latn {
+    font-family: NotoSerif-Display;
+}
+
+@font-face {
+    font-family: NotoSerif-Display;
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+    src: url("/NotoSerif-Display/NotoSerifDisplay-SemiCondensedSemiBold.woff2") format("woff2"),
+         url("/NotoSerif-Display/NotoSerifDisplay-SemiCondensedSemiBold.woff") format("woff");
+}
+
+.font-latn {
+    font-family: NotoSerif-Display;
+}
+
+@font-face {
+    font-family: NotoSerif-Display;
+    font-weight: 600;
+    font-style: 100;
+    font-display: swap;
+    src: url("/NotoSerif-Display/NotoSerifDisplay-SemiCondensedSemiBoldItalic.woff2") format("woff2"),
+         url("/NotoSerif-Display/NotoSerifDisplay-SemiCondensedSemiBoldItalic.woff") format("woff");
+}
+
+.font-latn {
+    font-family: NotoSerif-Display;
+}
+
+@font-face {
+    font-family: NotoSerif-Display;
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+    src: url("/NotoSerif-Display/NotoSerifDisplay-SemiCondensedThin.woff2") format("woff2"),
+         url("/NotoSerif-Display/NotoSerifDisplay-SemiCondensedThin.woff") format("woff");
+}
+
+.font-latn {
+    font-family: NotoSerif-Display;
+}
+
+@font-face {
+    font-family: NotoSerif-Display;
+    font-weight: 100;
+    font-style: 100;
+    font-display: swap;
+    src: url("/NotoSerif-Display/NotoSerifDisplay-SemiCondensedThinItalic.woff2") format("woff2"),
+         url("/NotoSerif-Display/NotoSerifDisplay-SemiCondensedThinItalic.woff") format("woff");
+}
+
+.font-latn {
+    font-family: NotoSerif-Display;
+}
+
+@font-face {
+    font-family: NotoSerif-Display;
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+    src: url("/NotoSerif-Display/NotoSerifDisplay-Thin.woff2") format("woff2"),
+         url("/NotoSerif-Display/NotoSerifDisplay-Thin.woff") format("woff");
+}
+
+.font-latn {
+    font-family: NotoSerif-Display;
+}
+
+@font-face {
+    font-family: NotoSerif-Display;
+    font-weight: 100;
+    font-style: 100;
+    font-display: swap;
+    src: url("/NotoSerif-Display/NotoSerifDisplay-ThinItalic.woff2") format("woff2"),
+         url("/NotoSerif-Display/NotoSerifDisplay-ThinItalic.woff") format("woff");
+}
+
+.font-latn {
+    font-family: NotoSerif-Display;
+}

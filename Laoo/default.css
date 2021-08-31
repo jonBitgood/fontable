@@ -1,0 +1,468 @@
+
+@font-face {
+    font-family: notoui-sans-lao;
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+    src: url("/notoui-sans-lao/NotoSansLaoUI-Black.woff2") format("woff2"),
+         url("/notoui-sans-lao/NotoSansLaoUI-Black.woff") format("woff");
+}
+
+.font-laoo {
+    font-family: notoui-sans-lao;
+}
+
+@font-face {
+    font-family: notoui-sans-lao;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/notoui-sans-lao/NotoSansLaoUI-Bold.woff2") format("woff2"),
+         url("/notoui-sans-lao/NotoSansLaoUI-Bold.woff") format("woff");
+}
+
+.font-laoo {
+    font-family: notoui-sans-lao;
+}
+
+@font-face {
+    font-family: notoui-sans-lao;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/notoui-sans-lao/NotoSansLaoUI-Condensed.woff2") format("woff2"),
+         url("/notoui-sans-lao/NotoSansLaoUI-Condensed.woff") format("woff");
+}
+
+.font-laoo {
+    font-family: notoui-sans-lao;
+}
+
+@font-face {
+    font-family: notoui-sans-lao;
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+    src: url("/notoui-sans-lao/NotoSansLaoUI-CondensedBlack.woff2") format("woff2"),
+         url("/notoui-sans-lao/NotoSansLaoUI-CondensedBlack.woff") format("woff");
+}
+
+.font-laoo {
+    font-family: notoui-sans-lao;
+}
+
+@font-face {
+    font-family: notoui-sans-lao;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/notoui-sans-lao/NotoSansLaoUI-CondensedBold.woff2") format("woff2"),
+         url("/notoui-sans-lao/NotoSansLaoUI-CondensedBold.woff") format("woff");
+}
+
+.font-laoo {
+    font-family: notoui-sans-lao;
+}
+
+@font-face {
+    font-family: notoui-sans-lao;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/notoui-sans-lao/NotoSansLaoUI-CondensedExtraBold.woff2") format("woff2"),
+         url("/notoui-sans-lao/NotoSansLaoUI-CondensedExtraBold.woff") format("woff");
+}
+
+.font-laoo {
+    font-family: notoui-sans-lao;
+}
+
+@font-face {
+    font-family: notoui-sans-lao;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/notoui-sans-lao/NotoSansLaoUI-CondensedExtraLight.woff2") format("woff2"),
+         url("/notoui-sans-lao/NotoSansLaoUI-CondensedExtraLight.woff") format("woff");
+}
+
+.font-laoo {
+    font-family: notoui-sans-lao;
+}
+
+@font-face {
+    font-family: notoui-sans-lao;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/notoui-sans-lao/NotoSansLaoUI-CondensedLight.woff2") format("woff2"),
+         url("/notoui-sans-lao/NotoSansLaoUI-CondensedLight.woff") format("woff");
+}
+
+.font-laoo {
+    font-family: notoui-sans-lao;
+}
+
+@font-face {
+    font-family: notoui-sans-lao;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/notoui-sans-lao/NotoSansLaoUI-CondensedMedium.woff2") format("woff2"),
+         url("/notoui-sans-lao/NotoSansLaoUI-CondensedMedium.woff") format("woff");
+}
+
+.font-laoo {
+    font-family: notoui-sans-lao;
+}
+
+@font-face {
+    font-family: notoui-sans-lao;
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+    src: url("/notoui-sans-lao/NotoSansLaoUI-CondensedSemiBold.woff2") format("woff2"),
+         url("/notoui-sans-lao/NotoSansLaoUI-CondensedSemiBold.woff") format("woff");
+}
+
+.font-laoo {
+    font-family: notoui-sans-lao;
+}
+
+@font-face {
+    font-family: notoui-sans-lao;
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+    src: url("/notoui-sans-lao/NotoSansLaoUI-CondensedThin.woff2") format("woff2"),
+         url("/notoui-sans-lao/NotoSansLaoUI-CondensedThin.woff") format("woff");
+}
+
+.font-laoo {
+    font-family: notoui-sans-lao;
+}
+
+@font-face {
+    font-family: notoui-sans-lao;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/notoui-sans-lao/NotoSansLaoUI-ExtraBold.woff2") format("woff2"),
+         url("/notoui-sans-lao/NotoSansLaoUI-ExtraBold.woff") format("woff");
+}
+
+.font-laoo {
+    font-family: notoui-sans-lao;
+}
+
+@font-face {
+    font-family: notoui-sans-lao;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/notoui-sans-lao/NotoSansLaoUI-ExtraCondensed.woff2") format("woff2"),
+         url("/notoui-sans-lao/NotoSansLaoUI-ExtraCondensed.woff") format("woff");
+}
+
+.font-laoo {
+    font-family: notoui-sans-lao;
+}
+
+@font-face {
+    font-family: notoui-sans-lao;
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+    src: url("/notoui-sans-lao/NotoSansLaoUI-ExtraCondensedBlack.woff2") format("woff2"),
+         url("/notoui-sans-lao/NotoSansLaoUI-ExtraCondensedBlack.woff") format("woff");
+}
+
+.font-laoo {
+    font-family: notoui-sans-lao;
+}
+
+@font-face {
+    font-family: notoui-sans-lao;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/notoui-sans-lao/NotoSansLaoUI-ExtraCondensedBold.woff2") format("woff2"),
+         url("/notoui-sans-lao/NotoSansLaoUI-ExtraCondensedBold.woff") format("woff");
+}
+
+.font-laoo {
+    font-family: notoui-sans-lao;
+}
+
+@font-face {
+    font-family: notoui-sans-lao;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/notoui-sans-lao/NotoSansLaoUI-ExtraCondensedExtraBold.woff2") format("woff2"),
+         url("/notoui-sans-lao/NotoSansLaoUI-ExtraCondensedExtraBold.woff") format("woff");
+}
+
+.font-laoo {
+    font-family: notoui-sans-lao;
+}
+
+@font-face {
+    font-family: notoui-sans-lao;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/notoui-sans-lao/NotoSansLaoUI-ExtraCondensedExtraLight.woff2") format("woff2"),
+         url("/notoui-sans-lao/NotoSansLaoUI-ExtraCondensedExtraLight.woff") format("woff");
+}
+
+.font-laoo {
+    font-family: notoui-sans-lao;
+}
+
+@font-face {
+    font-family: notoui-sans-lao;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/notoui-sans-lao/NotoSansLaoUI-ExtraCondensedLight.woff2") format("woff2"),
+         url("/notoui-sans-lao/NotoSansLaoUI-ExtraCondensedLight.woff") format("woff");
+}
+
+.font-laoo {
+    font-family: notoui-sans-lao;
+}
+
+@font-face {
+    font-family: notoui-sans-lao;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/notoui-sans-lao/NotoSansLaoUI-ExtraCondensedMedium.woff2") format("woff2"),
+         url("/notoui-sans-lao/NotoSansLaoUI-ExtraCondensedMedium.woff") format("woff");
+}
+
+.font-laoo {
+    font-family: notoui-sans-lao;
+}
+
+@font-face {
+    font-family: notoui-sans-lao;
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+    src: url("/notoui-sans-lao/NotoSansLaoUI-ExtraCondensedSemiBold.woff2") format("woff2"),
+         url("/notoui-sans-lao/NotoSansLaoUI-ExtraCondensedSemiBold.woff") format("woff");
+}
+
+.font-laoo {
+    font-family: notoui-sans-lao;
+}
+
+@font-face {
+    font-family: notoui-sans-lao;
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+    src: url("/notoui-sans-lao/NotoSansLaoUI-ExtraCondensedThin.woff2") format("woff2"),
+         url("/notoui-sans-lao/NotoSansLaoUI-ExtraCondensedThin.woff") format("woff");
+}
+
+.font-laoo {
+    font-family: notoui-sans-lao;
+}
+
+@font-face {
+    font-family: notoui-sans-lao;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/notoui-sans-lao/NotoSansLaoUI-ExtraLight.woff2") format("woff2"),
+         url("/notoui-sans-lao/NotoSansLaoUI-ExtraLight.woff") format("woff");
+}
+
+.font-laoo {
+    font-family: notoui-sans-lao;
+}
+
+@font-face {
+    font-family: notoui-sans-lao;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/notoui-sans-lao/NotoSansLaoUI-Light.woff2") format("woff2"),
+         url("/notoui-sans-lao/NotoSansLaoUI-Light.woff") format("woff");
+}
+
+.font-laoo {
+    font-family: notoui-sans-lao;
+}
+
+@font-face {
+    font-family: notoui-sans-lao;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/notoui-sans-lao/NotoSansLaoUI-Medium.woff2") format("woff2"),
+         url("/notoui-sans-lao/NotoSansLaoUI-Medium.woff") format("woff");
+}
+
+.font-laoo {
+    font-family: notoui-sans-lao;
+}
+
+@font-face {
+    font-family: notoui-sans-lao;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/notoui-sans-lao/NotoSansLaoUI-Regular.woff2") format("woff2"),
+         url("/notoui-sans-lao/NotoSansLaoUI-Regular.woff") format("woff");
+}
+
+.font-laoo {
+    font-family: notoui-sans-lao;
+}
+
+@font-face {
+    font-family: notoui-sans-lao;
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+    src: url("/notoui-sans-lao/NotoSansLaoUI-SemiBold.woff2") format("woff2"),
+         url("/notoui-sans-lao/NotoSansLaoUI-SemiBold.woff") format("woff");
+}
+
+.font-laoo {
+    font-family: notoui-sans-lao;
+}
+
+@font-face {
+    font-family: notoui-sans-lao;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/notoui-sans-lao/NotoSansLaoUI-SemiCondensed.woff2") format("woff2"),
+         url("/notoui-sans-lao/NotoSansLaoUI-SemiCondensed.woff") format("woff");
+}
+
+.font-laoo {
+    font-family: notoui-sans-lao;
+}
+
+@font-face {
+    font-family: notoui-sans-lao;
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+    src: url("/notoui-sans-lao/NotoSansLaoUI-SemiCondensedBlack.woff2") format("woff2"),
+         url("/notoui-sans-lao/NotoSansLaoUI-SemiCondensedBlack.woff") format("woff");
+}
+
+.font-laoo {
+    font-family: notoui-sans-lao;
+}
+
+@font-face {
+    font-family: notoui-sans-lao;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/notoui-sans-lao/NotoSansLaoUI-SemiCondensedBold.woff2") format("woff2"),
+         url("/notoui-sans-lao/NotoSansLaoUI-SemiCondensedBold.woff") format("woff");
+}
+
+.font-laoo {
+    font-family: notoui-sans-lao;
+}
+
+@font-face {
+    font-family: notoui-sans-lao;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/notoui-sans-lao/NotoSansLaoUI-SemiCondensedExtraBold.woff2") format("woff2"),
+         url("/notoui-sans-lao/NotoSansLaoUI-SemiCondensedExtraBold.woff") format("woff");
+}
+
+.font-laoo {
+    font-family: notoui-sans-lao;
+}
+
+@font-face {
+    font-family: notoui-sans-lao;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/notoui-sans-lao/NotoSansLaoUI-SemiCondensedExtraLight.woff2") format("woff2"),
+         url("/notoui-sans-lao/NotoSansLaoUI-SemiCondensedExtraLight.woff") format("woff");
+}
+
+.font-laoo {
+    font-family: notoui-sans-lao;
+}
+
+@font-face {
+    font-family: notoui-sans-lao;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/notoui-sans-lao/NotoSansLaoUI-SemiCondensedLight.woff2") format("woff2"),
+         url("/notoui-sans-lao/NotoSansLaoUI-SemiCondensedLight.woff") format("woff");
+}
+
+.font-laoo {
+    font-family: notoui-sans-lao;
+}
+
+@font-face {
+    font-family: notoui-sans-lao;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/notoui-sans-lao/NotoSansLaoUI-SemiCondensedMedium.woff2") format("woff2"),
+         url("/notoui-sans-lao/NotoSansLaoUI-SemiCondensedMedium.woff") format("woff");
+}
+
+.font-laoo {
+    font-family: notoui-sans-lao;
+}
+
+@font-face {
+    font-family: notoui-sans-lao;
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+    src: url("/notoui-sans-lao/NotoSansLaoUI-SemiCondensedSemiBold.woff2") format("woff2"),
+         url("/notoui-sans-lao/NotoSansLaoUI-SemiCondensedSemiBold.woff") format("woff");
+}
+
+.font-laoo {
+    font-family: notoui-sans-lao;
+}
+
+@font-face {
+    font-family: notoui-sans-lao;
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+    src: url("/notoui-sans-lao/NotoSansLaoUI-SemiCondensedThin.woff2") format("woff2"),
+         url("/notoui-sans-lao/NotoSansLaoUI-SemiCondensedThin.woff") format("woff");
+}
+
+.font-laoo {
+    font-family: notoui-sans-lao;
+}
+
+@font-face {
+    font-family: notoui-sans-lao;
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+    src: url("/notoui-sans-lao/NotoSansLaoUI-Thin.woff2") format("woff2"),
+         url("/notoui-sans-lao/NotoSansLaoUI-Thin.woff") format("woff");
+}
+
+.font-laoo {
+    font-family: notoui-sans-lao;
+}

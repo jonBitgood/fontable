@@ -1,0 +1,468 @@
+
+@font-face {
+    font-family: noto-serif-lao;
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-lao/NotoSerifLao-Black.woff2") format("woff2"),
+         url("/noto-serif-lao/NotoSerifLao-Black.woff") format("woff");
+}
+
+.font-laoo {
+    font-family: noto-serif-lao;
+}
+
+@font-face {
+    font-family: noto-serif-lao;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-lao/NotoSerifLao-Bold.woff2") format("woff2"),
+         url("/noto-serif-lao/NotoSerifLao-Bold.woff") format("woff");
+}
+
+.font-laoo {
+    font-family: noto-serif-lao;
+}
+
+@font-face {
+    font-family: noto-serif-lao;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-lao/NotoSerifLao-Condensed.woff2") format("woff2"),
+         url("/noto-serif-lao/NotoSerifLao-Condensed.woff") format("woff");
+}
+
+.font-laoo {
+    font-family: noto-serif-lao;
+}
+
+@font-face {
+    font-family: noto-serif-lao;
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-lao/NotoSerifLao-CondensedBlack.woff2") format("woff2"),
+         url("/noto-serif-lao/NotoSerifLao-CondensedBlack.woff") format("woff");
+}
+
+.font-laoo {
+    font-family: noto-serif-lao;
+}
+
+@font-face {
+    font-family: noto-serif-lao;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-lao/NotoSerifLao-CondensedBold.woff2") format("woff2"),
+         url("/noto-serif-lao/NotoSerifLao-CondensedBold.woff") format("woff");
+}
+
+.font-laoo {
+    font-family: noto-serif-lao;
+}
+
+@font-face {
+    font-family: noto-serif-lao;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-lao/NotoSerifLao-CondensedExtraBold.woff2") format("woff2"),
+         url("/noto-serif-lao/NotoSerifLao-CondensedExtraBold.woff") format("woff");
+}
+
+.font-laoo {
+    font-family: noto-serif-lao;
+}
+
+@font-face {
+    font-family: noto-serif-lao;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-lao/NotoSerifLao-CondensedExtraLight.woff2") format("woff2"),
+         url("/noto-serif-lao/NotoSerifLao-CondensedExtraLight.woff") format("woff");
+}
+
+.font-laoo {
+    font-family: noto-serif-lao;
+}
+
+@font-face {
+    font-family: noto-serif-lao;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-lao/NotoSerifLao-CondensedLight.woff2") format("woff2"),
+         url("/noto-serif-lao/NotoSerifLao-CondensedLight.woff") format("woff");
+}
+
+.font-laoo {
+    font-family: noto-serif-lao;
+}
+
+@font-face {
+    font-family: noto-serif-lao;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-lao/NotoSerifLao-CondensedMedium.woff2") format("woff2"),
+         url("/noto-serif-lao/NotoSerifLao-CondensedMedium.woff") format("woff");
+}
+
+.font-laoo {
+    font-family: noto-serif-lao;
+}
+
+@font-face {
+    font-family: noto-serif-lao;
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-lao/NotoSerifLao-CondensedSemiBold.woff2") format("woff2"),
+         url("/noto-serif-lao/NotoSerifLao-CondensedSemiBold.woff") format("woff");
+}
+
+.font-laoo {
+    font-family: noto-serif-lao;
+}
+
+@font-face {
+    font-family: noto-serif-lao;
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-lao/NotoSerifLao-CondensedThin.woff2") format("woff2"),
+         url("/noto-serif-lao/NotoSerifLao-CondensedThin.woff") format("woff");
+}
+
+.font-laoo {
+    font-family: noto-serif-lao;
+}
+
+@font-face {
+    font-family: noto-serif-lao;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-lao/NotoSerifLao-ExtraBold.woff2") format("woff2"),
+         url("/noto-serif-lao/NotoSerifLao-ExtraBold.woff") format("woff");
+}
+
+.font-laoo {
+    font-family: noto-serif-lao;
+}
+
+@font-face {
+    font-family: noto-serif-lao;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-lao/NotoSerifLao-ExtraCondensed.woff2") format("woff2"),
+         url("/noto-serif-lao/NotoSerifLao-ExtraCondensed.woff") format("woff");
+}
+
+.font-laoo {
+    font-family: noto-serif-lao;
+}
+
+@font-face {
+    font-family: noto-serif-lao;
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-lao/NotoSerifLao-ExtraCondensedBlack.woff2") format("woff2"),
+         url("/noto-serif-lao/NotoSerifLao-ExtraCondensedBlack.woff") format("woff");
+}
+
+.font-laoo {
+    font-family: noto-serif-lao;
+}
+
+@font-face {
+    font-family: noto-serif-lao;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-lao/NotoSerifLao-ExtraCondensedBold.woff2") format("woff2"),
+         url("/noto-serif-lao/NotoSerifLao-ExtraCondensedBold.woff") format("woff");
+}
+
+.font-laoo {
+    font-family: noto-serif-lao;
+}
+
+@font-face {
+    font-family: noto-serif-lao;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-lao/NotoSerifLao-ExtraCondensedExtraBold.woff2") format("woff2"),
+         url("/noto-serif-lao/NotoSerifLao-ExtraCondensedExtraBold.woff") format("woff");
+}
+
+.font-laoo {
+    font-family: noto-serif-lao;
+}
+
+@font-face {
+    font-family: noto-serif-lao;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-lao/NotoSerifLao-ExtraCondensedExtraLight.woff2") format("woff2"),
+         url("/noto-serif-lao/NotoSerifLao-ExtraCondensedExtraLight.woff") format("woff");
+}
+
+.font-laoo {
+    font-family: noto-serif-lao;
+}
+
+@font-face {
+    font-family: noto-serif-lao;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-lao/NotoSerifLao-ExtraCondensedLight.woff2") format("woff2"),
+         url("/noto-serif-lao/NotoSerifLao-ExtraCondensedLight.woff") format("woff");
+}
+
+.font-laoo {
+    font-family: noto-serif-lao;
+}
+
+@font-face {
+    font-family: noto-serif-lao;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-lao/NotoSerifLao-ExtraCondensedMedium.woff2") format("woff2"),
+         url("/noto-serif-lao/NotoSerifLao-ExtraCondensedMedium.woff") format("woff");
+}
+
+.font-laoo {
+    font-family: noto-serif-lao;
+}
+
+@font-face {
+    font-family: noto-serif-lao;
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-lao/NotoSerifLao-ExtraCondensedSemiBold.woff2") format("woff2"),
+         url("/noto-serif-lao/NotoSerifLao-ExtraCondensedSemiBold.woff") format("woff");
+}
+
+.font-laoo {
+    font-family: noto-serif-lao;
+}
+
+@font-face {
+    font-family: noto-serif-lao;
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-lao/NotoSerifLao-ExtraCondensedThin.woff2") format("woff2"),
+         url("/noto-serif-lao/NotoSerifLao-ExtraCondensedThin.woff") format("woff");
+}
+
+.font-laoo {
+    font-family: noto-serif-lao;
+}
+
+@font-face {
+    font-family: noto-serif-lao;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-lao/NotoSerifLao-ExtraLight.woff2") format("woff2"),
+         url("/noto-serif-lao/NotoSerifLao-ExtraLight.woff") format("woff");
+}
+
+.font-laoo {
+    font-family: noto-serif-lao;
+}
+
+@font-face {
+    font-family: noto-serif-lao;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-lao/NotoSerifLao-Light.woff2") format("woff2"),
+         url("/noto-serif-lao/NotoSerifLao-Light.woff") format("woff");
+}
+
+.font-laoo {
+    font-family: noto-serif-lao;
+}
+
+@font-face {
+    font-family: noto-serif-lao;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-lao/NotoSerifLao-Medium.woff2") format("woff2"),
+         url("/noto-serif-lao/NotoSerifLao-Medium.woff") format("woff");
+}
+
+.font-laoo {
+    font-family: noto-serif-lao;
+}
+
+@font-face {
+    font-family: noto-serif-lao;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-lao/NotoSerifLao-Regular.woff2") format("woff2"),
+         url("/noto-serif-lao/NotoSerifLao-Regular.woff") format("woff");
+}
+
+.font-laoo {
+    font-family: noto-serif-lao;
+}
+
+@font-face {
+    font-family: noto-serif-lao;
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-lao/NotoSerifLao-SemiBold.woff2") format("woff2"),
+         url("/noto-serif-lao/NotoSerifLao-SemiBold.woff") format("woff");
+}
+
+.font-laoo {
+    font-family: noto-serif-lao;
+}
+
+@font-face {
+    font-family: noto-serif-lao;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-lao/NotoSerifLao-SemiCondensed.woff2") format("woff2"),
+         url("/noto-serif-lao/NotoSerifLao-SemiCondensed.woff") format("woff");
+}
+
+.font-laoo {
+    font-family: noto-serif-lao;
+}
+
+@font-face {
+    font-family: noto-serif-lao;
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-lao/NotoSerifLao-SemiCondensedBlack.woff2") format("woff2"),
+         url("/noto-serif-lao/NotoSerifLao-SemiCondensedBlack.woff") format("woff");
+}
+
+.font-laoo {
+    font-family: noto-serif-lao;
+}
+
+@font-face {
+    font-family: noto-serif-lao;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-lao/NotoSerifLao-SemiCondensedBold.woff2") format("woff2"),
+         url("/noto-serif-lao/NotoSerifLao-SemiCondensedBold.woff") format("woff");
+}
+
+.font-laoo {
+    font-family: noto-serif-lao;
+}
+
+@font-face {
+    font-family: noto-serif-lao;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-lao/NotoSerifLao-SemiCondensedExtraBold.woff2") format("woff2"),
+         url("/noto-serif-lao/NotoSerifLao-SemiCondensedExtraBold.woff") format("woff");
+}
+
+.font-laoo {
+    font-family: noto-serif-lao;
+}
+
+@font-face {
+    font-family: noto-serif-lao;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-lao/NotoSerifLao-SemiCondensedExtraLight.woff2") format("woff2"),
+         url("/noto-serif-lao/NotoSerifLao-SemiCondensedExtraLight.woff") format("woff");
+}
+
+.font-laoo {
+    font-family: noto-serif-lao;
+}
+
+@font-face {
+    font-family: noto-serif-lao;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-lao/NotoSerifLao-SemiCondensedLight.woff2") format("woff2"),
+         url("/noto-serif-lao/NotoSerifLao-SemiCondensedLight.woff") format("woff");
+}
+
+.font-laoo {
+    font-family: noto-serif-lao;
+}
+
+@font-face {
+    font-family: noto-serif-lao;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-lao/NotoSerifLao-SemiCondensedMedium.woff2") format("woff2"),
+         url("/noto-serif-lao/NotoSerifLao-SemiCondensedMedium.woff") format("woff");
+}
+
+.font-laoo {
+    font-family: noto-serif-lao;
+}
+
+@font-face {
+    font-family: noto-serif-lao;
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-lao/NotoSerifLao-SemiCondensedSemiBold.woff2") format("woff2"),
+         url("/noto-serif-lao/NotoSerifLao-SemiCondensedSemiBold.woff") format("woff");
+}
+
+.font-laoo {
+    font-family: noto-serif-lao;
+}
+
+@font-face {
+    font-family: noto-serif-lao;
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-lao/NotoSerifLao-SemiCondensedThin.woff2") format("woff2"),
+         url("/noto-serif-lao/NotoSerifLao-SemiCondensedThin.woff") format("woff");
+}
+
+.font-laoo {
+    font-family: noto-serif-lao;
+}
+
+@font-face {
+    font-family: noto-serif-lao;
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+    src: url("/noto-serif-lao/NotoSerifLao-Thin.woff2") format("woff2"),
+         url("/noto-serif-lao/NotoSerifLao-Thin.woff") format("woff");
+}
+
+.font-laoo {
+    font-family: noto-serif-lao;
+}
